@@ -1,0 +1,13 @@
+EXERCÍCIO 
+3- Escolha uma base de dados pública e:
+a- Redija um comentário sobre a importância da análise de dados da base que
+você escolheu. Exemplo: uma base de dados sobre imigração. Analisar dados
+sobre imigração pode ter importância para estudar e entender melhor impactos
+socioeconômicos, direcionar políticas públicas, etc.
+
+b- Faça a limpeza de dados e uma Análise Estatística Descritiva com seus
+respectivos gráficos.
+
+ATENÇÃO: faça este exercício implementando um notebook Python, inserindo nele
+NECESSÁRIAMENTE, o link da base de dados pública utilizada. Em seguida, insira o
+comentário solicitado no item A seguido da limpeza dos dados solicitada no item B.
