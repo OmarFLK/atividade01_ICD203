@@ -65,32 +65,29 @@ A atividade foi desenvolvida utilizando Python e bibliotecas voltadas para anál
 
 ---
 
-# 📈 Exercício 3 — Análise de uma Base de Dados Pública
+# 📈 Exercício 3 — Análise de Pesquisas Eleitorais
 
-No terceiro exercício, foi escolhida uma **base de dados pública** para realizar uma análise utilizando Python.
+O terceiro exercício analisa **pesquisas eleitorais públicas** e compara as estimativas publicadas com resultados reais. O trabalho também examina os registros brasileiros do TSE e apresenta, separadamente, um cenário eleitoral nacional de 2026.
 
-O exercício foi dividido em duas etapas.
+### Bases utilizadas
 
-### A) Importância da análise
+* TSE/PesqEle: registros de pesquisas de 2014, 2018, 2022 e 2026;
+* FiveThirtyEight: pesquisas presidenciais históricas dos Estados Unidos e avaliação dos institutos;
+* AtlasIntel/Bloomberg: cenário brasileiro de julho de 2026;
+* resultados eleitorais oficiais usados como referência na comparação histórica.
 
-Foi desenvolvido um comentário sobre a importância da análise da base escolhida, considerando o contexto dos dados e a relevância das informações para compreender o problema estudado.
+### Etapas realizadas
 
-O notebook apresenta o **link da base de dados pública utilizada**, conforme solicitado no enunciado.
+* preservação das bases originais em `data/raw`;
+* limpeza, padronização e tratamento dos dados em `data/processed`;
+* análise de valores ausentes, duplicatas, amostras, custos e metodologias;
+* cálculo do erro assinado, erro absoluto, MAE e RMSE;
+* comparação entre institutos, anos e distância até a eleição;
+* construção de tabelas e gráficos estatísticos;
+* geração das tabelas finais em `data/final`;
+* documentação das fontes, limitações e critérios da análise.
 
-### B) Limpeza e Análise Estatística Descritiva
-
-Após a apresentação da importância da base, foram realizadas as seguintes etapas:
-
-* Exploração inicial dos dados;
-* Identificação de valores ausentes;
-* Verificação dos tipos das variáveis;
-* Tratamento de dados inconsistentes;
-* Limpeza dos dados;
-* Análise estatística descritiva;
-* Cálculo de medidas estatísticas;
-* Construção de gráficos;
-* Análise da distribuição dos dados;
-* Interpretação dos resultados encontrados.
+O notebook, os datasets e a documentação estão em [`aula01/exercicio03`](aula01/exercicio03/README.md). Os relatórios em PDF são mantidos somente como referências locais e não fazem parte do repositório.
 
 ---
 

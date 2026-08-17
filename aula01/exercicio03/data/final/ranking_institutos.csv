@@ -1,0 +1,5 @@
+pollster,numero_eleicoes,erro_medio_margem,tendencia_margem,desvio_erro_margem,taxa_acerto_vencedor
+AtlasIntel,10,2.04,0.37,1.33,60.0
+Marist,28,4.42,2.19,3.18,67.86
+Ipsos,60,5.23,2.65,4.04,85.0
+YouGov,97,5.33,2.52,4.35,87.63

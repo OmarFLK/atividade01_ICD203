@@ -1,0 +1,195 @@
+{
+  "project": "historical_poll_accuracy_and_brazil_2026",
+  "scope": {
+    "pollsters_focus": [
+      "AtlasIntel",
+      "Ipsos",
+      "YouGov",
+      "Marist",
+      "IBOPE/Ipec"
+    ],
+    "historical_elections": {
+      "Brazil": [
+        2010,
+        2014,
+        2018,
+        2022
+      ],
+      "United Kingdom": [
+        2010,
+        2015,
+        2017,
+        2019,
+        2024
+      ],
+      "United States": [
+        2012,
+        2016,
+        2020,
+        2024
+      ],
+      "France": [
+        2012,
+        2017,
+        2022
+      ],
+      "Argentina": [
+        2023
+      ]
+    },
+    "current_extension": "Brazil presidential polling in 2026"
+  },
+  "poll_datasets_structured": {
+    "Brazil_TSE_PesqEle": {
+      "description": "Official TSE public poll-registration datasets. Useful for institute, dates, geography, sample/methodology metadata, contractors, payers and questionnaires. Poll percentages may need to be extracted from published poll reports/questionnaires or pollster releases.",
+      "landing_pages": {
+        "2012": "https://dadosabertos.tse.jus.br/pt_BR/dataset/pesquisas-eleitorais-2012",
+        "2014": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2014",
+        "2016": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2016",
+        "2018": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2018",
+        "2020": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2020",
+        "2022": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2022",
+        "2024": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2024",
+        "2026": "https://dadosabertos.tse.jus.br/dataset/pesquisas-eleitorais-2026"
+      },
+      "direct_poll_registration_zips": {
+        "2012": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2012.zip",
+        "2014": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2014.zip",
+        "2016": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2016.zip",
+        "2018": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2018.zip",
+        "2020": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2020.zip",
+        "2022": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2022.zip",
+        "2024": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2024.zip",
+        "2026": "https://cdn.tse.jus.br/estatistica/sead/odsele/pesquisa_eleitoral/pesquisa_eleitoral_2026.zip"
+      }
+    },
+    "United_States_FiveThirtyEight": {
+      "description": "Poll-level US presidential data. Filter pollster names for AtlasIntel, YouGov, Marist and Ipsos/Reuters where available.",
+      "historical_presidential_polls_csv": "https://projects.fivethirtyeight.com/polls-page/data/president_polls_historical.csv",
+      "current_presidential_polls_csv": "https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv",
+      "documentation": "https://github.com/fivethirtyeight/data/blob/master/polls/README.md"
+    },
+    "Europe_Europepolls": {
+      "description": "Open standardized country-level historical voting-intention dataset. Use mainly for UK and France through 2022, then validate selected final polls against original pollster pages. Raw source was mined from Wikipedia, so it is a convenience dataset rather than primary provenance.",
+      "project": "https://www.konstantinos-pitas.com/projects/2_project/",
+      "paper": "https://arxiv.org/abs/2307.10022",
+      "archived_release": "https://zenodo.org/records/8037856"
+    }
+  },
+  "pollster_primary_archives": {
+    "AtlasIntel": {
+      "general_release_polls": "https://www.atlasintel.org/polls/general-release-polls",
+      "exclusive_polls": "https://www.atlasintel.org/polls/exclusive-polls",
+      "latam_pulse": "https://www.atlasintel.org/polls/latam-pulse",
+      "Brazil_2022_example": "https://atlasintel.org/poll/brazil-national-2022-10-24",
+      "Argentina_2023_example": "https://www.atlasintel.org/poll/argentina-national-2023-11-10"
+    },
+    "Ipsos": {
+      "UK_political_monitor_archive": "https://www.ipsos.com/en-uk/political-monitor-archive",
+      "UK_opinion_polls": "https://www.ipsos.com/en-uk/uk-opinion-polls"
+    },
+    "YouGov": {
+      "UK_politics": "https://yougov.co.uk/politics",
+      "2010_final_example": "https://yougov.co.uk/politics/articles/682-eve-election-predictions",
+      "2015_postmortem_example": "https://yougov.co.uk/politics/articles/14102-analysis-what-went-wrong-our-ge15-polling-and-what",
+      "2017_final_example": "https://yougov.co.uk/politics/articles/18339-final-call-poll-tories-seven-points-and-set-increa",
+      "2024_final_example": "https://yougov.co.uk/politics/articles/49950-final-yougov-mrp-shows-labour-on-course-for-historic-election-victory"
+    },
+    "Marist": {
+      "latest_polls_archive": "https://maristpoll.marist.edu/latest-polls/",
+      "2016_final_example": "https://maristpoll.marist.edu/polls/115-final-push-clinton-and-trump-close-nationally/",
+      "2020_example": "https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-poll-results-analysis-october-2020/",
+      "2024_final_example": "https://maristpoll.marist.edu/polls/u-s-presidential-contest-november-2024/"
+    },
+    "IBOPE_Ipec": {
+      "description": "For Brazil, identify IBOPE/Ipec registrations and metadata in TSE PesqEle. Poll percentages will be joined from published reports/questionnaires and archived releases. TSE's structured registration file is the stable public starting point."
+    }
+  },
+  "official_election_results": {
+    "Brazil_TSE": {
+      "2010": "https://dadosabertos.tse.jus.br/dataset/resultados-2010",
+      "2014": "https://dadosabertos.tse.jus.br/dataset/resultados-2014",
+      "2018": "https://dadosabertos.tse.jus.br/dataset/resultados-2018",
+      "2022": "https://dadosabertos.tse.jus.br/dataset/resultados-2022",
+      "2022_president_1st_round_zip": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2022/Historico_Totalizacao_Presidente_BR_1T_2022.zip",
+      "2022_president_2nd_round_zip": "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2022/Historico_Totalizacao_Presidente_BR_2T_2022.zip"
+    },
+    "United_States": {
+      "MIT_Election_Lab_data": "https://electionlab.mit.edu/data",
+      "MIT_Harvard_Dataverse_US_President_1976_2024": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX",
+      "FEC_results_landing": "https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/",
+      "FEC_2024_presidential_results_xlsx": "https://www.fec.gov/documents/5645/2024presgeresults.xlsx"
+    },
+    "United_Kingdom": {
+      "historical_1918_2019": "https://commonslibrary.parliament.uk/research-briefings/cbp-8647/",
+      "2024": "https://commonslibrary.parliament.uk/research-briefings/cbp-10009/",
+      "2019": "https://commonslibrary.parliament.uk/research-briefings/cbp-8749/",
+      "2017": "https://commonslibrary.parliament.uk/research-briefings/cbp-7979/",
+      "2015": "https://commonslibrary.parliament.uk/research-briefings/cbp-7186/"
+    },
+    "France": {
+      "official_election_data_landing": "https://www.data.gouv.fr/elections",
+      "Ministry_historical_results": "https://www.elections.interieur.gouv.fr/resultats-de-toutes-elections",
+      "aggregated_election_data": "https://www.data.gouv.fr/datasets/donnees-des-elections-agregees",
+      "presidential_1965_2012": "https://www.data.gouv.fr/datasets/elections-presidentielles-1965-2012-1",
+      "presidential_2017_first_round": "https://www.data.gouv.fr/datasets/election-presidentielle-des-23-avril-et-7-mai-2017-resultats-du-1er-tour"
+    },
+    "Argentina": {
+      "DINE_results_landing": "https://www.argentina.gob.ar/dine/resultados-electorales",
+      "Datos_Argentina_DINE": "https://datos.gob.ar/dataset?organization=dine",
+      "2023_provisional_results": "https://datos.gob.ar/dataset/dine-resultados-provisionales-elecciones-2023"
+    }
+  },
+  "planned_output_tables": {
+    "polls_clean": [
+      "poll_id",
+      "country",
+      "year",
+      "election",
+      "round",
+      "pollster",
+      "commissioner",
+      "fieldwork_start",
+      "fieldwork_end",
+      "days_to_election",
+      "sample_size",
+      "methodology",
+      "candidate",
+      "poll_pct",
+      "source_url"
+    ],
+    "results_clean": [
+      "country",
+      "year",
+      "election",
+      "round",
+      "candidate",
+      "actual_pct",
+      "official_source_url"
+    ],
+    "poll_accuracy": [
+      "poll_id",
+      "country",
+      "year",
+      "round",
+      "pollster",
+      "candidate",
+      "poll_pct",
+      "actual_pct",
+      "signed_error",
+      "absolute_error",
+      "within_declared_margin",
+      "winner_correct",
+      "days_to_election"
+    ]
+  },
+  "important_notes": [
+    "Do not treat a poll's vote-share estimate as a probability of victory unless the source explicitly publishes a probability model.",
+    "Use the final poll before each election for the cleanest pollster-vs-result comparison; keep all polls separately for trend/house-effect analyses.",
+    "Do not infer bias/manipulation from who commissioned a poll. Keep commissioner as a variable and test empirically.",
+    "TSE PesqEle public polling datasets start in 2012, so Brazilian 2010 poll values require separate historical/manual sourcing.",
+    "Europepolls is a secondary aggregator whose raw data was mined from Wikipedia; validate final selected rows against original pollster publications.",
+    "For US national presidential polls compare against national popular-vote share, not Electoral College winner.",
+    "For Brazil 2026, use TSE 2026 as the registry backbone and pollster releases for actual candidate percentages."
+  ]
+}

@@ -1,0 +1,1341 @@
+"DT_GERACAO";"HH_GERACAO";"AA_ELEICAO";"CD_ELEICAO";"NM_ELEICAO";"SG_UF";"SG_UE";"NM_UE";"NR_PROTOCOLO_REGISTRO";"DT_REGISTRO";"ST_PESQUISA_PROPRIA";"NR_CNPJ_EMPRESA";"NM_EMPRESA";"NM_EMPRESA_FANTASIA";"DS_CARGO";"DT_INICIO_PESQUISA";"DT_FIM_PESQUISA";"QT_ENTREVISTADO";"CD_CONRE";"NM_ESTATISTICO_RESP";"VR_PESQUISA";"DS_METODOLOGIA_PESQUISA";"DS_PLANO_AMOSTRAL";"DS_SISTEMA_CONTROLE";"DS_DADO_MUNICIPIO"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000232014";"2014-07-25 00:00:00";"#NE";"15484760000199";"GK DE OLIVEIRA PRODUÇÕES ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-07-17 00:00:00";"2014-07-22 00:00:00";1020;"8631";"Alexandre Vasconcelos Lima";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto ao público-alvo do estudo (eleitores evangélicos). A pesquisa foi realizada em diversas Igrejas Evangélicas do Distrito Federal.";"- Definição da Amostra:
+• Filtro: ser residente no Distrito Federal, evangélico e estar em condições do exercício de voto.
+• Entrevistas: Ambos os sexos, uniresidencias, por sorteio de quadras e domicílios.
+• A seleção do eleitor é acidental, de acordo com as cotas de ponderação segundo sexo, idade, grau de instrução, nível socioeconômico e distribuição geográfica (igrejas evangélicas de todas as Regiões Administrativas do DF).
+• Entrevistas estratificadas, urbanas/rurais, com a amostragem probabilística para todos os setores censitários – TER-DF/IBGE.
+- Variáveis de ponderação da amostra:
+• Sexo:
+a) Masculino
+b) Feminino
+• Faixas etárias:
+a) De 16 a 17 anos		b) De 18 a 20 anos		c) De 21 a 24 anos
+d) De 25 a 34 anos		e) De 35 a 44 anos		f) De 45 a 59 anos
+g) De 60 a 69 anos		h) De 70 a 79 anos
+• Instrução do Eleitor:
+a) Não informado		b) Analfabeto			c) Lê e escreve
+d) Ensino fundamental incompleto	
+e) Ensino fundamental completo
+f) Médio incompleto		g) Médio completo			
+h) Superior incompleto	i) Superior completo
+• Nível Socioeconômico: 
+a) Até 1 SM		b) 2 SM		c)3 a 5 SM
+d) 6 a 10 SM		e) Acima de 10 SM
+- Metodologia
+a) Margem de erro = 3,1% para mais ou para menos
+b) Nível de confiança = 95%
+c) Amostra: 1.020 questionários
+";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados.
+Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas (questionários distribuídos também nas igrejas evangélicas do DF).
+";"Pesquisa realizada em diversas denominações da Igreja Evangélica do Distrito Federal, nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte; Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Granja do Torto; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sudoeste/Octagonal; Taguatinga Norte e Sul; Varjão; Vicente Pires; Vila Planalto;  quando foram ouvidos 1020 (mil e vinte) eleitores."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000742014";"2014-09-29 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-10-03 00:00:00";"2014-10-04 00:00:00";1500;"72.49A";"Renata Nunes César";"171300,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1.500 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000082014";"2014-04-28 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-04-26 00:00:00";"2014-05-03 00:00:00";3000;"9403 conre 1";"Luciana Guedes da Silva";"26000,00";" Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% Intervalo de confiança: 95% Margem de erro: 1,8% 
+";" O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. 
+";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% 
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000332014";"2014-08-20 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Senador";"2014-08-21 00:00:00";"2014-08-23 00:00:00";1510;"7439 / 6ª Região";"Leonard Mendonça de Assis";"57000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado";"a) Público pesquisado: 
+Eleitores residentes e inscritos para votar no Distrito Federal
+b) Área física:
+ Perímetro urbano do Distrito Federal
+ 
+c) tipo de amostra:
+A amostragem será realizada da seguinte forma:
+1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico
+2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 
+3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes
+4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano
+5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares
+
+d)Ponderação:
+Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir:
+
+SEXO:
+FEMININO 53,6% / MASCULINO 46,4%
+
+Idade
+ FEMININO 	 16 A 24 ANOS 	15,10%
+ FEMININO 	 25 A 34 ANOS 	26,69%
+ FEMININO 	 35 A 44 ANOS 	22,72%
+ FEMININO 	 45 A 59 ANOS 	22,83%
+ MASCULINO 	 16 A 24 ANOS 	16,67%
+ MASCULINO 	 25 A 34 ANOS 	26,86%
+ MASCULINO 	 35 A 44 ANOS 	22,90%
+ MASCULINO 	 45 A 59 ANOS 	22,12%
+ MASCULINO 	 60 ANOS OU MAIS 	11,46%
+
+Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir:
+Nível Econômico
+FEMININO	Não PEA	42,99%
+FEMININO	PEA	57,01%
+MASCULINO	Não PEA	29,84%
+MASCULINO	PEA	70,16%
+ 
+Nível de Instrução
+FEMININO	Analfabeto até Ensino Médio incompleto	45,35%
+FEMININO	Ensino médio completo, superior ou mais	54,65%
+MASCULINO	Analfabeto até Ensino Médio incompleto	48,48%
+MASCULINO	Ensino médio completo, superior ou mais	51,52%
+
+e) Intervalo de Confiança/Margem de Erro:
+Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,52 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. 
+";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000592014";"2014-09-22 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-22 00:00:00";"2014-09-27 00:00:00";3000;"9403 CONRE 1";"Luciana Guedes da Silva";"20000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES.";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas 4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança: 95% Margem de erro: 1,8%";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga 7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000702014";"2014-09-29 00:00:00";"#NE";"10275628000153";"Axiomas Brasil Pesquisas, Cursos e Consultoria LTDA ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-25 00:00:00";"2014-10-04 00:00:00";2000;"8984";"Frederico Lara de Souza";"10000,00";" A realização das entrevistas pessoais com a população eleitoral do Distrito Federal, será feito em primeiro momento em locais com maior circulação de pessoas, orientados pela supervisão. Posteriormente serão distribuídos os pesquisadores em todo o Distrito Federal, abrangendo as 31 regiões administrativas. O questionário é todo estruturado, contendo perguntas abertas e fechadas. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim. A coleta dos dados será feito por Tablets da marca Samsung Galaxy 2. Quando a pesquisa é finalizada todos os dados são enviados online para o servidor. ";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida. INTERVALO DE CONFIANÇA: 95% MARGEM DE ERRO: 2,83.";"O controle interno do projeto é executado por coordenador de pesquisa devidamente treinado para este fim que definirá toda a estratégica em campo e que acompanhará a coerência dos dados coletadas. Toda coleta em campo haverá 1 (um) supervisor que acompanhará todos os entrevistadores. A verificação da veracidade dos dados é feita à base de 40% da coleta de cada entrevistador. ";"Pesquisa será realizada inicialmente na parte central de Brasília, posteriormente em todas as cidades Administrativas do Distrito Federal. "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000792014";"2014-10-06 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador";"2014-10-10 00:00:00";"2014-10-12 00:00:00";2000;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"METODOLOGIA POR COTAS COM DISTRIBUIÇÃO AUTO PONDERADA COM BASE NOS NÚMEROS DO TSE, IBGE E DE UM LEVANTAMENTO PRÓPRIO LPE.";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+MARGEM DE ERRO DE 2% E INTERVALO DE CONFIANÇA DE 95%.";"CHECAGEM, VERIFICAÇÃO E FISCALIZAÇÃO DE 100% DA COLETA, ON LINE COM SISTEMA GPS INTEGRADO. 100% A PROVA DE FRAUDES.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000662014";"2014-09-27 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-30 00:00:00";"2014-10-02 00:00:00";2203;"7439 / 6ª Região";"Leonard Mendonça de Assis";"75000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do DF ";"a) Público pesquisado: Eleitores residentes e inscritos para votar no Distrito Federal b) Área física: Perímetro urbano do Distrito Federal c) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes 4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano 5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares d)Ponderação: Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir: SEXO: FEMININO 53,6% / MASCULINO 46,4% Idade FEMININO 16 A 24 ANOS 15,10% FEMININO 25 A 34 ANOS 26,69% FEMININO 35 A 44 ANOS 22,72% FEMININO 45 A 59 ANOS 22,83% MASCULINO 16 A 24 ANOS 16,67% MASCULINO 25 A 34 ANOS 26,86% MASCULINO 35 A 44 ANOS 22,90% MASCULINO 45 A 59 ANOS 22,12% MASCULINO 60 ANOS OU MAIS 11,46% Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir: Nível Econômico FEMININO Não PEA 42,99% FEMININO PEA 57,01% MASCULINO Não PEA 29,84% MASCULINO PEA 70,16% Nível de Instrução FEMININO Analfabeto até Ensino Médio incompleto 45,35% FEMININO Ensino médio completo, superior ou mais 54,65% MASCULINO Analfabeto até Ensino Médio incompleto 48,48% MASCULINO Ensino médio completo, superior ou mais 51,52% e) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,1 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.
+";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000762014";"2014-10-03 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador";"2014-10-06 00:00:00";"2014-10-08 00:00:00";2203;"7439 / 6ª Região";"Leonard Mendonça de Assis";"75000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do DF ";"	a) Público pesquisado: Eleitores residentes e inscritos para votar no Distrito Federal b) Área física: Perímetro urbano do Distrito Federal c) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes 4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano 5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares d)Ponderação: Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir: SEXO: FEMININO 53,6% / MASCULINO 46,4% Idade FEMININO 16 A 24 ANOS 15,10% FEMININO 25 A 34 ANOS 26,69% FEMININO 35 A 44 ANOS 22,72% FEMININO 45 A 59 ANOS 22,83% MASCULINO 16 A 24 ANOS 16,67% MASCULINO 25 A 34 ANOS 26,86% MASCULINO 35 A 44 ANOS 22,90% MASCULINO 45 A 59 ANOS 22,12% MASCULINO 60 ANOS OU MAIS 11,46% Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir: Nível Econômico FEMININO Não PEA 42,99% FEMININO PEA 57,01% MASCULINO Não PEA 29,84% MASCULINO PEA 70,16% Nível de Instrução FEMININO Analfabeto até Ensino Médio incompleto 45,35% FEMININO Ensino médio completo, superior ou mais 54,65% MASCULINO Analfabeto até Ensino Médio incompleto 48,48% MASCULINO Ensino médio completo, superior ou mais 51,52% e) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,1 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000842014";"2014-10-13 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador";"2014-10-16 00:00:00";"2014-10-18 00:00:00";2000;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"Metodologia por cotas com amostra auto ponderada com distribuição proporcional aos dados do TSE,IBGE e de um levantamento próprio LPE.";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+MARGEM DE ERRO DE 2% E INTERVALO DE CONFIANÇA DE 95%";"FISCALIZAÇÃO, CHECAGEM E CONTROLE EM 100% DA COLETA QUE É REALIZADA ON LINE COM LOCALIZAÇÃO GEOGRÁFICA VIA GPS 100% A PROVA DE FRAUDES.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - EXPANSÃO
+CEILÂNDIA - GUARIROBA
+CEILÂNDIA - NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - QNQ
+CEILÂNDIA - QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA - SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA - CENTRO
+GAMA - LESTE
+GAMA - NORTE
+GAMA - OESTE
+GAMA - SUL
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000852014";"2014-10-16 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador";"2014-10-16 00:00:00";"2014-10-21 00:00:00";2002;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000622014";"2014-09-26 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador, Senador";"2014-09-27 00:00:00";"2014-09-30 00:00:00";1000;"8254";"Leonardo Fabio Costa Filho";"30000,00";"Metodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática. ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança é de 95% a margem de erro é de 3.09% ";"O Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% dos questionarios aplicados 
+";"PP (ASA SUL) PP (ASA NORTE) LAGO SUL LAGO NORTE GUARÁ SUDOESTE/OCT CRUZEIRO TAGUATINGA NORTE TAGUATINGA SUL CEILÂNDIA NORTE CEILÂNDIA SUL CEILÂNDIA CENTRO (16 Zona) AGUAS CLARAS N. BANDEIRANTE PARK WAY SOBRADINHO I SOBRADINHO II PLANALTINA BRAZLÂNDIA GAMA LESTE GAMA PARANOÁ SÃO SEBASTIÃO SANTA MARIA RIACHO FUNDO I RIACHO FUNDO II CANDANGOLÂNDIA VARJÃO SAMAMBAIA REC. DAS EMAS ESTRUTURAL ITAPOÃ VICENTE PIRES POR DO SOL E SOL NASCENTE 
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000692014";"2014-09-29 00:00:00";"#NE";"10275628000153";"Axiomas Brasil Pesquisas, Cursos e Consultoria LTDA ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-10-05 00:00:00";"2014-10-05 00:00:00";2000;"8984";"Frederico Lara de Souza";"8000,00";"A realização das entrevistas pessoais com a população eleitoral do Distrito Federal, será feito em primeiro momento em locais com maior circulação de pessoas, orientados pela supervisão. Posteriormente serão distribuídos os pesquisadores em todo o Distrito Federal, abrangendo as 31 regiões administrativas. O questionário é todo estruturado, contendo perguntas abertas e fechadas. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim. A coleta dos dados será feito por Tablets da marca Samsung Galaxy 2. Quando a pesquisa é finalizada todos os dados são enviados online para o servidor. ";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida. INTERVALO DE CONFIANÇA: 95% MARGEM DE ERRO: 2,83. ";"O controle interno do projeto é executado por coordenador de pesquisa devidamente treinado para este fim que definirá toda a estratégica em campo e que acompanhará a coerência dos dados coletadas. Toda coleta em campo haverá 1 (um) supervisor que acompanhará todos os entrevistadores. A verificação da veracidade dos dados é feita à base de 40% da coleta de cada entrevistador. ";"Pesquisa será realizada inicialmente na parte central de Brasília, posteriormente em todas as cidades Administrativas do Distrito Federal."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000122014";"2014-05-27 00:00:00";"#NE";"10275628000153";"Axiomas Brasil Pesquisas, Cursos e Consultoria LTDA ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-05-28 00:00:00";"2014-06-06 00:00:00";3000;"8984";"Frederico Lara de Souza";"15000,00";"A realização das entrevistas pessoais com a população eleitoral do Distrito Federal, será feito em primeiro momento em locais com maior circulação de pessoas, orientados pela supervisão. Posteriormente serão distribuídos os pesquisadores em todo o Distrito Federal, abrangendo as 31 regiões administrativas. O questionário é todo estruturado, contendo perguntas abertas e fechadas. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim. A coleta dos dados será feito por Tablets da marca Samsung Galaxy 2. Quando a pesquisa é finalizada todos os dados são enviados online para o servidor.";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. 
+A pesquisa inicial será realizada no período de 28 de maio até 06 de junho de 2014. •	A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida a quantidade ideal de 2.000(Dois mil) eleitores/domicílios. 
+INTERVALO DE CONFIANÇA: 95% MARGEM DE ERRO: 2,83.";"O controle interno do projeto é executado por coordenador de pesquisa devidamente treinado para este fim que definirá toda a estratégica em campo e que acompanhará a coerência dos dados coletadas. Toda coleta em campo haverá 2 (dois) supervisores que acompanhará todos os entrevistadores. A verificação da veracidade dos dados é feita à base de 35% da coleta de cada entrevistador. ";"Pesquisa será realizada nas seguintes localidades do DF: Águas Claras;Brasília;Brazlândia;Candangolândia; Ceilândia; Cruzeiro; Fercal; Guará; Gama; Itápoã;Jardim Botânico; Núcleo Bandeirante; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; SCIA; Sobradinho I e II; Sudoeste/Octagonal; Taguatinga; Vicente Pires; Varjão. "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000322014";"2014-08-19 00:00:00";"#NE";"04355189000196";"centro automotivo hyllus ltda me";"#NE";"Deputado Federal, Deputado Distrital";"2014-07-28 00:00:00";"2014-08-17 00:00:00";1232;"8957";"HERNAN DE LIMA CUNHA";"1000,00";"Foram aplicados formulários com os nomes dos candidatos que se inscreveram no projeto, a inscrição era obrigatória, sendo que na cédula continha a opção de Deputado Federal e Deputado Distrital, conforme formulário anexo. 
+A pesquisa é direcionada ao público Bombeiro Militar do DF, sendo que, inclusive, os candidatos da corporação que aderiram ao projeto por meio de inscrição, conforme projeto que segue anexo.
+Foram aplicados formulários com os nomes dos candidatos que se inscreveram no projeto, a inscrição era obrigatória, sendo que na cédula continha a opção de Deputado Federal e Deputado Distrital, conforme formulário anexo. 
+A escolha era feita de forma secreta, sendo que o pesquisado contava com um local reservado para a manifestação de sua opinião. Os referidos formulários eram depositados em uma urna lacrada feita de material metálico, sendo ainda lacrada a portinhola de depósito do formulário com quatro cadeado que eram um do fornecido pelo Grupo Ideal Coletivo e mais três do candidatos participantes. 
+A contagem da pesquisa se dará após transcorrido o prazo de que trata a resolução 23.400 do TSE, ou seja, cinco dias após o registro.
+";"A referida pesquisa foi aplicada aos militares do CBMDF, que conta hoje com 8.502 militares, dos quais 2.245 inativos e 6.257 ativos.
+
+Dos militares ativos foram ouvidos 1.175, o que equivale a 18,77%, sendo 3,75% do sexo feminino e 96,25% do sexo masculino.
+
+Sendo ouvidos também dos inativos o total de 57 militares, equivalente a 2,53%, sendo 1,75% do sexo feminino e 98,25% do sexo masculino.
+
+A margem de erro da referida pesquisa é de 2 pontos percentuais para mais ou para menos.
+";"Foram colocados fiscais pelos participantes das pesquisa, onde cada formulário vem assinado por 3 pessoas, sendo ainda carimbado com o logotipo do Grupo Ideal Coletivo.";"Foram ouvidos pessoas em todas as regiões administrativos."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000362014";"2014-08-26 00:00:00";"#NE";"20252668000133";"Instituto ARTHUR OLIVEIRA OLIVEIRA -  M.E";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-08-23 00:00:00";"2014-08-25 00:00:00";1000;"8602";"Diogo de Mello Brito da Silva";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. ";"1. Metodologia:
+a)	Margem de erro = 3.1% para mais ou para menos
+b)	Nível de confiança = 95%
+c)	Amostra: 1.000 questionários
+d)      Variáveis de ponderação da amostra: 
+• Sexo: a) Masculino b) Feminino 
+• Faixas etárias: a) De 16 a 17 anos	b) De 18 a 20 anos	c) De 21 a 24 anos d) De 25 a 34 anos	e) De 35 a 44 anos	f) De 45 a 59 anos g) De 60 a 69 anos	h) De 70 a 79 anos 
+• Instrução do Eleitor: a) Não informado	b) Analfabeto	c) Lê e escreve d) Ensino fundamental incompleto	e) Ensino fundamental completo f) Médio incompleto	g) Médio completo	h) Superior incompleto	i) Superior completo 
+• Nível Socioeconômico: a) Até 1 SM	b) 2 SM	c)3 a 5 SM d) 6 a 10 SM	e) Acima de 10 SM";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados. Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas. ";"Pesquisa realizada no Distrito Federal, nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte; Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Granja do Torto; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sudoeste/Octagonal; Taguatinga Norte e Sul; Varjão; Vicente Pires; Vila Planalto;  quando foram ouvidos 1.000 (mil) eleitores."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000092014";"2014-05-16 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador, Senador";"2014-05-16 00:00:00";"2014-05-20 00:00:00";1000;"8254";"Leonardo Fabio Costa Filho";"30000,00";"Metodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática.";"
+As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% Intervalo de confiança é de 95% a margem de erro é de 3.09%";"
+O Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% dos questionarios aplicados
+";"
+PP (ASA SUL)	5,5%
+PP (ASA NORTE)	5,4%
+LAGO SUL	1,6%
+LAGO NORTE	1,4%
+GUARÁ	        5,6%
+SUDOESTE/OCT	2,4%
+CRUZEIRO	3,2%
+TAGUATINGA NORTE	7,3%
+TAGUATINGA SUL	5,3%
+CEILÂNDIA NORTE	4,8%
+CEILÂNDIA SUL 	7,5%
+CEILÂNDIA CENTRO 5,4%
+AGUAS CLARAS	0,8%
+N. BANDEIRANTE	1,1%
+PARK WAY	0,9%
+SOBRADINHO I	5,3%
+SOBRADINHO II	0,8%
+PLANALTINA	5,8%
+BRAZLÂNDIA	2,6%
+GAMA LESTE 	2,6%
+GAMA	5,1%
+PARANOÁ	0,6%
+SÃO SEBASTIÃO	2,6%
+SANTA MARIA	3,4%
+RIACHO FUNDO I	1,0%
+RIACHO FUNDO II	0,5%
+CANDANGOLÂNDIA	0,8%
+VARJÃO	0,3%
+SAMAMBAIA	5,6%
+REC. DAS EMAS	2,7%
+ESTRUTURAL	0,7%
+ITAPOÃ	        1,3%
+VICENTE PIRES	1,9%s.
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000112014";"2014-05-26 00:00:00";"#NE";"15484760000199";"GK DE OLIVEIRA PRODUÇÕES ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-05-23 00:00:00";"2014-05-26 00:00:00";2500;"8631";"Alexandre Vasconcelos Lima";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. A amostra foi selecionado a partir da seleção de setores censitários do Distrito Federal. ";"s cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 44 anos: 31,47%, 45 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos: Até 1: 8,5%, mais de 1 a 2: 25,2%, mais de 2 a 10: 45,9%; mais de 10: 20,4 Intervalo de confiança: 98% Margem de erro: 2,1%";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados.
+Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas.
+";"Pesquisa realizada nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte;Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sol Nascente (eleitores de Brasília); Sudoeste/Octagonal; Taguatinga Norte e Sul;Vicente Pires"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000532014";"2014-09-16 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-13 00:00:00";"2014-09-16 00:00:00";2200;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"PESQUISA QUANTITATIVA POR COTAS COM BASE NAS TABELAS ELEITORAIS DO TSE, DEMOGRÁFICO DO IBGE E DE UM LEVANTAMENTO PRÓPRIO, COM AMOSTRA AUTO PONDERADA.";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+MARGEM DE ERRO DE 2,5% E INTERVALO DE CONFIANÇA DE 95%";"SISTEMA DE CONTROLE,FISCALIZAÇÃO E CHECAGEM 100% A PROVA DE FRAUDES,COM CONEXÃO VIA INTERNET, E POSICIONAMENTO GEOGRÁFICO VIA GPS.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – DVO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000392014";"2014-09-02 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-04 00:00:00";"2014-09-06 00:00:00";1510;"7439 / 6ª Região";"Leonard Mendonça de Assis";"57000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do DF";"	a) Público pesquisado: Eleitores residentes e inscritos para votar no Distrito Federal b) Área física: Perímetro urbano do Distrito Federal c) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes 4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano 5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares d)Ponderação: Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir: SEXO: FEMININO 53,6% / MASCULINO 46,4% Idade FEMININO 16 A 24 ANOS 15,10% FEMININO 25 A 34 ANOS 26,69% FEMININO 35 A 44 ANOS 22,72% FEMININO 45 A 59 ANOS 22,83% MASCULINO 16 A 24 ANOS 16,67% MASCULINO 25 A 34 ANOS 26,86% MASCULINO 35 A 44 ANOS 22,90% MASCULINO 45 A 59 ANOS 22,12% MASCULINO 60 ANOS OU MAIS 11,46% Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir: Nível Econômico FEMININO Não PEA 42,99% FEMININO PEA 57,01% MASCULINO Não PEA 29,84% MASCULINO PEA 70,16% Nível de Instrução FEMININO Analfabeto até Ensino Médio incompleto 45,35% FEMININO Ensino médio completo, superior ou mais 54,65% MASCULINO Analfabeto até Ensino Médio incompleto 48,48% MASCULINO Ensino médio completo, superior ou mais 51,52% e) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,52 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000432014";"2014-09-13 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-13 00:00:00";"2014-09-18 00:00:00";1204;"6208-A";"Márcia Cavallari Nunes";"80547,60";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:IDADE: 16-24 (masculino) 21% (feminino) 18%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 16%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (pontos) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000072014";"2014-03-21 00:00:00";"#NE";"15484760000199";"GK DE OLIVEIRA PRODUÇÕES ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-03-22 00:00:00";"2014-03-25 00:00:00";2000;"8631";"Alexandre Vasconcelos Lima";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. A amostra foi selecionado a partir da seleção de setores censitários do Distrito Federal.";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 44 anos: 31,47%, 45 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos: Até 1: 8,5%, mais de 1 a 2: 25,2%, mais de 2 a 10: 45,9%; mais de 10: 20,4 Intervalo de confiança: 95% Margem de erro: 2,1% ";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados.
+Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas.
+";"Águas Claras; Asa Sul; Asa Norte;Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Setor de Indústrias; Sobradinho I e II; Sudoeste/Octagonal; Taguatinga Norte e Sul; Varjão;Vicente Pires; Vila Planalto; Vila Militar"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000182014";"2014-07-24 00:00:00";"#NE";"10275628000153";"Axiomas Brasil Pesquisas, Cursos e Consultoria LTDA ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-07-21 00:00:00";"2014-07-28 00:00:00";2000;"8984";"Frederico Lara de Souza";"10000,00";"A realização das entrevistas pessoais com a população eleitoral do Distrito Federal, será feito em primeiro momento em locais com maior circulação de pessoas, orientados pela supervisão. Posteriormente serão distribuídos os pesquisadores em todo o Distrito Federal, abrangendo as 31 regiões administrativas. O questionário é todo estruturado, contendo perguntas abertas e fechadas. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim. A coleta dos dados será feito por Tablets da marca Samsung Galaxy 2. Quando a pesquisa é finalizada todos os dados são enviados online para o servidor. ";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida. INTERVALO DE CONFIANÇA: 95% MARGEM DE ERRO: 2,83. ";"O controle interno do projeto é executado por coordenador de pesquisa devidamente treinado para este fim que definirá toda a estratégica em campo e que acompanhará a coerência dos dados coletadas. Toda coleta em campo haverá 1 (um) supervisor que acompanhará todos os entrevistadores. A verificação da veracidade dos dados é feita à base de 40% da coleta de cada entrevistador. ";"Pesquisa será realizada inicialmente na parte central de Brasília, posteriormente em todas as cidades Administrativas do Distrito Federal."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000292014";"2014-08-08 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-08-12 00:00:00";"2014-08-14 00:00:00";736;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 736 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. A amostra prevista é de 736 questionários. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2013). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 4 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000452014";"2014-09-13 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-13 00:00:00";"2014-09-18 00:00:00";1500;"9403 CONRE 1";"Luciana Guedes da Silva";"17000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). 
+";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas 4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança: 95% Margem de erro: 1,8% 
+";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. ";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga 7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000542014";"2014-09-16 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-19 00:00:00";"2014-09-22 00:00:00";4000;"7278";"HERCULES CAPIBARIBE JUNIOR";"29000,00";"POR COTAS COM DISTRIBUIÇÃO AUTO PONDERADA COM BASE NOS DADOS ELEITORAIS DO TSE, DEMOGRÁFICO DO IBGE E DE UM LEVANTAMENTO PRÓPRIO (ELP)";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+MARGEM DE ERRO DE 2% E INTERVALO DE CONFIANÇA DE 95%";"SISTEMA DE CONTROLE, CHECAGEM E FISCALIZAÇÃO ON LINE VIA INTERNET E GPS. 100% A PROVA DE FRAUDES";"ÁGUAS CLARAS
+ARNIQUIRAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – DVO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000102014";"2014-05-26 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-05-24 00:00:00";"2014-06-01 00:00:00";3000;"9403 conre 1 ";"Luciana Guedes";"30000,00";" Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). 
+";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% Intervalo de confiança: 95% Margem de erro: 1,8% 
+";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. ";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% 
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000132014";"2014-06-03 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Deputado Federal, Deputado Distrital";"2014-06-03 00:00:00";"2014-06-06 00:00:00";2227;"7439 - 6ª";"Leonard Mendonça de Assis";"89000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do Distrito Federal";"
+
+a) Público pesquisado:
+
+Eleitores residentes no Distrito Federal
+
+b) tipo de amostra:
+
+A amostragem será realizada da seguinte forma:
+1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico
+2. Tamanho de cada estrato foi definido proporcional ao número de domicílios pertencente a cada um destes (Dados obtidos pelos microdados do CENSO Demográfico de 2010, IBGE)
+3. Seleção das Residências segundo critério de amostragem sistemática
+4. Realização de entrevistas domiciliares com sorteio dentre os moradores presentes na residência selecionada, obedecendo um quadro de Idade/Sexo gerado de maneira aleatória por um software estatístico, levando em consideração as proporções de idade e sexo constantes no sitio do TSE para o Município.
+
+Idade e Sexo
+	FEMININO	MASCULINO
+16 a 24	8,66%	8,12%
+25 a 34	13,54%	12,00%
+35 a 44	12,09%	10,54%
+45 a 59	12,13%	10,30%
+60 ou mais	7,12%	5,51%
+	53,54%	46,46%
+
+
+Nível Econômico
+Masculino / PEA 82,68% Masculino / Não PEA 17,32%
+Feminino / PEA 59,69% Feminino / Não PEA 40,31%
+
+Nível de Instrução
+Masculino / Até 5 anos instrução 41,75%
+Masculino / de 6 a 9 anos de instrução 24,86%
+Masculino / de 10 a 12 anos de instrução 24,31%
+Masculino / mais de 12 anos de instrução 9,08%
+Feminino / Até 5 anos instrução 37,96%
+Feminino / de 6 a 9 anos de instrução 21,91%
+Feminino / de 10 a 12 anos de instrução 27,05%
+Feminino / mais de 12 anos de instrução 13,07%
+
+d) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,08 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000262014";"2014-08-05 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador";"2014-08-03 00:00:00";"2014-08-07 00:00:00";2760;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"Pesquisa quantitativa com amostra auto-ponderada, por amostra de domicílio.";"Margem de erro 3% - intervalo de confiança 95%
+
+plano amostral
+SEXO	PORC%
+MASCULINO	49,2
+FEMININO 	50,8
+TOTAL	        100,0
+
+IDADE	     PORC%
+16 A 18	      4,2
+19 A 30	     19,7
+31 A 40	     19,5
+41 A 50	     20,0
+51 A 60	     21,4
+MAIS DE 60   15,2
+TOTAL	    100,0
+ 
+ 
+CLASSE	PORC%
+E	22,9
+D	33,5
+C 	24,3
+B	13,5
+A	5,8
+TOTAL	100,0
+
+INSTRUÇÃO	PORC%
+BÁSICO	        28,9
+MÉDIO	        46,9
+SUPERIOR	24,2
+TOTAL	       100,0
+";"Sistema de controle via tablet com sistema GDF e auto verificação.
+Fiscalização de 100% das entrevistas,via localização GPS/endereço informado, gravação de voz de todas as entrevistas e auto-check do sistema.";"LOCALIDADES
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – DVO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000382014";"2014-09-01 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-08-25 00:00:00";"2014-08-29 00:00:00";4540;"7278";"HERCULES CAPIBARIBE JUNIOR";"29000,00";"METODOLOGIA POR COTAS AUTO-PONDERADA COM PESOS PROPORCIONAIS AS LOCALIDADES. OS PESOS SÃO BASEADOS EM DADOS DO IBGE, TRE E DE UM LEVANTAMENTO PRÓPRIO.";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+MARGEM DE ERRO DE 2% E INTERVALO DE CONFIANÇA DE 96%";"SISTEMA ON LINE VIA INTERNET E GPS COLETADO ATRAVÉS DE TABLET´S COM FISCALIZAÇÃO E CHECAGEM AUTOMÁTICA DE 100% DAS ENTREVISTAS. SISTEMA 100% A PROVA DE FRAUDES.";"LOCALIDADES
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+ARNIQUEIRAS
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - EXPANSÃO
+CEILÂNDIA - GUARIROBA
+CEILÂNDIA - NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - QNQ
+CEILÂNDIA - QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA - SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA - CENTRO
+GAMA - DVO
+GAMA - LESTE
+GAMA - NORTE
+GAMA - OESTE
+GAMA - SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000862014";"2014-10-17 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador";"2014-10-19 00:00:00";"2014-10-21 00:00:00";1000;"8254";"Leonardo Fabio Costa Filho ,Denis Cardoso Chaves";"50000,00";"Metodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática. ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE % Águas Claras 4,30% ASA NORTE 3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal 1,00% Gama 4,50% Guará I 2,10% Guará II 2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas 4,37% Riacho Fundo I 1,37% Riacho Fundo II 1,43% Samambaia 7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural 1,27% Sobradinho I 1,97% Sobradinho II 3,13% Sudoeste/Octogonal 2,03% Taguatinga 7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL 100,00% Intervalo de confiança é de 95% a margem de erro é de 3,09% ";" Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% (300) dos 1000 questionarios aplicados ";"PP (ASA SUL) PP (ASA NORTE) LAGO SUL LAGO NORTE GUARÁ SUDOESTE/OCT CRUZEIRO TAGUATINGA NORTE TAGUATINGA SUL CEILÂNDIA NORTE CEILÂNDIA SUL CEILÂNDIA CENTRO (16 Zona) AGUAS CLARAS N. BANDEIRANTE PARK WAY SOBRADINHO I SOBRADINHO II PLANALTINA BRAZLÂNDIA GAMA LESTE GAMA PARANOÁ SÃO SEBASTIÃO SANTA MARIA RIACHO FUNDO I RIACHO FUNDO II CANDANGOLÂNDIA VARJÃO SAMAMBAIA REC. DAS EMAS ESTRUTURAL ITAPOÃ VICENTE PIRES POR DO SOL E SOL NASCENTE "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000832014";"2014-10-10 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador";"2014-10-15 00:00:00";"2014-10-15 00:00:00";1216;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1.216 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000282014";"2014-08-07 00:00:00";"#NE";"15484760000199";"GK DE OLIVEIRA PRODUÇÕES ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-08-01 00:00:00";"2014-08-06 00:00:00";1200;"8631";"Alexandre Vasconcelos Lima";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. A amostra foi selecionado a partir da seleção de setores censitários do Distrito Federal. ";"As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 44 anos: 31,47%, 45 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos: Até 1: 8,5%, mais de 1 a 2: 25,2%, mais de 2 a 10: 45,9%; mais de 10: 20,4 Intervalo de confiança: 95% Margem de erro: 2,9%.";"	Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados. Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas. ";"Pesquisa realizada no Distrito Federal, nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte; Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Granja do Torto; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sudoeste/Octagonal; Taguatinga Norte e Sul; Varjão; Vicente Pires; Vila Planalto. "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000482014";"2014-09-13 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Senador";"2014-09-15 00:00:00";"2014-09-17 00:00:00";1510;"7439 / 6ª Região";"Leonard Mendonça de Assis";"57000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do DF ";"a) Público pesquisado: Eleitores residentes e inscritos para votar no Distrito Federal b) Área física: Perímetro urbano do Distrito Federal c) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes 4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano 5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares d)Ponderação: Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir: SEXO: FEMININO 53,6% / MASCULINO 46,4% Idade FEMININO 16 A 24 ANOS 15,10% FEMININO 25 A 34 ANOS 26,69% FEMININO 35 A 44 ANOS 22,72% FEMININO 45 A 59 ANOS 22,83% MASCULINO 16 A 24 ANOS 16,67% MASCULINO 25 A 34 ANOS 26,86% MASCULINO 35 A 44 ANOS 22,90% MASCULINO 45 A 59 ANOS 22,12% MASCULINO 60 ANOS OU MAIS 11,46% Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir: Nível Econômico FEMININO Não PEA 42,99% FEMININO PEA 57,01% MASCULINO Não PEA 29,84% MASCULINO PEA 70,16% Nível de Instrução FEMININO Analfabeto até Ensino Médio incompleto 45,35% FEMININO Ensino médio completo, superior ou mais 54,65% MASCULINO Analfabeto até Ensino Médio incompleto 48,48% MASCULINO Ensino médio completo, superior ou mais 51,52% e) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,52 pontos percentuais na estimação da proporção das intenções de voto dos candidatos.";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000572014";"2014-09-19 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-19 00:00:00";"2014-09-24 00:00:00";1610;"6208-A";"Márcia Cavallari Nunes";"107709,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 28% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 16%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000642014";"2014-09-26 00:00:00";"#NE";"20252668000133";"Instituto ARTHUR OLIVEIRA OLIVEIRA -  M.E";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-24 00:00:00";"2014-09-28 00:00:00";1000;"8602";"Diogo de Mello Brito da Silva";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"1. Metodologia: a)	Margem de erro = 3.1% para mais ou para menos b)	Nível de confiança = 95% c)	Amostra: 1.000 questionários d) Variáveis de ponderação da amostra: • Sexo: a) Masculino b) Feminino • Faixas etárias: a) De 16 a 17 anos	b) De 18 a 20 anos	c) De 21 a 24 anos d) De 25 a 34 anos	e) De 35 a 44 anos	f) De 45 a 59 anos g) De 60 a 69 anos	h) De 70 a 79 anos • Instrução do Eleitor: a) Não informado	b) Analfabeto	c) Lê e escreve d) Ensino fundamental incompleto	e) Ensino fundamental completo f) Médio incompleto	g) Médio completo	h) Superior incompleto	i) Superior completo • Nível Socioeconômico: a) Até 1 SM	b) 2 SM	c)3 a 5 SM d) 6 a 10 SM	e) Acima de 10 SM. ";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados. Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas. ";"Pesquisa realizada nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte;Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sol Nascente (eleitores de Brasília); Sudoeste/Octagonal; Taguatinga Norte e Sul;Vicente Pires; quando foram ouvidos 1000 (mil) eleitores. 
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000882014";"2014-10-18 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador";"2014-10-22 00:00:00";"2014-10-24 00:00:00";2000;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"POR COTAS COM DISTRIBUIÇÃO AUTO PONDERADA DE ACORDO COM OS DADOS DO TSE, IBGE E DE UM LEVANTAMENTO PRÓRPIO (LPE)";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+MARGEM DE ERRO DE 2% E INTERVALO DE CONFIANÇA DE 95%.";"CHECAGEM E FISCALIZAÇÃO DE 100% DA COLETA COM CONTROLE ON LINE E VERIFICAÇÃO GEOGRÁFICA VIA GPS. 100% A PROVA DE FRAUDES.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - EXPANSÃO
+CEILÂNDIA - GUARIROBA
+CEILÂNDIA - NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - QNQ
+CEILÂNDIA - QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA - SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA - CENTRO
+GAMA - LESTE
+GAMA - NORTE
+GAMA - OESTE
+GAMA - SUL
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000902014";"2014-10-20 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador";"2014-10-20 00:00:00";"2014-10-25 00:00:00";2002;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000142014";"2014-06-24 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-06-22 00:00:00";"2014-06-30 00:00:00";3000;"9403 conre 1";"Luciana Guedes";"26000,00";" Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). 
+";" As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% Intervalo de confiança: 95% Margem de erro: 1,8% 
+";" O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. 
+";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% 
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000732014";"2014-09-29 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-10-02 00:00:00";"2014-10-03 00:00:00";2000;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"METODOLOGIA POR COTAS COM DISTRIBUIÇÃO AUTO PONDERADA COM PESOS PROPORCIONAIS AO TSE, IBGE E DE UM LEVANTAMENTO PRÓPRIO LPE.";"SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+
+2% MARGEM DE ERRO E INTERVALO DE CONFIANÇA DE 95%
+";"VERIFICAÇÃO, FISCALIZAÇÃO E CHECAGEM DE 100% DA COLETA VIA SISTEMA 100% A PROVA DE FRAUDES,ON LINE COM LOCALIZAÇÃO VIA GPS.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+ARNIQUEIRAS
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - EXPANSÃO
+CEILÂNDIA - GUARIROBA
+CEILÂNDIA - NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - QNQ
+CEILÂNDIA - QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA - SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA - CENTRO
+GAMA - DVO
+GAMA - LESTE
+GAMA - NORTE
+GAMA - OESTE
+GAMA - SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000812014";"2014-10-08 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador";"2014-10-08 00:00:00";"2014-10-13 00:00:00";2002;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000872014";"2014-10-17 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador";"2014-10-22 00:00:00";"2014-10-23 00:00:00";1216;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1.216 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000242014";"2014-07-29 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador, Senador";"2014-07-31 00:00:00";"2014-08-03 00:00:00";2227;"7439 / 6ª Região";"Leonard Mendonça de Assis";"89000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do Distrito Federal ";" a) Público pesquisado: Eleitores residentes no Distrito Federal b) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de domicílios pertencente a cada um destes (Dados obtidos pelos microdados do CENSO Demográfico de 2010, IBGE) 3. Seleção das Residências segundo critério de amostragem sistemática 4. Realização de entrevistas domiciliares com sorteio dentre os moradores presentes na residência selecionada, obedecendo um quadro de Idade/Sexo gerado de maneira aleatória por um software estatístico, levando em consideração as proporções de idade e sexo constantes no sitio do TSE para o Município. Idade e Sexo FEMININO	MASCULINO 16 a 24	8,66%	8,12% 25 a 34	13,54%	12,00% 35 a 44	12,09% 10,54% 45 a 59	12,13%	10,30% 60 ou mais	7,12%	5,51% 53,54%	46,46% Nível Econômico Masculino / PEA 82,68% Masculino / Não PEA 17,32% Feminino / PEA 59,69% Feminino / Não PEA 40,31% Nível de Instrução Masculino / Até 5 anos instrução 41,75% Masculino / de 6 a 9 anos de instrução 24,86% Masculino / de 10 a 12 anos de instrução 24,31% Masculino / mais de 12 anos de instrução 9,08% Feminino / Até 5 anos instrução 37,96% Feminino / de 6 a 9 anos de instrução 21,91% Feminino / de 10 a 12 anos de instrução 27,05% Feminino / mais de 12 anos de instrução 13,07% d) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,08 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";"Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000602014";"2014-09-23 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-25 00:00:00";"2014-09-27 00:00:00";1870;"7278";"HERCULES CAPIBARIBE JUNIOR";"23200,00";"metodologia por cotas com distribuição auto ponderada com base na quantidade de eleitores por região do DF dos números do TRE, IBGE e de um levantamento próprio LPE.";"margem de erro de 2,5% e intervalo de confiança de 95%
+
+SEXO	PORC%
+MASCULINO	48%
+FEMININO	52%
+TOTAL	100%
+
+IDADE	PORC%
+16 A 18	4%
+19 A 30	19%
+31 A 40	20%
+41 A 50	21%
+51 A 60	20%
+MAIS DE 60	16%
+TOTAL	100%
+CLASSE	PORC%
+E	23%
+D	34%
+C 	24%
+B	13%
+A	6%
+TOTAL	100%
+
+INSTRUÇÃO	PORC%
+BÁSICO	29%
+MÉDIO	47%
+SUPERIOR	24%
+TOTAL	100%
+";"fiscalização e checagem on line de 100% da coleta por internet,voz e GPS. 100% a prova de fraudes";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+ARNIQUEIRAS
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – DVO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000582014";"2014-09-19 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-09-25 00:00:00";"2014-09-26 00:00:00";1000;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1000 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000822014";"2014-10-08 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador";"2014-10-07 00:00:00";"2014-10-13 00:00:00";3000;"8254";"Leonardo Fabio Costa Filho";"60000,00";"etodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática. ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança é de 95% a margem de erro é de 1,8%";"O Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% (900) dos 3000 questionarios aplicados ";"PP (ASA SUL) PP (ASA NORTE) LAGO SUL LAGO NORTE GUARÁ SUDOESTE/OCT CRUZEIRO TAGUATINGA NORTE TAGUATINGA SUL CEILÂNDIA NORTE CEILÂNDIA SUL CEILÂNDIA CENTRO (16 Zona) AGUAS CLARAS N. BANDEIRANTE PARK WAY SOBRADINHO I SOBRADINHO II PLANALTINA BRAZLÂNDIA GAMA LESTE GAMA PARANOÁ SÃO SEBASTIÃO SANTA MARIA RIACHO FUNDO I RIACHO FUNDO II CANDANGOLÂNDIA VARJÃO SAMAMBAIA REC. DAS EMAS ESTRUTURAL ITAPOÃ VICENTE PIRES POR DO SOL E SOL NASCENTE "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000042014";"2014-03-07 00:00:00";"#NE";"04206810000150";"Institiuto Brasileiro de Gestão Social e Pesquisa";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-02-28 00:00:00";"2014-03-07 00:00:00";2500;"678";"Rodrigo Dias Ramos";"16340,00";"METODOLOGIA:
+
+	A Pesquisa de opinião foi planejada pelo JORNAL ALÔ BRASÍLIA, com base num esquema de amostragem probabilística tendo como frame o cadastro de eleitores, levantado junto a Justiça Eleitoral do DF, que também selecionou os endereços a serem pesquisados. A opção por tal cadastro justificou-se pelo fato de se pesquisar somente os eleitores residentes nas Regiões Administrativas do DF, além de ser um indicador intensamente correlacionado com a variável renda, idade, sexo, grau de instrução, local de moradia.
+
+	Os domicílios a serem pesquisados no DF foram divididos em 30 RA’s, possibilitando a aplicação do esquema de amostragem aleatória estratificada.
+";"A amostra foi dimensionada para ser representativa por região administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida a quantidade ideal de 2.500(Dois mil e quinhentos) eleitores/domicílios.
+
+•	A pesquisa será realizada no período de 28 de fevereiro a 07 de marco de 2014.
+
+•	A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida a quantidade ideal de 2.500(Dois mil e quinhentos)  eleitores/domicílios.
+ 
+•	A distribuição da amostra realizada, por RA, deu-se conforme tabela abaixo:
+
+	Total de questionários por Regiões Administrativas - (RA)
+
+ÁGUAS CLARAS/Areal/Arniqueiras	90
+BRASÍLIA	190
+BRAZLÂNDIA	  160
+CANDANGOLÂNDIA	23
+CEILÂNDIA	 340
+CRUZEIRO	   50
+ESTRUTURAL	 41
+FERCAL	41
+GAMA	184
+GUARÁ	114
+ITAPOÃ	40
+JARDIM BOTÂNICO	21
+LAGO NORTE	47
+LAGO SUL	46
+NÚCLEO BANDEIRANTE	68
+PARANOÁ	97
+PARKWAY	32
+PLANALTINA  	141
+RECANTO DAS EMAS	94
+RIACHO FUNDO II	50
+RIACHO FUNDO  	35
+SAMAMBAIA	120
+SANTA MARIA	51
+SÃO SEBASTIÃO	54
+SOBRADINHO 	69
+SOBRADINHO II	33
+SUDOESTE/OCTOGONAL	42
+TAGUATINGA	      152
+VARJÃO	33
+VICENTE PIRES	42
+TOTAL	   2.500
+		
+		
+
+INTERVALO DE CONFIANÇA: 		95%
+
+MARGEM DE ERRO:			2,83
+
+
+
+PESSOAL ENVOLVIDO NO TRABALHO:  
+
+•	02 técnicos
+•	03 digitadores 
+•	02 checadores (campo)
+•	 10 pesquisadores (campo)
+
+(*) Previstos 6 dias de pesquisa de campo.	
+";" O controle interno do projeto é executado por coordenador de pesquisa  devidamente treinado para este fim, que acompanha a coerência das cotas coletadas.
+ A verificação da veracidade dos dados é feita à base de 15% da coleta de cada entrevistador.
+";"Regiões Administrativas:  -  Águas Claras 4,30% ASA NORTE 3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal 1,00% Gama 4,50% Guará I 2,10% Guará II 2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas 4,37% Riacho Fundo I 1,37% Riacho Fundo II 1,43% Samambaia 7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural 1,27% Sobradinho I 1,97% Sobradinho II 3,13% Sudoeste/Octogonal 2,03% Taguatinga 7,73% Varjão 1,00% Vicente Pires 2,67%
+ TOTAL = 100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000402014";"2014-09-04 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-09-08 00:00:00";"2014-09-09 00:00:00";768;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 768 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2013). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 4 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000552014";"2014-09-17 00:00:00";"#NE";"11077560000160";"IPRI INSTITUTO DE PESQUISA DE REPUTACAO E IMAGEM L TDA";"#NE";"Governador, Senador";"2014-09-17 00:00:00";"2014-09-19 00:00:00";1071;"8717";"Alan Ioshikazu Ofuji";"18000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais em pontos de fluxo, por meio da aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.";"A metodologia da pesquisa será do tipo quantitativa em 2 estágios. No primeiro estágio a amostra é estratificada pelas Regiões Administrativas (RA) do Distrito Federal (DF). No segundo estágio é selecionado, em cada RA pelo método PPT (Probabilidade Proporcional ao Tamanho), um número fixo de eleitores segundo cotas das variáveis gênero e idade. As cotas da amostra serão definidas a partir de dados do TSE de setembro de 2014. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: SEXO e IDADE: Gênero Masculino, com idade de 16 a 24 anos = 8%; Gênero Feminino, com idade de 16 a 24 anos = 9%; Gênero Masculino, com idade de 25 a 34 anos = 12%; Gênero Feminino, com idade de 25 a 34 anos = 14%; Gênero Masculino, com idade de 35 a 44 anos = 10%; Gênero Feminino, com idade de 35 a 44 anos = 13%; Gênero Masculino, com idade de 45 a 59 anos = 11%; Gênero Feminino, com idade de 45 a 59 anos = 13%; Gênero Masculino, com idade de 60 anos ou mais = 5%; Gênero Feminino, com idade de 60 anos ou mais = 7%; Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (pontos) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: PDAD 2013/2014 | TSE 2014.";"Na aplicação dos questionários, serão utilizados pesquisadores e supervisores contratados e devidamente treinados pelo IPRI. Após o campo de entrevistas, cerca de 20% dos questionários serão checados por meio telefônico para verificação das respostas e adequação dos dados aos parâmetros da amostra.";"A área de abrangência da coleta é o Distrito Federal. A relação das regiões administrativas selecionadas para aplicação da amostra está no anexo em formato PDF.
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000752014";"2014-09-30 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-10-05 00:00:00";"2014-10-05 00:00:00";4000;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa dos votantes em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio fez-se um sorteio probabilístico dos municípios pesquisados, pelo método PPT (Probabilidade Proporcional ao Tamanho), com base na população de votantes (TSE 2014, excluindo abstenção 1º turno 2006 e 2010) de cada município.
+Em um segundo estágio, dentro dos municípios sorteados foram selecionados, também pelo método PPT, os locais de votação com base no número de votantes de cada local de votação. No terceiro estágio, dentro dos locais de votação sorteados, os respondentes foram selecionados através de quotas amostrais, proporcionais em função de variáveis significativas, a saber: Sexo, Idade, de acordo com o perfil dos votantes. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja, as proporções do universo pesquisado estão previstas na amostra, não sendo necessário qualquer tipo de ponderação quanto à sexo, idade, grau de instrução e nível econômico.
+O intervalo de confiança estimado é de 99% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A relação dos municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §5º da Resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000912014";"2014-10-20 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador";"2014-10-24 00:00:00";"2014-10-25 00:00:00";2432;"72.49A";"Renata Nunes César";"171300,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 2.432 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 2 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000302014";"2014-08-10 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-08-08 00:00:00";"2014-08-15 00:00:00";3000;"9403 CONRE 1";"Luciana Guedes da Silva";"26000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). ";" As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança: 95% Margem de erro: 1,8% ";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. ";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000312014";"2014-08-12 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador";"2014-08-13 00:00:00";"2014-08-16 00:00:00";1240;"7278";"HERCULES CAPIBARIBE JUNIOR";"17500,00";"Amostra auto-ponderada por cotas, dimensionado com base nos dados do TSE, IBGE, CEB e um levantamento próprio. Sistema de coleta via Tablet, com utilização de GPS. Coleta 90% residencial e 10% por fluxo, todas face a face.";"SEXO	PORC%
+MASCULINO	49,2
+FEMININO	50,8
+
+IDADE	PORC%
+16 A 18	4,2
+19 A 30	19,7
+31 A 40	19,5
+41 A 50	20,0
+51 A 60	21,4
+MAIS DE 60	15,2
+
+CLASSE	PORC%
+E	22,9
+D	33,5
+C 	24,3
+B	13,5
+A	5,8
+
+INSTRUÇÃO	PORC%
+BÁSICO	28,9
+MÉDIO	46,9
+SUPERIOR	24,2
+
+margem de erro de 3% e intervalo de confiança de 95%.";"Sistema de controle via tablet com checagem automática de 100% e a prova de fraudes. GPS integrado ao sistema.";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - PÔR DO SOL
+CEILÂNDIA - COND. PRIVÊ
+CEILÂNDIA – EXPANSÃO
+CEILÂNDIA – GUARIROBA
+CEILÂNDIA – NORTE
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA – QNQ
+CEILÂNDIA – QNR
+CEILÂNDIA - SETOR O
+CEILÂNDIA - SOL NASCENTE
+CEILÂNDIA – SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA – CENTRO
+GAMA – DVO
+GAMA – LESTE
+GAMA – NORTE
+GAMA – OESTE
+GAMA – SUL
+GRANDE COLORADO
+GUARÁ - ÁREAS NOVAS DO GUARÁ II - QE 38 A QE 42
+GUARÁ - ÁREAS TRADICIONAIS - GUARÁ I E II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - BURITIS II A IV E SETOR DE OFICINAS
+PLANALTINA - MESTRE DARMAS, ARAPOANGA, VALE DO AMANHECER E VILA PACHECO
+PLANALTINA - SETOR TRADICIONAL, SETOR NORTE, SETOR SUL, SETOR CENTRAL, VILA VICENTINA, JARDIM RORIZ, VILA FÁTIMA E BURITIS I
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - ÁREAS TRADICIONAIS - SUL, NORTE E VILA DIMAS
+TAGUATINGA - QNL, M NORTE E VILA CHAPARRAL
+VICENTE PIRES
+VARJÃO
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000352014";"2014-08-26 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-08-24 00:00:00";"2014-08-30 00:00:00";3000;"9403 CONRE 1";"Luciana Guedes da Silva";"20000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança: 95% Margem de erro: 1,8% ";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador.";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000422014";"2014-09-13 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-10 00:00:00";"2014-09-15 00:00:00";3000;"9403 CONRE 1";"Luciana Guedes da Silva";"20000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas 4,37% Riacho Fundo I 1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança: 95% Margem de erro: 1,8% ";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador.";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga 7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000562014";"2014-09-18 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador, Senador";"2014-09-17 00:00:00";"2014-09-20 00:00:00";1000;"8254";"Leonardo Fabio Costa Filho";"30000,00";"Metodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança é de 95% a margem de erro é de 3.09";"O Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% dos questionarios aplicados ";"PP (ASA SUL) PP (ASA NORTE) LAGO SUL LAGO NORTE GUARÁ SUDOESTE/OCT CRUZEIRO TAGUATINGA NORTE TAGUATINGA SUL CEILÂNDIA NORTE CEILÂNDIA SUL CEILÂNDIA CENTRO (16 Zona) AGUAS CLARAS N. BANDEIRANTE PARK WAY SOBRADINHO I SOBRADINHO II PLANALTINA BRAZLÂNDIA GAMA LESTE GAMA PARANOÁ SÃO SEBASTIÃO SANTA MARIA RIACHO FUNDO I RIACHO FUNDO II CANDANGOLÂNDIA VARJÃO SAMAMBAIA REC. DAS EMAS ESTRUTURAL ITAPOÃ VICENTE PIRES POR DO SOL E SOL NASCENTE "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000932014";"2014-10-21 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador";"2014-10-26 00:00:00";"2014-10-26 00:00:00";4000;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa dos votantes em estudo.";"Representativa dos votantes da área em estudo, elaborada em três estágios. No primeiro estágio fez-se um sorteio probabilístico dos municípios pesquisados, pelo método PPT (Probabilidade Proporcional ao Tamanho), com base na população de votantes (TSE 2014, excluindo abstenção 1º turno 2006 e 2010) de cada município.
+Em um segundo estágio, dentro dos municípios sorteados foram selecionados, também pelo método PPT, os locais de votação com base no número de votantes de
+cada local de votação. No terceiro estágio, dentro dos locais de votação sorteados, os respondentes foram selecionados através de quotas amostrais, proporcionais em função de variáveis significativas, a saber: Sexo, Idade, de acordo com o perfil dos votantes. Devido à metodologia amostral adotada, a pesquisa é auto ponderada, ou seja, as proporções do universo pesquisado estão previstas na amostra, não sendo necessário qualquer tipo de ponderação quanto à sexo, idade, grau de instrução e nível econômico.
+O nível de confiança é de 99% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.
+";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000062014";"2014-03-19 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-03-16 00:00:00";"2014-03-26 00:00:00";3000;"9403 conre 1";"Luciana Guedes da Silva";"3200,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto, de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES). ";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% Intervalo de confiança: 95% Margem de erro: 1,8% ";" O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador. ";"Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	 3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia	15,80% Cruzeiro 1,23% Fercal	 1,00% Gama	 4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria	4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	 100,00% "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000202014";"2014-07-24 00:00:00";"#NE";"02501289000158";"OPINIAO CONSULTORIA LTDA - EPP ";"#NE";"Governador, Senador";"2014-07-26 00:00:00";"2014-07-28 00:00:00";1200;"7745";"ALEXANDRE DE ARAUJO GARCIA";"10800,00";"Pesquisa do tipo quantitativo, por amostragem em múltiplos estágios, com aplicação de questionário estruturado e abordagem pessoal e domiciliar. O conjunto do eleitorado do Distrito federal com 16 anos ou mais e com titulo de eleitor foi tomado como universo da pesquisa. ";"As cotas quanto a sexo, idade e escolaridade foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada para a variável de nível econômico, ou seja as proporções do universo pesquisado estão previstas na amostra, não sendo necessário nenhum tipo de ponderação estatística para esta variavel. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 45,5% e Feminino: 54,5% Idade: 16 a 24 anos: 21,7%; 25 a 34 anos: 28,0%, 35 a 44 anos: 20,9%, 45 a 59 anos: 19,6% e 60 anos ou mais: 9,8% - Grau de Instrução: Até Fundamental incompleto: 20,9%, Ensino Fundamental Completo / Médio Incompleto: 15,6%, Ensino Médio Completo / Superior Incompleto: 39,1% e Ensino Superior: 24,4% - Intervalo de confiança: 95% Margem de erro: 2,8% ";"Toda a equipe de pesquisadores envolvidos no estudo são treinados pela Opinião. A coleta dos dados será realizada utilizando coletores de dados CN-50 Intermec, com georreferenciamento. São checados, no mínimo, 20% dos questionários de cada pesquisador por telefone, após a realização da entrevista, além da checagem in loco feita pelo supervisor de campo. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados. ";"Plano Piloto (Asa Sul e Asa Norte),  Gama, Taguatinga e Vicente Pires, Águas Claras, Brazlândia, Sobradinho (Sobradinho, Sobradinho II e Itapoã), Planaltina e Arapoanga, Paranoá, Núcleo Bandeirante e Candangolândia, Ceilândia (Ceilândia e Sol Nascente), Guará, Cruzeiro, Octogonal e Sudoeste, Samambaia, Santa Maria, São Sebastião, Recanto das Emas, Lago Sul e Jardim Botânico, Riacho Fundo I e II, Lago Norte e Varjão.
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000252014";"2014-08-04 00:00:00";"#NE";"19090489000168";"MDA PESQUISA DE OPINIÃO PÚBLICA E CONSULTORIA ESTATÍSTICA LTDA";"#NE";"Governador, Senador";"2014-08-03 00:00:00";"2014-08-07 00:00:00";1500;"Série A No. 8109";"Marcelo Costa Souza";"70000,00";"Será adotada a metodologia quantitativa do tipo “survey”, com entrevistas pessoais, do tipo face-a-face por meio da utilização de questionário estruturado, sendo o universo representado pelos eleitores do Distrito Federal.";"O Universo desta pesquisa compreende os eleitores do Distrito Federal com idade a partir de 16 anos, residentes em 30 regiões administrativas, a saber: Brasília, Gama, Taguatinha, Brazlândia, Sobradinho, Planaltina, Paranoá, Núcleo Bandeirante, Ceilândia, Guará, Cruzeiro, Samambaia, Santa Maria, São Sebastião, Recanto das Emas, Lago Sul, Riacho Fundo, Lago Norte, Candangolândia, Águas Claras, Riacho Fundo II, Sudeste/Octogonal, Varjão, Park Way, Cidade Estrutural, Sobradinho II, Jardim Botânico, Itapoã, Vicente Pires e Fercal.
+O plano amostral foi delineado a partir de informações disponibilizadas pelo TSE(2014) e IBGE(2013). Inicialmente as entrevistas foram distribuídas de forma proporcional ao eleitorado por região administrativa. Em seguida, é realizada a seleção aleatória de setores censitários, quadras ou bairros onde serão alocadas as entrevistas de forma proporcional ao universo em função do gênero e faixa etária do eleitorado.
+Para o conjunto da amostra, os tamanhos são: 8,5% de homens com 16 a 24 anos, 11,7% para homens com 25 a 34 anos, 10,4% para homens com 35 a 44 anos, 10,5% para homens com 45 a 59 anos e 4,7% para homens com 60 anos ou mais. 9,2% para mulheres com 16 a 24 anos, 13,9% para mulheres com 25 a 34 anos, 12,5% para mulheres com 35 a 44 anos, 12,6% para mulheres com 45 a 59 anos e 6,0% para mulheres com 60 anos ou mais. As informações sobre nível econômico e escolaridade serão levantadas na própria pesquisa, tendo como controles a dispersão das entrevistas, seleção aleatória de setores censitários e/ou bairros, representatividade por porte do município, unidade da federação e região geográfica. A ponderação prevista para estas variáveis é igual a 1.
+Está prevista a realização de 1.500 entrevistas, o que fornece um erro amostral para o resultado total de no máximo 2,5 pontos percentuais considerando grau de confiança de 95%. Os intervalos de confiança serão calculados com base nos percentuais obtidos e com grau de confiança de 95%.
+A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal após a publicação dos resultados.
+";"Os pesquisadores foram treinados especificamente para este projeto, com simulação de entrevistas e discussão de todas as questões. O trabalho de campo é fiscalizado por Coordenadores de Equipe, especialmente treinados para esta tarefa.
+As entrevistas são realizadas, em sua maioria, utilizando tablets e questionário eletrônico. Do total dos questionários preenchidos, parte será sorteada de forma aleatória para conferência, via telefone, através de novo contato com o entrevistado, garantindo um mínimo de vinte por cento de checagem. Nesse contato são verificadas respostas fornecidas pelo entrevistado assim como adequação aos parâmetros amostrais previamente definidos. Todos os procedimentos acima são realizados por profissionais especializados e com vasta experiência na condução e controle de pesquisas de opinião.
+Todos os pesquisadores elaboram um relatório de campo reportando as características das pesquisas e a percepção dos entrevistados em relação às questões realizadas.
+";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal após a publicação dos resultados."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000722014";"2014-09-29 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-29 00:00:00";"2014-10-04 00:00:00";2002;"6208-A";"Márcia Cavallari Nunes";"133933,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000892014";"2014-10-18 00:00:00";"#NE";"00654576000172";",INSTITUTO   VERITÁ   LTDA  epp";"#NE";"Governador";"2014-10-21 00:00:00";"2014-10-23 00:00:00";2203;"7439 / 6ª Região ";"Leonard Mendonça de Assis";"57000,00";" Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionários estruturados e padronizados junto a uma amostra representativa do eleitorado do DF ";"a) Público pesquisado: Eleitores residentes e inscritos para votar no Distrito Federal b) Área física: Perímetro urbano do Distrito Federal c) tipo de amostra: A amostragem será realizada da seguinte forma: 1. Estratificação do DF por agrupamento de Setores Censitários obedecendo critério geográfico 2. Tamanho de cada estrato foi definido proporcional ao número de eleitores inscritos em cada um destes 3. Divisão em estratos será proporcional ao número de eleitores contidos em cada um destes 4. Seleção dos entrevistados utilizando entrevistas domiciliares obedecendo um quadro de idade e sexo gerado de maneira aleatória por um software estatístico, usando as proporções de idade e sexo descritas neste plano 5. Está prevista adoção de entrevistas em locais de trabalho ou em pontos de fluxo. Estes serão utilizados onde os locais sorteados não permitam adoção de entrevistas domiciliares d)Ponderação: Esta pesquisa é autoponderada (peso = 1), obedecendo as proporções descritas a seguir: SEXO: FEMININO 53,6% / MASCULINO 46,4% Idade FEMININO 16 A 24 ANOS 15,10% FEMININO 25 A 34 ANOS 26,69% FEMININO 35 A 44 ANOS 22,72% FEMININO 45 A 59 ANOS 22,83% MASCULINO 16 A 24 ANOS 16,67% MASCULINO 25 A 34 ANOS 26,86% MASCULINO 35 A 44 ANOS 22,90% MASCULINO 45 A 59 ANOS 22,12% MASCULINO 60 ANOS OU MAIS 11,46% Também está prevista ponderação por nivel econômico e instrução, obedecendo as proporções descritas a seguir: Nível Econômico FEMININO Não PEA 42,99% FEMININO PEA 57,01% MASCULINO Não PEA 29,84% MASCULINO PEA 70,16% Nível de Instrução FEMININO Analfabeto até Ensino Médio incompleto 45,35% FEMININO Ensino médio completo, superior ou mais 54,65% MASCULINO Analfabeto até Ensino Médio incompleto 48,48% MASCULINO Ensino médio completo, superior ou mais 51,52% e) Intervalo de Confiança/Margem de Erro: Para este planejamento amostral, considerando-se um intervalo de confiança de 95%, é esperado um erro máximo de 2,1 pontos percentuais na estimação da proporção das intenções de voto dos candidatos. ";" Para a realização da pesquisa será utilizada uma equipe de entrevistadores e supervisores devidamente treinada para este trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização que consiste no retorno a campo de 20% dos questionários aplicados individualmente pelos entrevistadores, para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais. ";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000502014";"2014-09-15 00:00:00";"#NE";"04483758000189";"O&P BRASIL OPINIAO, ANALISE, ESTRATEGIA S/S LTDA";"#NE";"Governador, Senador";"2014-09-15 00:00:00";"2014-09-17 00:00:00";1000;"8254";"Leonardo Fabio Costa Filho";"30000,00";"Metodologia – A pesquisa dar-se-á por meio de amostragem de conglomerados, sorteados e representantes no estudo das regiões administrativas do Distrito Federal, em cada conjunto de regiões administrativas (um conglomerado). As entrevistas serão realizadas a partir de um contato direto nos domicílios, o primeiro destes escolhido aleatoriamente com os demais sendo apontados por uma sistemática de pulo fixo de ordem 3 (três), ou seja, após o primeiro domicílios escolhido aleatoriamente, os demais seguiram amostragem sistemática. ";" As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra: Sexo: Masculino 47,5% e Feminino: 52,5% Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9% Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08% Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83 Regiões: CIDADE	% Águas Claras 4,30% ASA NORTE	3,90% ASA SUL	3,87% Brazlândia 1,93% Candangolândia 1,00% Ceilândia 15,80% Cruzeiro 1,23% Fercal	1,00% Gama	4,50% Guará I	2,10% Guará II	2,13% Itapoã 2,20% Jardim Botânico 1,00% Lago Norte 1,30% Lago Sul 1,17% Núcleo Bandeirante 1,00% Paranoá 1,67% Park Way 1,00% Planaltina 6,33% Recanto das Emas	4,37% Riacho Fundo I	1,37% Riacho Fundo II	1,43% Samambaia	7,90% Santa Maria 4,67% São Sebastião 3,03% SCIA - Estrutural	1,27% Sobradinho I	1,97% Sobradinho II	3,13% Sudoeste/Octogonal 2,03% Taguatinga	7,73% Varjão 1,00% Vicente Pires 2,67% TOTAL	100,00% Intervalo de confiança é de 95% a margem de erro é de 3.09% 
+";"O Sistema Interno de controle abrange 100% dos questionarios aplicados,checagem telefonica abrange 30% dos questionarios aplicados ";"PP (ASA SUL)
+PP (ASA NORTE)
+LAGO SUL
+LAGO NORTE
+GUARÁ
+SUDOESTE/OCT
+CRUZEIRO
+TAGUATINGA NORTE
+TAGUATINGA SUL
+CEILÂNDIA NORTE
+CEILÂNDIA SUL 
+CEILÂNDIA CENTRO (16 Zona)
+AGUAS CLARAS
+N. BANDEIRANTE
+PARK WAY
+SOBRADINHO I
+SOBRADINHO II
+PLANALTINA
+BRAZLÂNDIA
+GAMA LESTE 
+GAMA
+PARANOÁ
+SÃO SEBASTIÃO
+SANTA MARIA
+RIACHO FUNDO I
+RIACHO FUNDO II
+CANDANGOLÂNDIA
+VARJÃO
+SAMAMBAIA
+REC. DAS EMAS
+ESTRUTURAL
+ITAPOÃ
+VICENTE PIRES
+POR DO SOL E SOL NASCENTE"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000632014";"2014-09-26 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-10-01 00:00:00";"2014-10-02 00:00:00";1200;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 1.200 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2014). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000012014";"2014-02-13 00:00:00";"#NE";"00850844000121";"Dados Pesquisa Opinião e Mercado Ltda";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-02-10 00:00:00";"2014-02-19 00:00:00";3000;"9403 conre 1";"Luciana Guedes da Silva";"32000,00";"Realização de entrevistas pessoais com a população eleitora do Distrito Federal, em sistema de fluxo de pessoas nos pontos de maior circulação, orientados pela supervisão, usando questionário estruturado, contendo perguntas abertas e fechadas, sendo distribuídas 30 entrevistas para cada ponto,
+de acordo com cotas segundo regiões de moradia e dados demográficos. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim (SKPES).
+";"As cotas quanto a sexo, idade, escolaridade, nível econômico e regiões de moradia de realização do trabalho de campo foram determinadas com os dados disponibilizados pelo TRE/DF, IBGE, Codeplan e Administrações Regionais das cidades que compõem o DF. Devido à metodologia amostral adotada, a pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. Seguem os critérios mínimos de diversidade exigidos na amostra:
+
+Sexo: Masculino 47,5% e Feminino: 52,5%
+
+Idade: 16 a 24 anos: 22,23%; 25 a 39 anos: 31,47%, 40 a 59 anos: 30,4% e 60 anos ou mais: 15,9%
+
+Grau de Instrução: Analfabeto/Elementar: 7,55%; Fundamental incompleto/completo: 34,89; Médio incompleto/completo: 29,28; Superior incompleto/completo: 23,2% e Outros: 5,08%
+
+Nível econômico em Salários Mínimos:Até 1: 7,67%, mais de 1 a 2: 16,23%, mais de 5 a 10: 20,2%; mais de 10 a 20: 15,57 e mais de 20: 9,83
+
+Regiões:
+CIDADE	%
+Águas Claras 	4,30%
+ASA NORTE	3,90%
+ASA SUL	        3,87%
+Brazlândia  	1,93%
+Candangolândia  1,00%
+Ceilândia	15,80%
+Cruzeiro  	1,23%
+Fercal	        1,00%
+Gama	        4,50%
+Guará   I	2,10%
+Guará   II	2,13%
+Itapoã  	2,20%
+Jardim Botânico 1,00%
+Lago Norte 	1,30%
+Lago Sul 	1,17%
+Núcleo Bandeirante 	1,00%
+Paranoá  	1,67%
+Park Way 	1,00%
+Planaltina  	6,33%
+Recanto das Emas	4,37%
+Riacho Fundo I	1,37%
+Riacho Fundo II	1,43%
+Samambaia	7,90%
+Santa Maria	4,67%
+São Sebastião 	3,03%
+SCIA - Estrutural	1,27%
+Sobradinho  I	1,97%
+Sobradinho  II	3,13%
+Sudoeste/Octogonal  	2,03%
+Taguatinga	7,73%
+Varjão  	1,00%
+Vicente Pires 	2,67%
+TOTAL	      100,00%
+
+Intervalo de confiança: 95%
+Margem de erro: 1,8%
+";"O controle interno do projeto é executado por supervisor devidamente treinado para este fim, que acompanha a coerência das cotas coletadas. A verificação da veracidade dos dados é feita à base de 20% da produção de cada entrevistador.";"Regiões:
+CIDADE	%
+Águas Claras 	4,30%
+ASA NORTE	3,90%
+ASA SUL	        3,87%
+Brazlândia  	1,93%
+Candangolândia  1,00%
+Ceilândia	15,80%
+Cruzeiro  	1,23%
+Fercal	        1,00%
+Gama	        4,50%
+Guará   I	2,10%
+Guará   II	2,13%
+Itapoã  	2,20%
+Jardim Botânico 1,00%
+Lago Norte 	1,30%
+Lago Sul 	1,17%
+Núcleo Bandeirante 	1,00%
+Paranoá  	1,67%
+Park Way 	1,00%
+Planaltina  	6,33%
+Recanto das Emas	4,37%
+Riacho Fundo I	1,37%
+Riacho Fundo II	1,43%
+Samambaia	7,90%
+Santa Maria	4,67%
+São Sebastião 	3,03%
+SCIA - Estrutural	1,27%
+Sobradinho  I	1,97%
+Sobradinho  II	3,13%
+Sudoeste/Octogonal  	2,03%
+Taguatinga	7,73%
+Varjão  	1,00%
+Vicente Pires 	2,67%
+TOTAL	      100,00%
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000022014";"2014-03-06 00:00:00";"#NE";"03303870000128";"EXATA OP OPINIÃO PÚBLICA LTDA";"#NE";"Governador, Senador";"2014-03-07 00:00:00";"2014-03-11 00:00:00";840;"7278";"HERCULES CAPIBARIBE JUNIOR";"19800,00";"PESQUISA POR AMOSTRA DE DOMICÍLIO COM COLETA FACE A FACE - POR COTAS";"SEXO	PORC%
+MASCULINO	49,3
+FEMININO	50,7
+TOTAL	        100,0
+FAIXA ETÁRIA	PORC%
+16 A 26	        18,3
+27 A 37	        22,4
+38 A 48	        21,1
+49 A 59	        17,3
+MAIS DE 60	21,0
+TOTAL	        100,0
+CLASSE SOCIAL	        PORC%
+ATÉ 3 SAL. MÍNIMOS	46,0
+ATÉ 5 SAL. MÍNIMOS	26,1
+ATÉ 10 SAL. MÍNIMOS	14,3
+ATÉ 20 SAL. MÍNIMOS	8,0
+MAIS DE 20 SAL. MÍNIMOS	5,7
+TOTAL	100,0
+ESCOLARIDADE	PORC%
+ANALFABETO	4,2
+FUNDAMENTAL	38,0
+MEDIO	        35,6
+SUPERIOR	22,3
+TOTAL	        100,0
+
+MARGEM DE ERRO = 3%
+INTERVALO DE CONFIANÇA = 95%";"VALIDAÇÃO COM 0% DE ERRO, FISCALIZAÇÃO IN LOCO 20% E FISCALIZAÇÃO ALEATÓRIA DE 10%. ";"ZONAS ELEITORAIS	LOCALIDADES	             BASE	PORC%
+1	                 ASA SUL	               44	5,2
+2	                 PARANOÁ / ITAPOÃ	       38	4,5
+3	TAGUATINGA NORTE (QNJ, QNL e QNM 34 A 42 )     35	4,2
+4	                 GAMA LESTE - SANTA MARIA      55	6,5
+5	                  SOBRADINHO I E II	       51	6,1
+6	                  PLANALTINA	               53	6,3
+7                         BRAZLÂNDIA	               20	2,4
+8	             CEILÂNDIA NORTE (QNN) / CENTRO    38	4,5
+9	         GUARÁ I E II - CANDAGOLANDIA - AREAL  54	6,4
+10	                 NÚCLEO BANDEIRANTE	       35	4,2
+11	CRUZEIRO VELHO / CRUZEIRO NOVO / SUDOESTE      30	3,6
+12	CEILÂNDIA NORTE (QNM 14 A 30 )	32	3,8
+13	SAMAMBAIA NORTE E SUL 	40	4,8
+14	ASA NORTE	50	6,0
+15	TAGUATINGA SUL / ÁGUAS CLARAS	40	4,8
+16	CEILÂNDIA NORTE (SETOR O) ´-POR DO SOL - SOLNASCENTE	35	4,2
+17	GAMA (SETOR CENTRAL)	39	4,6
+18	LAGO SUL - SAO SEBASTIAO	37	4,4
+19	TAGUATINGA NORTE (QNB, QNC, QND, QNE, QNF e QNG)	37	4,4
+20	CEILÂNDIA SUL (P SUL)	37	4,4
+21	RECANTO DAS EMAS - RIACHO FUNDO 1 E 2 	40	4,8
+	TOTAL	840	100,0
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000152014";"2014-07-03 00:00:00";"#NE";"10275628000153";"Axiomas Brasil Pesquisas, Cursos e Consultoria LTDA ME";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-07-07 00:00:00";"2014-07-12 00:00:00";2500;"8984";"Frederico Lara de Souza";"10000,00";"A realização das entrevistas pessoais com a população eleitoral do Distrito Federal, será feito em primeiro momento em locais com maior circulação de pessoas, orientados pela supervisão. Posteriormente serão distribuídos os pesquisadores em todo o Distrito Federal, abrangendo as 31 regiões administrativas. O questionário é todo estruturado, contendo perguntas abertas e fechadas. Todo o material coletado sofre crítica de consistência de 100% e é tabulado em software específico para este fim. A coleta dos dados será feito por Tablets da marca Samsung Galaxy 2. Quando a pesquisa é finalizada todos os dados são enviados online para o servidor. ";" As cotas quanto a sexo, idade, escolaridade e nível econômico foram determinadas com os dados disponibilizados pelo TRE/DF e IBGE. A pesquisa é auto-ponderada, ou seja as proporções do universo pesquisado estão previstas na amostra , não sendo necessário nenhum tipo de ponderação estatística. 	A amostra foi dimensionada para ser representativa por Região Administrativa e por classe de renda, sexo, faixa etária, escolaridade, local de moradia, sendo estatisticamente definida. INTERVALO DE CONFIANÇA: 95% MARGEM DE ERRO: 2,83. 
+";"O controle interno do projeto é executado por coordenador de pesquisa devidamente treinado para este fim que definirá toda a estratégica em campo e que acompanhará a coerência dos dados coletadas. Toda coleta em campo haverá 1 (um) supervisor que acompanhará todos os entrevistadores. A verificação da veracidade dos dados é feita à base de 40% da coleta de cada entrevistador. ";"Pesquisa será realizada inicialmente na parte central de Brasília, posteriormente em todas as cidades Administrativas do Distrito Federal."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000222014";"2014-07-25 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-07-26 00:00:00";"2014-07-30 00:00:00";1204;"6208-A";"Márcia Cavallari Nunes";"80547,60";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 18%; 25-34 (masculino) 28% (feminino) 28%; 35-44 (masculino) 21% (feminino) 21%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 15% (feminino) 17%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2012 | Entre outras.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A relação dos municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §5º da Resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000342014";"2014-08-21 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-08-23 00:00:00";"2014-08-26 00:00:00";1204;"6208-A";"Márcia Cavallari Nunes";"80547,60";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico nos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção.
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 18%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 16%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014| Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000372014";"2014-08-29 00:00:00";"#NE";"07630546000175";"DATAFOLHA INSTITUTO DE PESQUISAS LTDA.";"#NE";"Governador, Senador";"2014-09-02 00:00:00";"2014-09-03 00:00:00";736;"72.49A";"Renata Nunes César";"114200,00";"Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado do Distrito Federal com 16 anos ou mais foi tomado como universo da pesquisa.";"Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. Tamanho da amostra: A amostra prevista é de 736 entrevistas. Técnica de amostragem: A amostra é distribuída pelas regiões administrativas do Distrito Federal. De acordo com a região administrativa, são sorteados os bairros ou quadras e pontos de abordagem onde serão aplicadas as entrevistas. Por fim, os entrevistados são selecionados aleatoriamente para responder ao questionário, de acordo com cotas de sexo e faixa etária. Os dados utilizados para definição e seleção da amostra são baseados no TSE (eleitorado julho 2014) e IBGE (Censo 2010 e Estimativas 2013). Os dados relativos a sexo e faixa etária são: Sexo masculino 46%, feminino: 54%, 16 a 24 anos 17%, 25 a 34 anos 25%, 35 a 44 anos 23%, 45 a 59 anos 23% e 60 anos ou mais 12%.  Está prevista a eventual ponderação para correção nos tamanhos dos segmentos da tabela acima considerando as variáveis sexo e faixa etária. Para as variáveis grau de instrução e nível econômico do entrevistado (renda familiar mensal), o fator previsto para ponderação é 1 (resultados obtidos em campo). Área física: Serão realizadas entrevistas nas regiões administrativas do Distrito Federal. Margem de Erro: A margem de erro máxima prevista é de 4 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%.";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para cada projeto realizado. A maior parte da coleta será feita com a utilização de tablet e questionário eletrônico. São checados, no mínimo, 30% dos questionários de cada pesquisador, seja in loco por supervisores de campo ou, posteriormente, por telefone. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A relação completa dos municípios e bairros pesquisados será encaminhada a esse tribunal posteriormente, até o sétimo dia seguinte à data de registro da pesquisa, conforme a Resolução 23.400/2013 do TSE, no art.2º §5º."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000512014";"2014-09-15 00:00:00";"#NE";"20252668000133";"Instituto ARTHUR OLIVEIRA OLIVEIRA -  M.E";"#NE";"Governador, Senador, Deputado Federal, Deputado Distrital";"2014-09-15 00:00:00";"2014-09-18 00:00:00";1000;"8602";"Diogo de Mello Brito da Silva";"15000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"1. Metodologia: a)	Margem de erro = 3.1% para mais ou para menos b)	Nível de confiança = 95% c)	Amostra: 1.000 questionários d) Variáveis de ponderação da amostra: • Sexo: a) Masculino b) Feminino • Faixas etárias: a) De 16 a 17 anos	b) De 18 a 20 anos	c) De 21 a 24 anos d) De 25 a 34 anos	e) De 35 a 44 anos	f) De 45 a 59 anos g) De 60 a 69 anos	h) De 70 a 79 anos • Instrução do Eleitor: a) Não informado	b) Analfabeto	c) Lê e escreve d) Ensino fundamental incompleto	e) Ensino fundamental completo f) Médio incompleto	g) Médio completo	h) Superior incompleto	i) Superior completo • Nível Socioeconômico: a) Até 1 SM	b) 2 SM	c)3 a 5 SM d) 6 a 10 SM	e) Acima de 10 SM.";"Checagem de, pelo menos, 20% dos questionários aplicados através de Supervisores de campo. Cada grupo de 06 pesquisadores = 01 Supervisor de Checagem Identificação de nome e endereço do entrevistado nos questionários aplicados. Nos casos em que o entrevistado se disponha a fornecer o telefone, checagem aleatória de um mínimo de três questões respondidas, por cada grupo de 20 entrevistados. Processo de entrevista tipo “escada” onde somente serão abordados, no máximo, dois eleitores por face de quadra, necessariamente, residentes em lados opostos e com distância mínima de 10 casas. ";"Pesquisa realizada nas seguintes localidades do DF: Águas Claras; Asa Sul; Asa Norte;Brazlândia; Ceilândia Norte e Sul; Cruzeiro Novo e Velho; Fercal; Guará I e II; Gama; Itápoã;Jardim Botânico; Núcleo Bandeirante e Candangolandia; Lago Sul; Lago Norte; Planaltina (Vale do Amanhecer); Paranoá; Park Way; Recanto das Emas; Riacho Fundo I e II; Samambaia; Santa Maria; São Sebastião; Sobradinho I e II; Sol Nascente (eleitores de Brasília); Sudoeste/Octagonal; Taguatinga Norte e Sul;Vicente Pires; quando foram ouvidos 1000 (mil) eleitores."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"DF";"DF";"DISTRITO FEDERAL";"DF000612014";"2014-09-25 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-25 00:00:00";"2014-09-30 00:00:00";1806;"6208-A";"Márcia Cavallari Nunes";"120821,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 21% (feminino) 19%; 25-34 (masculino) 29% (feminino) 28%; 35-44 (masculino) 21% (feminino) 22%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 14% (feminino) 16%; INSTRUÇÃO: Até Ensino Médio (masculino) 65% (feminino) 64%; Ensino Superior (masculino) 35% (feminino) 36%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 79% (feminino) 61%; Não Economicamente ativo (masculino) 21% (feminino) 39%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 2 (dois) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."

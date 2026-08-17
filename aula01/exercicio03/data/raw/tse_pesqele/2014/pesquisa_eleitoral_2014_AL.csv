@@ -1,0 +1,201 @@
+"DT_GERACAO";"HH_GERACAO";"AA_ELEICAO";"CD_ELEICAO";"NM_ELEICAO";"SG_UF";"SG_UE";"NM_UE";"NR_PROTOCOLO_REGISTRO";"DT_REGISTRO";"ST_PESQUISA_PROPRIA";"NR_CNPJ_EMPRESA";"NM_EMPRESA";"NM_EMPRESA_FANTASIA";"DS_CARGO";"DT_INICIO_PESQUISA";"DT_FIM_PESQUISA";"QT_ENTREVISTADO";"CD_CONRE";"NM_ESTATISTICO_RESP";"VR_PESQUISA";"DS_METODOLOGIA_PESQUISA";"DS_PLANO_AMOSTRAL";"DS_SISTEMA_CONTROLE";"DS_DADO_MUNICIPIO"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000102014";"2014-09-06 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-06 00:00:00";"2014-09-11 00:00:00";812;"6208-A";"Márcia Cavallari Nunes";"54322,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico nos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 23% (feminino) 21%; 25-34 (masculino) 25% (feminino) 25%; 35-44 (masculino) 20% (feminino) 21%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 17% (feminino) 18%; INSTRUÇÃO: Até Ensino Médio (masculino) 91% (feminino) 86%; Ensino Superior (masculino) 9% (feminino) 14%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 73% (feminino) 42%; Não Economicamente ativo (masculino) 27% (feminino) 58%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado de Alagoas. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;4;"Eleições Gerais Suplementares 2014";"AL";"AL";"ALAGOAS";"AL066642014";"2017-06-28 00:00:00";"N";"08691707000101";"COMPET CONSULTORIA, MARKETING, PESQUISAS E TREINAMENTOS LTDA - ME";"COMPET PESQUISAS, MARKETING, TREINAMENTOS";"Governador, Senador";"2017-06-28 00:00:00";"2017-07-01 00:00:00";1800;"8492";"Denivaldo Fernandes";"10000,00";"METODOLOGIA E PERÍODO DE REALIZAÇÃO DA PESQUISA
+ Especificação técnica:
+¿	A pesquisa cobrirá todo o Estado de Alagoas.
+¿	Universo da pesquisa será dos eleitores com 16 anos ou mais.
+Critérios de amostragem:
+A amostra representará os eleitores de Alagoas, selecionados em 2(dois) estágios. 
+¿	No primeiro estágio, os setores censitários, onde as entrevistas serão realizadas, foram selecionadas, probabilisticamente, através do método PPT - Probabilidade Proporcional ao Tamanho, tomando o número de eleitores como base para tal seleção. 
+¿	No segundo estágio, a seleção do entrevistado, dentro do setor censitário, será feita utilizando-se quotas proporcionais, e a abordagem será domiciliar.
+";"PLANO AMOSTRAL E PONDERAÇÃO.
+Ponderação:
+Utilizamos quotas proporcionais, em função das seguintes variáveis:
+¿	Sexo, idade, grau de instrução, nível econômico. 
+¿	As quotas foram estabelecidas com base nos dados mais atualizados do PNAD/2014 e TSE/ TRE de 2014.
+  Plano amostral:
+ Será utilizada amostra de aproximadamente 1800 entrevistas. Com o intervalo de confiança estimado de 95%, a margem de erro máxima estimada de 2,31% pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+";"SISTEMA INTERNO DE CONFERÊNCIA E VERIFICAÇÃO; CONFERENCIA E FISCALIZAÇÃO DA COLETA DE DADOS E DO TRABALHO DE CAMPO.
+
+Coleta de dados/ conferencia e fiscalização
+A equipe de entrevistadores da COMPET, com experiência e treinamento específico em pesquisa de opinião pública, treinadas por Estatístico devidamente credenciado com registro no CONRE (Conselho Regional de Estatística), fará as entrevistas pessoais, com uso de questionário especialmente desenvolvido.
+Conferência e crítica em todos os questionários 
+a)	Checagem em campo (10% sorteados do total aplicado) e reaplicação dos 10% pelo coordenador ou supervisor.
+b)	Codificação
+c)	Digitação
+d)	Tabulação e cálculos percentuais
+e)	Produção do relatório final
+Todos esses procedimentos serão feitos no SOFT Estatístico SPSS. 20.0 
+";"Maceió (RA1);  Maceió (RA2); Maceió (RA3); Maceió (RA4); Maceió (RA5); Maceió (RA6); Maceió (RA7); Sertão; Agreste/Baixo São Francisco; Central/ Metropolitana; Norte.          "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000092014";"2014-08-30 00:00:00";"#NE";"03568752000141";"EMPRESA DE PESQUISAS TÉCNICAS- EIRELI";"#NE";"Governador, Senador, Deputado Federal, Deputado Estadual";"2014-08-29 00:00:00";"2014-09-02 00:00:00";1200;"8463/6a. Região";"RITA DE CÁSSIA SACRAMENTO SOUZA LEÃO";"45000,00";"A pesquisa é um levantamento estatístico quantitativo, por amostragem estratificada de eleitores, através da coleta de dados primários realizada mediante a aplicação de entrevistas individuais e domiciliares entre os dias 29 de agosto e 02 de setembro de 2014, no Estado de Alagoas, tendo como instrumento um questionário estruturado. Para tanto, pesquisadores especialmente treinados para essa pesquisa fizeram a coleta de dados, fiscalizados por supervisores que verificaram a consistência dos questionários aplicados. Concluída a coleta, após a conferência e verificação de consistência, serão codificados, digitados e processados eletronicamente pelo software SPSS – Statistical Package for the Social Scienses e emitidos relatórios analíticos e interpretativos em meio impressos e magnético.";"PLANO AMOSTRAL
+1.200 entrevistas (100%)
+SEXO:
+Feminino 53.57%	Masculino  46.43
+IDADE: 
+16 - 17	 2.17 %	 2.30 %
+18 - 20	 7.61 %	 8.58 % 
+21 - 24	 9.89 %	10.46 %
+25 – 34	25.17 %	25.31 %
+35 – 44	20.87 %	20.31 %
+45 – 59	22.26 %	21.08 %
+60 – 69 	 8.35 %	 8.13 %
+70 - +	 3.67 %	 3.83 %
+
+INSTRUÇÃO:
+grau 	                   Feminino 53.57%	Masculino  46.43
+Analfabeto	                    12.39%	     13.14%
+Lê e escreve	                    14.77%	     17.19%
+1º grau incompleto	            25.98%	     29.24%
+1º grau completo	             4.47%	      4.90%
+2º grau incompleto	            11.99%	     11.44%
+2º grau completo	            18.85%	     15.64%
+Superior incompleto	             4.46%	      3.77% 
+Superior completo	             7.09%	      4.69%
+
+NIVEL ECONÔMICO:
+Renda	                   Estado de Alagoas	
+Até um salário mínimo	        41.4%	        
+De 1 a 2 salários mínimos	27.8 %	
+De 2 a 5 salários mínimos	20.6 %	
+De 5 a 10 salários mínimos	6.4 %	
+Mais de 10 Sal. mínimos	        3.8 %
+";"O controle interno e verificação, conferência e fiscalização da coleta de dados e do trabalho de campo é feito mediante revisão de 100% (cem por cento) dos questionários aplicados, e checagem de 20% (vinte por cento) das entrevistas feitas por cada pesquisador. Desse modo, cada equipe de 04 (quatro) pesquisadores é acompanhada por um Supervisor, que além de realizar a checagem, verifica em campo o andamento dos trabalhos, recolhendo questionários, orientando e tirando dúvidas.";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000142014";"2014-09-12 00:00:00";"#NE";"11849437000110";"IPESPE  INSTITUTO DE PESQUISAS SOCIAIS POLÍTICAS E ECONÔMICAS";"#NE";"Governador, Senador";"2014-09-13 00:00:00";"2014-09-15 00:00:00";1700;"6ª. Região sob número 5255";"Professor Joaquim André Hermes Figueiredo ";"35000,00";"Pesquisa quantitativa, face a face, através da entrevista a pessoas às quais é aplicado um questionários estruturado. Essas pessoas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do Estado de Alagoas.
+As entrevistas serão realizadas por equipes de pesquisadores, com bastante experiência nesse tipo de trabalho, e especialmente treinados para esta pesquisa.
+";"Serão realizadas 1.700 entrevistas. O plano de amostragem utilizado é o de amostragem aleatória estratificada de conglomerados em três estágios. Para a estratificação são consideradas as regiões do estado, os sexos e as faixas etárias dos entrevistados. No primeiro estágio as unidades amostrais são os municípios (conglomerados). No segundo as unidades amostrais são os bairros  e no terceiro estágio são as pessoas residentes nos bairros. Para a seleção dos entrevistados será utilizado o sistema de cotas amostrais segundo Sexo e Grupos de idade. O número de entrevistas foi estabelecido com base em uma amostragem aleatória simples com um nível estimado de 95,45 % de confiança e uma margem de erro estimada de 2,4 pontos percentuais sobre os resultados encontrados no total da amostra.  A distribuição amostral esperada seria masculino 46 %, feminino 54 %; 16 a 24 anos  20%, 25-44 anos 46%, 45 anos e mais 34 %; nível de instrução até ensino fundamental, 62 %, ensino médio 28% , ensino superior 10 %; renda familiar de até 2 salários mínimos 61 %, de mais de 2 a 5 salários mínimos e de mais de 5 salários mínimos. Está prevista eventual ponderação para correção das variáveis apontadas, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada.";"Após a realização das entrevistas dois pesquisadores, que não estão participado da realização das entrevistas, realizarão uma verificação para constatar a correção do trabalho junto a vinte por cento dos entrevistados.
+Para isso a coordenação de campo sorteará um quinto dos entrevistados por cada pesquisador e entregará aos verificadores cópia do questionário em branco, nome e endereço dos sorteados. Os verificadores procurão comprovar a existência no endereço especificado de pessoa com o nome, o sexo e a faixa etária constante do questionário anteriormente aplicado e também encontra-la para fazer algumas das perguntas que estão nesse instrumento de coleta de informações.  Aqui no escritório se comparará as respostas constantes nos questionários “da checagem” com a existente nos questionários  “da pesquisa”,  a fim de confirmar a correção do trabalho do entrevistador.
+";"A área física de realização da pesquisa é o conjunto dos seguintes municípios do Estado de Alagoas: METROPOLITANA:  Maceió, Rio Largo, Marechal Deodoro, Coqueiro Seco e Paripueira; SERTÃO: Delmiro Gouveia, Santana do Ipanema, Dois Riachos, Canapi, Piranhas, Carneiros e Ouro Branco; AGRESTE/BAIXO SÃO FRANCISCO: Araripina, Palmeira dos Índios, Penedo, São Brás, Estrela de Alagoas, Igreja Nova, Campo Grande, Coité de Nóia e Limoeiro de Anadia; CENTRAL:  Coruripe, São Miguel dos Campos, Cajueiro, Quebrangulo, Viçosa e Maribondo; NORTE: União dos Palmares, São José da Laje, Branquinha, Campestre, Japaratinga e Ibateguara. 
+A relação dos bairros nos quais estão sendo realizadas as entrevistas será apresentada após a realização das mesmas.
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000042014";"2014-05-25 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-05-23 00:00:00";"2014-05-27 00:00:00";812;"6208-A";"Márcia Cavallari Nunes";"55000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 23% (feminino) 22%; 25-34 (masculino) 24% (feminino) 24%; 35-44 (masculino) 19% (feminino) 20%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 18% (feminino) 19%; INSTRUÇÃO: Até Ensino Médio (masculino) 92% (feminino) 86%; Ensino Superior (masculino) 8% (feminino) 14%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 72% (feminino) 41%; Não Economicamente ativo (masculino) 28% (feminino) 59%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2012";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais.";"A área de abrangência da coleta é Alagoas. A relação dos municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §5º da Resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000172014";"2014-09-28 00:00:00";"#NE";"03568752000141";"EMPRESA DE PESQUISAS TÉCNICAS- EIRELI";"#NE";"Governador, Senador";"2014-09-26 00:00:00";"2014-09-29 00:00:00";1200;"8463/6a. Região";"RITA DE CÁSSIA SACRAMENTO SOUZA LEÃO";"45000,00";"METODOLOGIA DA PESQUISA
+A pesquisa é um levantamento estatístico quantitativo, por amostragem estratificada de eleitores, através da coleta de dados primários realizada mediante a aplicação de entrevistas individuais e domiciliares, no Estado de Alagoas, tendo como instrumento um questionário estruturado. Para tanto, pesquisadores especialmente treinados para essa pesquisa fazem a coleta de dados, fiscalizados por supervisores que verificam a consistência dos questionários aplicados. Concluída a coleta, após a conferência e verificação de consistência, serão codificados, digitados e processados eletronicamente pelo software SPSS – Statistical Package for the Social Scienses e emitidos relatórios analíticos e interpretativos em meio impressos e magnético.
+";"PLANO AMOSTRAL
+1.200 entrevistas (100%)
+SEXO:
+Feminino 53.57%	Masculino  46.43
+IDADE: 
+16 - 17	 2.17 %	                           2.30 %
+18 - 20	 7.61 %	                          8.58 % 
+21 - 24	 9.89 %	                       10.46 %
+25 – 34	25.17 %	         25.31 %
+35 – 44	20.87 %	        20.31 %
+45 – 59	22.26 %	       21.08 %
+60 – 69 	 8.35 %	                        8.13 %
+70 - +	 3.67 %	                        3.83 %
+
+INSTRUÇÃO:
+grau 	                   Feminino 53.57%	Masculino  46.43
+Analfabeto	                    12.39%	     13.14%
+Lê e escreve	                    14.77%	     17.19%
+1º grau incompleto	      25.98%	     29.24%
+1º grau completo	        4.47%	      4.90%
+2º grau incompleto	            11.99%	     11.44%
+2º grau completo	            18.85%	     15.64%
+Superior incompleto	             4.46%	      3.77% 
+Superior completo	             7.09%	      4.69%
+
+NIVEL ECONÔMICO:
+Renda	                   Estado de Alagoas	
+Até um salário mínimo	              41.4%	        
+De 1 a 2 salários mínimos	27.8 %	
+De 2 a 5 salários mínimos	20.6 %	
+De 5 a 10 salários mínimos	6.4 %	
+Mais de 10 Sal. mínimos	        3.8 %	
+ Intervalo de confiança 95,%, margem de erro de 2,83% para mais ou para menos.
+";"O controle interno, verificação, conferência e fiscalização da coleta de dados e do trabalho de campo é feito mediante revisão de 100% (cem por cento) dos questionários aplicados, e checagem de 20% (vinte por cento) das entrevistas feitas por cada pesquisador. Desse modo, cada equipe de 04 (quatro) pesquisadores é acompanhada por um Supervisor, que além de realizar a checagem, verifica em campo o andamento dos trabalhos, recolhendo questionários, orientando e tirando dúvidas.";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000062014";"2014-08-09 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-08-10 00:00:00";"2014-08-14 00:00:00";812;"6208-A";"Márcia Cavallari Nunes";"54322,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.
+";"Representativa do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 23% (feminino) 22%; 25-34 (masculino) 24% (feminino) 24%; 35-44 (masculino) 19% (feminino) 20%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 18% (feminino) 19%; INSTRUÇÃO: Até Ensino Médio (masculino) 92% (feminino) 86%; Ensino Superior (masculino) 8% (feminino) 14%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 72% (feminino) 41%; Não Economicamente ativo (masculino) 28% (feminino) 59%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2012 | Entre outras.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais.
+";"A área de abrangência da coleta é  o Estado de Alagoas. A relação dos municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao registro "
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000022014";"2014-03-29 00:00:00";"#NE";"03397255000128";"GRUPO DE PESQUISA MARKETING SAO JUDAS TADEU LTDA";"#NE";"Governador, Senador";"2014-03-29 00:00:00";"2014-04-01 00:00:00";1800;"8492";"Denivaldo da Conceição Fernandes de Oliveira";"38000,00";"METODOLOGIA E PERIODO DE REALIZAÇÃO DA PESQUISA
+ Especificação técnica:
+•	A pesquisa cobrirá todo o Estado de alagoas.
+•	Universo da pesquisa será dos eleitores com 16 anos ou mais.
+Critérios de amostragem:
+A amostra representará os eleitores de Alagoas, selecionados em 2(dois) estágios. 
+•	No primeiro estágio, os setores censitários, onde as entrevistas serão realizadas, foram selecionadas, probabilisticamente, através do método PPT - Probabilidade Proporcional ao Tamanho, tomando o número de eleitores como base para tal seleção. 
+•	No segundo estágio, a seleção do entrevistado, dentro do setor censitário, será feita utilizando-se quotas proporcionais, e a abordagem será domiciliar.
+
+";"PLANO AMOSTRAL E PONDERAÇÃO.
+Ponderação:
+Utilizamos quotas proporcionais, em função das seguintes variáveis:
+•	Sexo, idade, grau de instrução, nível econômico. 
+•	As quotas foram estabelecidas com base nos dados mais atualizados do PNAD/2012 e TSE/ TRE de 2012.
+  Plano amostral:
+ Será utilizada amostra de aproximadamente 1800 entrevistas. Com o intervalo de confiança estimado de 95%, a margem de erro máxima estimada de 2,31% pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+
+Sexo	%
+Masculino	46%
+Feminino	54%
+Total	100%
+	
+
+
+	
+Faixa etária	%
+16 a 24 anos	21%
+25 a 44 anos	46%
+45 a 69 anos	29%
+Acima de 70 anos	3%
+Total	100%
+	
+	
+Grau de instrução	%
+Analfabeto/lê e escreve	30%
+Ensino fundamental (incompleto e completo)	32%
+Ensino médio (incompleto e completo)	28%
+superior (incompleto e completo)	10%
+Total	100%
+	
+	
+Nível econômico	%
+Economicamente ativo	56%
+Não economicamente ativo	44%
+ 	100%
+
+";"SISTEMA INTERNO DE CONFERÊNCIA E VERIFICAÇÃO; CONFERENCIA E FISCALIZAÇÃO DA COLETA DE DADOS E DO TRABALHO DE CAMPO.
+
+Coleta de dados/ conferencia e fiscalização
+A equipe de entrevistadores da TDL, com experiência e treinamento específico em pesquisa de opinião pública, treinadas por Estatístico devidamente credenciado com registro no CONRE (Conselho Regional de Estatística), fará as entrevistas pessoais, com uso de questionário especialmente desenvolvido.
+Conferência e crítica em todos os questionários 
+a)	Checagem em campo (10% sorteados do total aplicado) e reaplicação dos 10% pelo coordenador ou supervisor.
+b)	Codificação
+c)	Digitação
+d)	Tabulação e cálculos percentuais
+e)	Produção do relatório final
+Todos esses procedimentos serão feitos no SOFT Estatístico SPSS. 18.0 
+
+Controle de fiscalização interna:
+Serão fiscalizados 40% dos questionários executados por cada entrevistador, para verificação de cuidado na aplicação do questionário e adequações do entrevistado às variáveis das quotas amostrais.
+Todos os questionários serão checados quanto à consistência e preenchimento.
+";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000012014";"2014-03-21 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-03-22 00:00:00";"2014-03-27 00:00:00";812;"6208-A";"Márcia Cavallari Nunes";"55000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.
+";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico nos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: 
+
+SEXO: Masculino 47% e Feminino 53%; IDADE: 16-24 (masculino) 23% (feminino) 22%; 25-34 (masculino) 24% (feminino) 24%; 35-44 (masculino) 19% (feminino) 21%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 18% (feminino) 19%; INSTRUÇÃO: Até Ensino Médio (masculino) 92% (feminino) 86%; Ensino Superior (masculino) 8% (feminino) 14%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 72% (feminino) 42%; Não Economicamente ativo (masculino) 28% (feminino) 58%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2012
+
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistadores aos parâmetros amostrais.";"A área de abrangência da coleta será no estado de Alagoas. A relação dos municípios
+selecionados para aplicação da amostra será apresentada até o sétimo dia seguinte ao registro da pesquisa, conforme expresso no artigo 2º, § 5º da Resolução 23.400/2013 do TSE.
+"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000182014";"2014-09-28 00:00:00";"#NE";"68802370000186";"IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. ";"#NE";"Governador, Senador";"2014-09-28 00:00:00";"2014-10-03 00:00:00";812;"6208-A";"Márcia Cavallari Nunes";"54322,80";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"Representativa do eleitorado da área em estudo, elaborada em três estágios.
+No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção.
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 23% (feminino) 21%; 25-34 (masculino) 25% (feminino) 25%; 35-44 (masculino) 20% (feminino) 21%; 45-54 (masculino) 15% (feminino) 15%; 55 e+ (masculino) 17% (feminino) 18%; INSTRUÇÃO: Até Ensino Médio (masculino) 91% (feminino) 86%; Ensino Superior (masculino) 9% (feminino) 14%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 73% (feminino) 42%; Não Economicamente ativo (masculino) 27% (feminino) 58%. 
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra.
+FONTE DOS DADOS: Censo 2010 | PNAD 2012 | TSE 2014 | Entre outras.
+";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo IBOPE INTELIGÊNCIA PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Estado de Alagoas. A Relação de municípios selecionados para aplicação da amostra será apresentada até o 7º dia seguinte ao Registro da pesquisa, conforme expresso no art. 2º § 5º da resolução 23.400/2013 do TSE."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000112014";"2014-09-08 00:00:00";"#NE";"09282211000139";"INSTITUTO DATAVOX DE PESQUISA E CONSULTORIA ESTRATÉGICA EM COMUNICAÇÃO LTDA  ME  ";"#NE";"Governador, Senador";"2014-09-07 00:00:00";"2014-09-09 00:00:00";800;"8.463";"RITA DE CÁSSIA SACRAMENTO SOUZA LEÃO";"10000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais e presenciais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.";"ESPECIFICAÇÕES TÉCNICAS DA PESQUISA OBJETIVO: Levantar junto aos eleitores da área em estudo opiniões relacionadas a assuntos POLÍTICOS LOCAL DA PESQUISA: ALAGOAS PERÍODO DE CAMPO : 07 A 09 DE SETEMBRO 2014 UNIVERSO: A pesquisa foi realizada com eleitores a partir de 16 anos da área de estudo. AMOSTRA: A amostra é representativa dos moradores da área pesquisada e foi selecionada em 2 (dois) estágios: 1º ESTÁGIO - Foram selecionados probabilisticamente as localidades (Capital e Inteior) que formaram a amostra através do método PPT (Probabilidade Proporcional ao Tamanho), tomando como base o número de moradores de cada zona. 2º ESTÁGIO - Foi feita à seleção dos entrevistados dentro da localidade, utilizando-se quotas proporcionais em função das seguintes variáveis: * SEXO(% com arrendondamento estatístico) – masculino(48,6%) e feminino(51,4%) – dados do Censo IBGE/2010 e TSE/2014. * GRUPOS DE IDADE(% com arrendondamento estatístico) – de 16 a 24(19,9%), de 25 a 34(26,1%), de 35 a 44(20,0%), 45 ou mais(39,9%). Dados de contagem também do IBGE/2010 e TSE/2014. * GRAUS DE INSTRUÇÃO – dados do IBGE/2010 e TSE/2014. * NÚMERO DE ENTREVISTAS: Foram realizadas 800 entrevistas nas regiões acima citada Capital e Interior do Estado de SERGIPE. * INTERVALO DE CONFIANÇA E MARGEM DE ERRO: O intervalo de confiança é de 95,0% e a margem de erro máxima estimada é de 3,5% para mais ou para menos sobre os resultados encontrados no total da amostra.";"COLETA DE DADOS: para realização da pesquisa é utilizada uma equipe de pesquisadores e supervisores contratados pelo INSTITUTO DATAVOX DE PESQUISA E CONSULTORIA ESTRATÉGICA E COMUNICAÇÃO LTDA (VOZES PESQUISAS) devidamente treinada para o trabalho. apos os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20,0% (vinte por cento) dos questionários aplicados pelo pesquisadores, para verificação das respostas e da equação dos entrevistados aos parâmetros amostrais.";"LOCALIDADES: CAPITAL: Antares, Barro Duro, Bebedouro, Benedito Bentes, Bom Parto, Chã de Bebedouro, Cidade Universitária, Clima Bom, Feitosa, Jacitinho, Jatiuca, Levada, Pescaria, Petrópolis, Poço, Rio Novo, Santa Lucia, Serraria, Tabuleiro dos Martins, Vergel do Lago. INTERIOR: Arapiraca, Belo Monte, Canapi, Colonia Leopoldina, Delmiro Gouveia, Joaquim Gomes, Maribondo, Minador do Negrão, Monteirópolis, Olivença, Palmeira dos Índios, Penedo, Porto de Pedras, Roteiro, São Braz, São José da Tapera, São Miguel dos Campos e Taquarana."
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000052014";"2014-08-06 00:00:00";"#NE";"03568752000141";"EMPRESA DE PESQUISAS TÉCNICAS- EIRELI";"#NE";"Governador, Senador, Deputado Federal, Deputado Estadual";"2014-08-06 00:00:00";"2014-08-11 00:00:00";1200;"8463/6a. Região";"RITA DE CÁSSIA SACRAMENTO SOUZA LEÃO";"45000,00";"O controle interno e verificação, conferência e fiscalização da coleta de dados e do trabalho de campo é feito mediante revisão de 100% (cem por cento) dos questionários aplicados, e checagem de 20% (vinte por cento) das entrevistas feitas por cada pesquisador. Desse modo, cada equipe de 04 (quatro) pesquisadores é acompanhada por um Supervisor, que além de realizar a checagem, verifica em campo o andamento dos trabalhos, recolhendo questionários, orientando e tirando dúvidas.";"O controle interno e verificação, conferência e fiscalização da coleta de dados e do trabalho de campo é feito mediante revisão de 100% (cem por cento) dos questionários aplicados, e checagem de 20% (vinte por cento) das entrevistas feitas por cada pesquisador. Desse modo, cada equipe de 04 (quatro) pesquisadores é acompanhada por um Supervisor, que além de realizar a checagem, verifica em campo o andamento dos trabalhos, recolhendo questionários, orientando e tirando dúvidas.";"O controle interno e verificação, conferência e fiscalização da coleta de dados e do trabalho de campo é feito mediante revisão de 100% (cem por cento) dos questionários aplicados, e checagem de 20% (vinte por cento) das entrevistas feitas por cada pesquisador. Desse modo, cada equipe de 04 (quatro) pesquisadores é acompanhada por um Supervisor, que além de realizar a checagem, verifica em campo o andamento dos trabalhos, recolhendo questionários, orientando e tirando dúvidas.";"#NULO#"
+"27/02/2023";"15:36:19";2014;3;"Eleições Gerais 2014";"AL";"AL";"ALAGOAS";"AL000202014";"2014-09-29 00:00:00";"#NE";"11849437000110";"IPESPE  INSTITUTO DE PESQUISAS SOCIAIS POLÍTICAS E ECONÔMICAS";"#NE";"Governador, Senador";"2014-10-01 00:00:00";"2014-10-02 00:00:00";1700;"6ª. Região sob número 5255";"Professor Joaquim André Hermes Figueiredo ";"35000,00";"Pesquisa quantitativa, face a face, através de entrevistas a pessoas às quais é aplicado um questionário estruturado. Essas pessoas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do Estado de Alagoas.
+As entrevistas serão realizadas por equipes de pesquisadores, com bastante experiência nesse tipo de trabalho, e especialmente treinados para esta pesquisa.
+";"Serão realizadas 1.700 entrevistas. O plano de amostragem utilizado é o de amostragem aleatória estratificada de conglomerados em três estágios. Para a estratificação são consideradas as regiões do estado, os sexos e as faixas etárias dos entrevistado. No primeiro estágio as unidades amostrais são os municípios (conglomerados). No segundo as unidades amostrais são os bairros  e no terceiro estágio são as pessoas residentes nos bairros. Para a seleção dos entrevistados será utilizado o sistema de cotas amostrais segundo Sexo e Grupos de idade. O número de entrevistas foi estabelecido com base em uma amostragem aleatória simples com um nível estimado de 95,45 % de confiança e uma margem de erro estimada de 2,4 pontos percentuais sobre os resultados encontrados no total da amostra.  A distribuição amostral esperada seria masculino 46 %, feminino 54 %; 16 a 24 anos  20%, 25-44 anos 46%, 45 anos e mais 34 %; nível de instrução até ensino fundamental, 62 %, ensino médio 28% , ensino superior 10 %; renda familiar de até 2 salários mínimos 61 %, de mais de 2 a 5 salários mínimos e de mais de 5 salários mínimos. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada.";"Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área física de realização da pesquisa é o conjunto dos seguintes municípios do Estado de Alagoas: METROPOLITANA:  Maceió, Rio Largo, Marechal Deodoro, Coqueiro Seco e Paripueira; SERTÃO: Delmiro Gouveia, Santana do Ipanema, Dois Riachos, Canapi, Piranhas, Carneiros e Ouro Branco; AGRESTE/BAIXO SÃO FRANCISCO: Arapiraca, Palmeira dos Índios, Penedo, São Brás, Estrela de Alagoas, Igreja Nova, Campo Grande, Coité de Nóia e Limoeiro de Anadia; CENTRAL:  Coruripe, São Miguel dos Campos, Cajueiro, Quebrangulo, Viçosa e Maribondo; NORTE: União dos Palmares, São José da Laje, Branquinha, Campestre, Japaratinga e Ibateguara. 
+A relação dos bairros nos quais estão sendo realizadas as entrevistas será apresentada após a realização das mesmas.
+"

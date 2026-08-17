@@ -1,0 +1,647 @@
+"DT_GERACAO";"HH_GERACAO";"AA_ELEICAO";"CD_ELEICAO";"NM_ELEICAO";"SG_UF";"SG_UE";"NM_UE";"NR_PROTOCOLO_REGISTRO";"DT_REGISTRO";"ST_PESQUISA_PROPRIA";"NR_CNPJ_EMPRESA";"NM_EMPRESA";"NM_EMPRESA_FANTASIA";"DS_CARGO";"DT_INICIO_PESQUISA";"DT_FIM_PESQUISA";"DT_DIVULGACAO";"QT_ENTREVISTADO";"CD_CONRE";"NM_ESTATISTICO_RESP";"VR_PESQUISA";"DS_METODOLOGIA_PESQUISA";"DS_PLANO_AMOSTRAL";"DS_SISTEMA_CONTROLE";"DS_DADO_MUNICIPIO"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF072282022";"2022-09-23 21:52:58";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-09-27 00:00:00";"2022-09-28 00:00:00";"2022-09-29 00:00:00";1000;"10839";"Isabela Zara Cremoneze";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 14% (feminino) 13%; 
+25-34 (masculino) 21% (feminino) 20%;
+ 35-44 (masculino) 23% (feminino) 23%;
+ 45-59 (masculino) 26% (feminino) 26%;
+ 60 e+ (masculino) 16% (feminino) 18%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 68% (feminino) 66%;
+ Ensino Superior (masculino) 32% (feminino) 34%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 73% (feminino) 58%;
+ Não Economicamente ativo (masculino) 27% (feminino) 42%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Será anexado de acordo com a resolução."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF000402022";"2022-06-02 21:35:40";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-06-06 00:00:00";"2022-06-07 00:00:00";"2022-06-08 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Distrito Federal, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE (https://www.tre-df.jus.br/transparencia-e-prestacao-de-contas/paineis/perfil-do-eleitorado) e do CENSO 2010.";"O plano Amostral segundo os itens exigidos por lei seguem descritos: 
+Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. 
+Amostragem: A pesquisa irá entrevistar 1500 eleitores. 
+Coeficiente de confiança e margem de erro:  A margem de erro de 3,0% para um intervalo e confiança de 95%.
+As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. 
+Sexo: Feminino 54,0% Masculino 46,0%   
+Faixa Etária: De 16 a 24 anos 11,1% ; De 25 a 34 anos 21,1%; De 35 a 44 anos 23,6%; De 45 a 59 anos 26,7 %; Mais de 60 anos 17,5%.
+Grau de Instrução: Até Fundamental Completo 22,9%; Ensino Médio incompleto ou Completo 43,3%;  Ensino Superior Incompleto ou Completo 33,8%.
+Renda: Até 2 salários mínimos 66,6%; De 2 a 5 salários mínimos 14,7%;  Acima de 5 salários mínimos 18,7%
+Fonte:  https://www.tre-df.jus.br/transparencia-e-prestacao-de-contas/paineis/perfil-do-eleitorado  e      https://cidades.ibge.gov.br/brasil/df/pesquisa/23/22787?detalhes=true   (CENSO 2010)
+
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.
+";"Em anexo"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF010362022";"2022-03-15 00:00:00";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-03-18 00:00:00";"2022-03-19 00:00:00";"2022-03-21 00:00:00";1500;"10839";"Isabela Zara Cremoneze";"20000,00";"A abordagem utilizada consiste na aplicação de uma amostragem aleatória representativa da população residente no Distrito Federal, com 16 anos ou mais de idade. A amostra é selecionada respeitando-se quotas proporcionais controladas por região geográfica, sexo e faixa etária, escolaridade e renda de acordo com distribuição da população eleitoral apresentada pelo TSE (https://www.tre-df.jus.br/transparencia-e-prestacao-de-contas/paineis/perfil-do-eleitorado) e do CENSO 2010 (IBGE).";"O plano Amostral segundo os itens exigidos por lei seguem descritos: 
+Universo: Eleitorado do Distrito Federal, com 16 anos ou mais. 
+Amostragem: A pesquisa irá entrevistar 1500 eleitores. 
+Coeficiente de confiança e margem de erro:  A margem de erro de 3,0% para um intervalo e confiança de 95%.
+
+As ponderações em relação a sexo, idade, grau de instrução e nível econômico, estão descritas no questionário refletindo estatisticamente a proporção do eleitorado consultado. 
+Sexo: Feminino 54,0% Masculino 46,0%   
+Faixa Etária: De 16 a 24 anos 11,1% ; De 25 a 34 anos 21,1%; De 35 a 44 anos 23,6%; De 45 a 59 anos 26,7 %; Mais de 60 anos 17,5%.
+Grau de Instrução: Até Fundamental Completo 22,9%; Ensino Médio incompleto ou Completo 43,3%;  Ensino Superior Incompleto ou Completo 33,8%.
+Renda: Até 2 salários mínimos 66,6%; De 2 a 5 salários mínimos 14,7%;  Acima de 5 salários mínimos 18,7%
+Fonte:  https://www.tre-df.jus.br/transparencia-e-prestacao-de-contas/paineis/perfil-do-eleitorado  e      https://cidades.ibge.gov.br/brasil/df/pesquisa/23/22787?detalhes=true   (CENSO 2010)
+
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Em anexo"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF020812022";"2022-07-19 23:18:51";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-07-22 00:00:00";"2022-07-23 00:00:00";"2022-07-25 00:00:00";1500;"10839";"ISABELA ZARA CREMONEZE";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.
+
+";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 14% (feminino) 13%; 
+25-34 (masculino) 21% (feminino) 20%;
+ 35-44 (masculino) 23% (feminino) 23%;
+ 45-59 (masculino) 26% (feminino) 26%;
+ 60 e+ (masculino) 16% (feminino) 18%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 68% (feminino) 66%;
+ Ensino Superior (masculino) 32% (feminino) 34%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 73% (feminino) 58%;
+ Não Economicamente ativo (masculino) 27% (feminino) 42%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+";"O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Em anexo."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF023282022";"2022-09-06 17:40:07";"N";"22345021000181";"REAL TIME MIDIA LTDA";"REAL TIME BIG DATA";"Governador, Senador";"2022-09-09 00:00:00";"2022-09-10 00:00:00";"2022-09-12 00:00:00";1000;"10839";"ISABELA ZARA CREMONEZE";"20000,00";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. 
+No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. 
+No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:
+ IDADE:
+ 16-24 (masculino) 14% (feminino) 13%; 
+25-34 (masculino) 21% (feminino) 20%;
+ 35-44 (masculino) 23% (feminino) 23%;
+ 45-59 (masculino) 26% (feminino) 26%;
+ 60 e+ (masculino) 16% (feminino) 18%;
+INSTRUÇÃO: 
+Até Ensino Médio (masculino) 68% (feminino) 66%;
+ Ensino Superior (masculino) 32% (feminino) 34%; 
+NÍVEL ECONÔMICO: 
+Economicamente ativo (masculino) 73% (feminino) 58%;
+ Não Economicamente ativo (masculino) 27% (feminino) 42%.
+Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo).
+ O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3 (três) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.
+";" O trabalho de coleta de dados é acompanhado in loco por supervisores de campo. São selecionados aleatoriamente 15% (quinze por cento) dos questionários para uma verificação posterior com ligações telefônicas para os números indicados nos formulários, em caso de dúvida, o formulário é descartado e o entrevistador chamado para esclarecimentos.";"Será anexado de acordo com a resolução."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF017482022";"2022-07-11 14:29:22";"N";"24302422000180";"OPP O PRIMEIRO PORTAL PESQUISA DE MERCADO LTDA";"OPP O PRIMEIRO PORTAL E VERITAS IP";"Governador";"2022-06-28 00:00:00";"2022-07-01 00:00:00";"2022-07-17 00:00:00";1536;"8991";"Geraldo Lopes de Souza Júnior";"20000,00";"Pesquisa quantitativa que consiste na realização de entrevistas pessoais e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no Distrito Federal.";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no Distrito Federal. Para produzir uma amostra representativa desse público-alvo utilizamos um desenho amostral por conglomerados que prevê dois estágios. No primeiro estágio, é realizado um sorteio probabilístico por meio do método PPT (Probabilidade Proporcional ao Tamanho) aos pontos de fluxo a serem visitados pelos entrevistadores, sorteio que tem como base o total de eleitores acima de 16 anos residentes nos setores. Em seguida, são selecionadas as pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte: SEXO: Masculino (46%); Feminino (54%). IDADE: 16-24 anos (14%); 25-34 anos (21%); 35-44 anos (23%); 45-59 anos (26%); 60 ou mais (16%). RENDA FAMILIAR: Até 2 SM (33%); mais de 2 a 5 SM (30%); acima de 5 SM (37%). ESCOLARIDADE: Até Fundamental completo (23%); Médio incompleto ou completo (42%); Superior incompleto ou completo (35%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010. Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. Dentro do público-alvo, serão realizadas 1536 entrevistas no Distrito Federal. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2,5 pontos percentuais para mais ou para menos em relação aos totais da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 15% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é Distrito Federal com um total de 1.536 entrevistas distribuídos nas seguintes áreas: Águas Claras (73); Brasília/Plano Piloto (115); Brazlândia (29); Candangolândia (17); Ceilândia (229); Cruzeiro (21); Gama (71); Guará (73); Itapoã (34); Jardim Botânico (20); Lago Norte (22); Lago Sul (21); Núcleo Bandeirante (17); Paranoá (27); Park Way (17); Planaltina (96); Recanto das Emas (75); Riacho Fundo (22); Riacho Fundo II (28); Samambaia (128); Santa Maria (61); São Sebastião (50); Scia Estrutural (20); Sobradinho (35); Sobradinho II (53); Sudoeste/Octogonal (34); Taguatinga (108); Vicente Pires (42)."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF006392022";"2022-09-23 21:43:29";"N";"07465676000108";"CENTRO DE ESTUDOS E PESQUISAS POLITICAS HISTORICAS E DE ORGANIZACOES (CEPPHOR)";"CEPPHOR";"Deputado Federal, Deputado Distrital";"2022-09-23 00:00:00";"2022-09-26 00:00:00";"2022-09-29 00:00:00";2000;"8631";"Alexandre Vasconcelos Lima";"18000,00";"Pesquisa do tipo quantitativa (survey), por amostragem, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado da Região Administrativa do Riacho Fundo-DF com 16 anos ou mais foi tomado como universo da pesquisa.
+";"O plano amostral aplicado consiste em uma amostragem por cotas segundo as variáveis sexo e faixa etária (conforme dados disponíveis no site da CODEPLAN/DF para a RA do Riacho Fundo/DF). A pesquisa foi autoponderada para a variável escolaridade e nível econômico, ou seja, a proporção do universo pesquisado é o mesmo daquele encontrado na amostra, não sendo necessário nenhum tipo de ponderação. As cotas são as seguintes: Quanto ao sexo: 44% do sexo masculino e 56% do sexo feminino. Quanto à faixa etária: 40% até 34 anos, 44% de 35 a 59 anos, 16% 60 anos ou mais. Considerando um nível de confiança de 95% e uma amostra de 2.000 entrevistados, a margem de erro da pesquisa é de 2 pontos percentuais para mais ou para menos.
+";"Os pesquisadores envolvidos na realização desta pesquisa são treinados pelo Instituto e recebem instruções específicas para a realização da coleta de dados. São checados, no mínimo, 10% dos questionários de cada pesquisador, in loco por supervisores de campo. Internamente, todo o material é verificado, codificado, digitado e, antes do processamento final, realiza-se a conferência da digitação (consistência dos dados).
+";"A pesquisa ocorrerá somente na região administrativa do Riacho Fundo - DF."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF055042022";"2022-08-12 12:45:20";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-08-13 00:00:00";"2022-08-18 00:00:00";"2022-08-18 00:00:00";1200;"10992";"Juliana Pinto Pereira Dias";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 46%; Feminino: 54%; Grupos de idade: 16-24: 13%; 25-34: 21%; 35-44: 24%; 45-59: 26%; 60 anos e mais: 16%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2022.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º, III da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF095932022";"2022-05-10 00:00:00";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador";"2022-05-11 00:00:00";"2022-05-16 00:00:00";"2022-05-16 00:00:00";1200;"10524";"Adriana Aparecida Marçal";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 47%; Feminino: 53%; Grupos de idade: 16-24: 16%; 25-34: 23%; 35-44: 23%; 45-59: 22%; 60 anos e mais: 15%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §6º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF041712022";"2022-06-15 14:53:39";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-06-16 00:00:00";"2022-06-21 00:00:00";"2022-06-21 00:00:00";1200;"10524";"Adriana Aparecida Marçal";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 47%; Feminino: 53%; Grupos de idade: 16-24: 16%; 25-34: 23%; 35-44: 23%; 45-59: 22%; 60 anos e mais: 15%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §6º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF029592022";"2022-07-12 12:00:23";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-07-13 00:00:00";"2022-07-17 00:00:00";"2022-07-18 00:00:00";1200;"10992";"Juliana Pinto Pereira Dias";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 47%; Feminino: 53%; Grupos de idade: 16-24: 16%; 25-34: 23%; 35-44: 23%; 45-59: 22%; 60 anos e mais: 15%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §6º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF065512022";"2022-09-23 14:35:24";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-09-23 00:00:00";"2022-09-27 00:00:00";"2022-09-29 00:00:00";1200;"10524";"Adriana Aparecida Marçal";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 47%; Feminino: 53%; Grupos de idade: 16-24: 16%; 25-34: 23%; 35-44: 23%; 45-59: 22%; 60 anos e mais: 15%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF035442022";"2022-09-13 21:36:16";"N";"41938632000188";"MM IDEIA INSTITUTO DE PESQUISA LTDA.";"INSTITUTO IDEIA";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-09-14 00:00:00";"2022-09-19 00:00:00";"2022-09-19 00:00:00";1200;"10524";"Adriana Aparecida Marçal";"23820,00";"Pesquisa quantitativa com aplicação de questionário estruturado, através de inquérito telefônico, junto a uma parcela representativa do eleitorado do Distrito Federal.";"Representativo do eleitorado da área em estudo selecionado por amostragem através do método de probabilidade proporcional ao tamanho (PPT), considerando a população com 16 anos ou mais residente na localidade pesquisada em função das seguintes variáveis: Gênero: Masculino: 47%; Feminino: 53%; Grupos de idade: 16-24: 16%; 25-34: 23%; 35-44: 23%; 45-59: 22%; 60 anos e mais: 15%; Grau de instrução: até Ensino Médio 64%; Ensino Superior 36%. NÍVEL ECONÔMICO: Economicamente Ativo: 69% Não Economicamente Ativo: 31%. Ponderação dos resultados: Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). Margem de Erro: A margem de erro máxima estimada é de 3% para mais ou para menos, considerando um nível de confiança de 95%. Os intervalos de confiança serão calculados considerando os resultados obtidos para um nível de confiança de 95%. FONTE DOS DADOS: As proporções das variáveis são definidas a partir das pesquisas PNAD 2021 e Censo 2010/IBGE, TSE 2021.";"Os pesquisadores envolvidos na realização desta pesquisa são devidamente treinados para aplicação da técnica e deste tipo de questionário, recebendo instruções específicas para cada projeto. A coleta será feita por telefone. São checados 30% dos questionários de cada pesquisador, posteriormente, por telefone. Há monitoramento, ao vivo, de contatos telefônicos. Internamente, todo o material é verificado e codificado. Antes do processamento final e emissão dos resultados, realiza-se processo de consistência dos dados.";"A área de abrangência da coleta é o Distrito Federal. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §6º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF082272022";"2022-07-11 20:35:21";"N";"22445600000104";"QUAEST PESQUISAS, CONSULTORIA E PROJETOS LTDA.";"#NULO#";"Governador, Senador";"2022-07-11 00:00:00";"2022-07-14 00:00:00";"2022-07-17 00:00:00";1500;"6731";"Margarida Maria de Mendonça";"147500,00";"Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais no Distrito Federal.";"O público pesquisado é composto por eleitores de 16 anos ou mais residentes no Distrito Federal. Para produzir uma amostra desse público-alvo, utilizamos um desenho amostral por conglomerados que prevê dois estágios. No primeiro estágio, é feito um sorteio probabilístico de municípios para comporem a amostra por meio do método PPT (Probabilidade Proporcional ao Tamanho) de setores censitários a serem visitados pelos entrevistadores, sorteio que tem como base o total de habitantes acima de 16 anos residentes nos setores. No segundo estágio, são selecionados domicílios e pessoas a serem entrevistadas utilizando-se cotas amostrais para as seguintes variáveis: sexo, idade, renda familiar e escolaridade. O perfil da amostra, definido pelas cotas previstas, é o seguinte:
+
+SEXO: Masculino (46%); Feminino (54%). IDADE: 16-24 anos (12%); 25-34 anos (21%); 35-44 anos (24%); 45-59 anos (26%); 60 ou mais (17%). RENDA FAMILIAR: Até 2 salários-mínimos (20%); mais de 2 a 5 salários-mínimos (33%); acima de 5 salários-mínimos (47%). ESCOLARIDADE/INSTRUÇÃO: Até Fundamental completo (22%); Ensino médio incompleto ou completo (38%); Ensino superior incompleto ou completo (40%). Fonte dos dados: TSE-Tribunal Superior Eleitoral - 2022; IBGE-Censo 2010; IBGE-PNADC 2021 e 2022.
+
+Está prevista eventual ponderação da amostra para correção das variáveis sexo, idade, renda familiar e escolaridade com base nos percentuais anteriormente mencionados, caso ocorram diferenças entre os percentuais previstos na amostra e a coleta de dados realizada. 
+
+Dentro do público-alvo, serão realizadas 1500 entrevistas. O nível de confiança estimado é de 95% e a margem de erro máxima prevista, baseada em uma amostra aleatória simples (AAS), é de cerca de 2,5 pontos percentuais para mais ou para menos em relação aos totais da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores devidamente qualificada, com experiência e treinamento em pesquisa de opinião pública. Todo trabalho é feito em tablets ou outros dispositivos eletrônicos. Após a realização da coleta de dados, as entrevistas junto aos respondentes são checadas por meio de procedimentos de consistência. Adicionalmente, ao longo e após os trabalhos de campo, é realizada uma fiscalização que consiste na checagem de uma amostra de 20% dos questionários aplicados para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o Distrito Federal. A relação das áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF095232022";"2022-08-30 17:21:47";"N";"02501289000158";"OPINIAO CONSULTORIA LTDA";"OPINIAO";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-08-31 00:00:00";"2022-09-03 00:00:00";"2022-09-05 00:00:00";1100;"7745";"Alexandre de Araújo Garcia";"28000,00";"Pesquisa quantitativa face-a-face realizada por meio de questionário estruturado e aplicado por entrevistadores treinados e seguindo os critérios da norma ABNT NBR ISO 20.252:2012 e coleta de dados utilizando tablets com monitoramento GPS para garantir confiabilidade e qualidade. O público-alvo da pesquisa é o universo de eleitores do Distrito Federal. Para tanto, elaborou-se um desenho amostral que contemple todo o DF. Haverá perguntas filtro para que seja garantido que os entrevistados pertençam ao público-alvo de interesse da pesquisa.";"Foi considerado o universo de eleitores disponíveis no TSE (2.204.086 eleitores / Maio 2022). O plano amostral foi elaborado usando dados da CODEPLAN (PDAD 2015), TSE (estatísticas do eleitorado, 2022) e IBGE (CENSO 2010). A amostra representativa do eleitorado do DF foi elaborada por meio do controle de quotas por sexo, idade e instrução, conforme a seguinte distribuição: IDADE HOMENS: 16 a 24 anos 22,26%; 25 a 34 anos 19,43%; 35 a 44 anos 18,69%; 45 a 59 anos 21,74%; 60 anos ou mais 17,88%; IDADE MULHERES: : 16 a 24 anos 18,74%; 25 a 34 anos 18,84%; 35 a 44 anos 19,35%; 45 a 59 anos 23,12%; 60 anos ou mais 19,95%; ESCOLARIDADE: Ensino fundamental incompleto 17,36%; Ensino fundamental completo / ensino médio incompleto 18,98%; Ensino médio completo 30,26%; Ensino superior incompleto 10,33%; Ensino superior completo 23,06%. Se necessário, os dados serão ponderados segundo as variáveis sexo e idade, para corrigir possíveis distorções entre o plano amostral previsto e o executado. As variáveis grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (amostra auto ponderada). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, e de 3%. para mais ou para menos sobre os resultados encontrados no total da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores contratados pela OPINIÃO. Os questionários serão aplicados utilizando-se tablets com um sistema eletrônico pelo qual as entrevistas serão gravadas e auditadas para garantir a qualidade do campo realizado. Neste ambiente eletrônico as entrevistas realizadas estarão disponíveis para a supervisão acrescidas de time stamps por questão, coordenadas GPS do local da realização da entrevista e pelo menos 50% das entrevistas mapeadas, e 50% dos áudios das entrevistas realizadas. Com estes elementos, 10% das entrevistas realizadas por pesquisador serão fiscalizadas para verificação das respostas e adequação dos entrevistados aos parâmetros amostrais e de qualidade do campo.";"Águas Claras-52; Brasília/Plano Piloto-82; Brazlândia-21; Candangolândia-12; Ceilândia-164; Cruzeiro-15; Gama-51; Guará-52; Itapoã-24; Jardim Botânico-14; Lago Norte-16; Lago Sul-15; Núcleo Bandeirante-12; Paranoá-19; Park Way-12; Planaltina-69; Recanto das Emas-54; Riacho Fundo-16; Riacho Fundo II-20; Samambaia-92; Santa Maria-44; São Sebastião-36; Scia-Estrutural-14; Sobradinho-25; Sobradinho II-38; Sudoeste/Octogonal-24; Taguatinga-77; Vicente Pires-30"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF078382022";"2022-08-17 11:40:49";"N";"02501289000158";"OPINIAO CONSULTORIA LTDA";"OPINIAO";"Governador, Senador, Deputado Federal";"2022-08-18 00:00:00";"2022-08-20 00:00:00";"2022-08-23 00:00:00";1100;"7745";"Alexandre de Araújo Garcia";"28000,00";"Pesquisa quantitativa face-a-face realizada por meio de questionário estruturado e aplicado por entrevistadores treinados e seguindo os critérios da norma ABNT NBR ISO 20.252:2012 e coleta de dados utilizando tablets com monitoramento GPS para garantir confiabilidade e qualidade. O público-alvo da pesquisa é o universo de eleitores do Distrito Federal. Para tanto, elaborou-se um desenho amostral que contemple todo o DF. Haverá perguntas filtro para que seja garantido que os entrevistados pertençam ao público-alvo de interesse da pesquisa.";"Foi considerado o universo de eleitores disponíveis no TSE (2.204.086 eleitores / Maio 2022). O plano amostral foi elaborado usando dados da CODEPLAN (PDAD 2015), TSE (estatísticas do eleitorado, 2022) e IBGE (CENSO 2010). A amostra representativa do eleitorado do DF foi elaborada por meio do controle de quotas por sexo, idade e instrução, conforme a seguinte distribuição: IDADE HOMENS: 16 a 24 anos 22,26%; 25 a 34 anos 19,43%; 35 a 44 anos 18,69%; 45 a 59 anos 21,74%; 60 anos ou mais 17,88%; IDADE MULHERES: : 16 a 24 anos 18,74%; 25 a 34 anos 18,84%; 35 a 44 anos 19,35%; 45 a 59 anos 23,12%; 60 anos ou mais 19,95%; ESCOLARIDADE: Ensino fundamental incompleto 17,36%; Ensino fundamental completo / ensino médio incompleto 18,98%; Ensino médio completo 30,26%; Ensino superior incompleto 10,33%; Ensino superior completo 23,06%. Se necessário, os dados serão ponderados segundo as variáveis sexo e idade, para corrigir possíveis distorções entre o plano amostral previsto e o executado. As variáveis grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (amostra auto ponderada). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, e de 3%. para mais ou para menos sobre os resultados encontrados no total da amostra.";"s entrevistas serão realizadas por uma equipe de entrevistadores e supervisores contratados pela OPINIÃO. Os questionários serão aplicados utilizando-se tablets com um sistema eletrônico pelo qual as entrevistas serão gravadas e auditadas para garantir a qualidade do campo realizado. Neste ambiente eletrônico as entrevistas realizadas estarão disponíveis para a supervisão acrescidas de time stamps por questão, coordenadas GPS do local da realização da entrevista e pelo menos 50% das entrevistas mapeadas, e 50% dos áudios das entrevistas realizadas. Com estes elementos, 10% das entrevistas realizadas por pesquisador serão fiscalizadas para verificação das respostas e adequação dos entrevistados aos parâmetros amostrais e de qualidade do campo.";"Águas Claras-52; Brasília/Plano Piloto-82; Brazlândia-21; Candangolândia-12; Ceilândia-164; Cruzeiro-15; Gama-51; Guará-52; Itapoã-24; Jardim Botânico-14; Lago Norte-16; Lago Sul-15; Núcleo Bandeirante-12; Paranoá-19; Park Way-12; Planaltina-69; Recanto das Emas-54; Riacho Fundo-16; Riacho Fundo II-20; Samambaia-92; Santa Maria-44; São Sebastião-36; Scia-Estrutural-14; Sobradinho-25; Sobradinho II-38; Sudoeste/Octogonal-24; Taguatinga-77; Vicente Pires-30"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF053672022";"2022-06-09 17:23:51";"N";"02501289000158";"OPINIAO CONSULTORIA LTDA";"OPINIAO";"Governador, Senador";"2022-06-09 00:00:00";"2022-06-12 00:00:00";"2022-06-15 00:00:00";1100;"7745";"Alexandre de Araújo Garcia";"28000,00";"Pesquisa quantitativa face-a-face realizada por meio de questionário estruturado e aplicado por entrevistadores treinados e seguindo os critérios da norma ABNT NBR ISO 20.252:2012 e coleta de dados utilizando tablets com monitoramento GPS para garantir confiabilidade e qualidade. O público-alvo da pesquisa é o universo de eleitores do Distrito Federal. Para tanto, elaborou-se um desenho amostral que contemple todo o DF. Haverá perguntas filtro para que seja garantido que os entrevistados pertençam ao público-alvo de interesse da pesquisa.";"Foi considerado o universo de eleitores disponíveis no TSE (2.204.086 eleitores / Maio 2022). O plano amostral foi elaborado usando dados da CODEPLAN (PDAD 2015), TSE (estatísticas do eleitorado, 2022) e IBGE (CENSO 2010). A amostra representativa do eleitorado do DF foi elaborada por meio do controle de quotas por sexo, idade e instrução, conforme a seguinte distribuição: IDADE HOMENS: 16 a 24 anos 22,26%; 25 a 34 anos 19,43%; 35 a 44 anos 18,69%; 45 a 59 anos 21,74%; 60 anos ou mais 17,88%; IDADE MULHERES: : 16 a 24 anos 18,74%; 25 a 34 anos 18,84%; 35 a 44 anos 19,35%; 45 a 59 anos 23,12%; 60 anos ou mais 19,95%; ESCOLARIDADE: Ensino fundamental incompleto 17,36%; Ensino fundamental completo / ensino médio incompleto 18,98%; Ensino médio completo 30,26%; Ensino superior incompleto 10,33%; Ensino superior completo 23,06%. Se necessário, os dados serão ponderados segundo as variáveis sexo e idade, para corrigir possíveis distorções entre o plano amostral previsto e o executado. As variáveis grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (amostra auto ponderada). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, e de 3%. para mais ou para menos sobre os resultados encontrados no total da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores contratados pela OPINIÃO. Os questionários serão aplicados utilizando-se tablets com um sistema eletrônico pelo qual as entrevistas serão gravadas e auditadas para garantir a qualidade do campo realizado. Neste ambiente eletrônico as entrevistas realizadas estarão disponíveis para a supervisão acrescidas de time stamps por questão, coordenadas GPS do local da realização da entrevista e pelo menos 50% das entrevistas mapeadas, e 50% dos áudios das entrevistas realizadas. Com estes elementos, 10% das entrevistas realizadas por pesquisador serão fiscalizadas para verificação das respostas e adequação dos entrevistados aos parâmetros amostrais e de qualidade do campo.";"Águas Claras-52; Brasília/Plano Piloto-82; Brazlândia-21; Candangolândia-12; Ceilândia-164; Cruzeiro-15; Gama-51; Guará-52; Itapoã-24; Jardim Botânico-14; Lago Norte-16; Lago Sul-15; Núcleo Bandeirante-12; Paranoá-19; Park Way-12; Planaltina-69; Recanto das Emas-54; Riacho Fundo-16; Riacho Fundo II-20; Samambaia-92; Santa Maria-44; São Sebastião-36; Scia-Estrutural-14; Sobradinho-25; Sobradinho II-38; Sudoeste/Octogonal-24; Taguatinga-77; Vicente Pires-30"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF097792022";"2022-09-20 19:26:15";"N";"02501289000158";"OPINIAO CONSULTORIA LTDA";"OPINIAO";"Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital";"2022-09-21 00:00:00";"2022-09-24 00:00:00";"2022-09-26 00:00:00";1100;"7745";"Alexandre de Araújo Garcia";"28000,00";"Pesquisa quantitativa face-a-face realizada por meio de questionário estruturado e aplicado por entrevistadores treinados e seguindo os critérios da norma ABNT NBR ISO 20.252:2012 e coleta de dados utilizando tablets com monitoramento GPS para garantir confiabilidade e qualidade. O público-alvo da pesquisa é o universo de eleitores do Distrito Federal. Para tanto, elaborou-se um desenho amostral que contemple todo o DF. Haverá perguntas filtro para que seja garantido que os entrevistados pertençam ao público-alvo de interesse da pesquisa.";"Foi considerado o universo de eleitores disponíveis no TSE (2.204.086 eleitores / Maio 2022). O plano amostral foi elaborado usando dados da CODEPLAN (PDAD 2015), TSE (estatísticas do eleitorado, 2022) e IBGE (CENSO 2010). A amostra representativa do eleitorado do DF foi elaborada por meio do controle de quotas por sexo, idade e instrução, conforme a seguinte distribuição: IDADE HOMENS: 16 a 24 anos 22,26%; 25 a 34 anos 19,43%; 35 a 44 anos 18,69%; 45 a 59 anos 21,74%; 60 anos ou mais 17,88%; IDADE MULHERES: : 16 a 24 anos 18,74%; 25 a 34 anos 18,84%; 35 a 44 anos 19,35%; 45 a 59 anos 23,12%; 60 anos ou mais 19,95%; ESCOLARIDADE: Ensino fundamental incompleto 17,36%; Ensino fundamental completo / ensino médio incompleto 18,98%; Ensino médio completo 30,26%; Ensino superior incompleto 10,33%; Ensino superior completo 23,06%. Se necessário, os dados serão ponderados segundo as variáveis sexo e idade, para corrigir possíveis distorções entre o plano amostral previsto e o executado. As variáveis grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (amostra auto ponderada). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, e de 3%. para mais ou para menos sobre os resultados encontrados no total da amostra.";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores contratados pela OPINIÃO. Os questionários serão aplicados utilizando-se tablets com um sistema eletrônico pelo qual as entrevistas serão gravadas e auditadas para garantir a qualidade do campo realizado. Neste ambiente eletrônico as entrevistas realizadas estarão disponíveis para a supervisão acrescidas de time stamps por questão, coordenadas GPS do local da realização da entrevista e pelo menos 50% das entrevistas mapeadas, e 50% dos áudios das entrevistas realizadas. Com estes elementos, 10% das entrevistas realizadas por pesquisador serão fiscalizadas para verificação das respostas e adequação dos entrevistados aos parâmetros amostrais e de qualidade do campo.";"Águas Claras-52; Brasília/Plano Piloto-82; Brazlândia-21; Candangolândia-12; Ceilândia-164; Cruzeiro-15; Gama-51; Guará-52; Itapoã-24; Jardim Botânico-14; Lago Norte-16; Lago Sul-15; Núcleo Bandeirante-12; Paranoá-19; Park Way-12; Planaltina-69; Recanto das Emas-54; Riacho Fundo-16; Riacho Fundo II-20; Samambaia-92; Santa Maria-44; São Sebastião-36; Scia-Estrutural-14; Sobradinho-25; Sobradinho II-38; Sudoeste/Octogonal-24; Taguatinga-77; Vicente Pires-30"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF053782022";"2022-09-05 20:19:55";"S";"49875610000128";"BRASMARKET ANALISE E INVESTIGACAO DE MERCADO LTDA";"BRASMARKET";"Governador, Senador";"2022-09-06 00:00:00";"2022-09-10 00:00:00";"2022-09-11 00:00:00";800;"8179";"Bruno Agra Ferreira";"15000,00";"METODOLOGIA: Pesquisa quantitativa, através de entrevistas por contato telefônico, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. ";"Público pesquisado: eleitores do estado do Distrito Federal com 16 anos ou mais. II) Tipo de amostra: A amostra é representativa do eleitorado do estado do Distrito Federal, selecionadas em três estágios (Município/Bairro/Domicílio): No primeiro estágio fez-se um sorteio probabilísticos dos municípios pesquisados dentro de cada mesorregião, pelo método da probabilidade proporcional ao tamanho (PPT), tomando a população de cada município, como base para tal seleção. No segundo estágio, dentro dos municípios sorteados serão selecionados aleatoriamente bairros onde as entrevistas serão realizadas. No terceiro estágio, dentro dos bairros selecionados, os entrevistados serão selecionados através de cotas proporcionais de Sexo, Faixa Etária e Escolaridade de acordo com o perfil do eleitorado em estudo. Fonte de dados: TSE e TRE - DF, Julho de 2022 (https://sig.tse.jus.br/ords/dwapr/seai/r/sig-eleitor-eleitorado-mensal/grau-de-instrucao?session=13021918447839) e IBGE 2010 (https://cidades.ibge.gov.br/brasil/df/pesquisa/23/22787) para os dados da população. III) Tamanho da amostra: 800 entrevistas. IV) Ponderação: sendo 54,0% do sexo feminino e 46,0% do sexo masculino, sobre as estimativas das faixas etárias, sendo 14,0% de 16 a 24 anos, 21,0% de 25 a 34 anos, 23,0% de 35 a 44 anos, 25,0% de 45 a 59 anos e 17,0% de 60 e mais anos. Já a ponderação das variáveis: Grau de Instrução: 4,0% do somatório de analfabetos/lê e escreve, 18,0% ensino fundamental (somatório de incompleto e completo), 44,0% ensino médio (somatório de incompleto e completo), 34,0% Superior (somatório de completo e incompleto) Fonte de dados: TSE, julho de 2022 e Nível Econômico: 46,0% até R$ 1.212,00 (1 salário mínimo), 20,0% de R$ 1.212,01 até R$ 2.224,00 (De 1 a 2 salários mínimos), 15,0% de R$ 2.224,01 até R$ 6.060,00 (De 2 a 5 salários mínimos) e 19,0% acima de R$ 6.060,01 (Acima de 5 salários mínimos) (Fonte de dados IBGE 2010) (https://cidades.ibge.gov.br/brasil/df/pesquisa/23/22787) e tendo em vista que os fatores de ponderação para nível econômico não consta em base de dados recentes (2016, 2018 e 2020) no TSE e/ou TRE ¿ DF para esta variável poderá ser usado o fator ponderação é 1 (resultados obtidos em contatos telefônicos) caso haja diferença acima da margem de erro prevista no estudo entre a previsão da amostra com os dados do IBGE 2010 e os colhidos em contato telefônico. Para as variáveis de sexo, idade e grau de instrução, está previsto uma eventual ponderação, nos limites da margem de erro, para correção nos tamanhos das variáveis, caso ocorra uma diferença entre a previsão da amostra e a coleta dos dados realizados sobre a faixa de eleitores acima de 16 anos. V) Área física de realização da pesquisa: A amostra será feita sobre a cobertura geográfica do estado do Distrito Federal. VI) Intervalo de Confiança/Margem de Erro: O intervalo de confiança estimado é de 95,0% e a margem de erro máxima estimada é de 3,7 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra, não devendo considerar este Grau de Confiança e Margem de Erro para os resultados dentro de cada extrato e nem muito menos para os resultados gerados pelos cruzamentos de variáveis. Utilizando o cálculo amostral pela proporção [estimador = p e (1-p)]. Certificado Digital A1 SERIE: 4294838156B2A00D EMISSOR: AC CNDL RFB v3 Bruno Agra Ferreira CPF (02785658400).";"Para a realização da pesquisa utiliza-se uma equipe de entrevistadores e coordenadores de campo devidamente treinados para o trabalho da BRASMARKET. As entrevistas são por contato telefônico, feitas por meio de questionário estruturado, aplicando-se apenas um questionário por contato telefônico, respeitando as cotas pré-determinadas. Durante a realização dos trabalhos, os entrevistadores são submetidos a uma fiscalização permanente por parte dos coordenadores  e são realizadas checagem de 20% da amostra para atestar a realização das entrevistas e a fidedignidade dos dados apurados, garantindo-se dessa forma, o grau de precisão dos estimadores, em função dos parâmetros previamente estabelecidos.";"A área de abrangência da coleta é o Distrito Federal. A relação dos municípios e áreas selecionadas para a pesquisa constará em anexo a ser apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7o do art. 2o da Resolução-TSE no. 23.600/2019."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF048722022";"2022-09-20 21:40:56";"S";"00654576000172";"INSTITUTO VERITA LTDA";"VERITA";"Governador, Senador";"2022-09-21 00:00:00";"2022-09-25 00:00:00";"2022-09-26 00:00:00";1221;"10699";"Guilherme Alvarenga Laia";"47619,00";"Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.";"ESTUDO REPRESENTATIVO DO ELEITORADO DO DISTRITO FEDERAL - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão do Distrito Federal em estratos proporcionais de regiões administrativas. 2. Ordenação das regiões administrativas de cada estrato segundo o porte. 3. Sorteio das regiões administrativas de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 6,5%/ MASCULINO, 16 A 24 ANOS; 6% / FEMININO, 25 A 34 ANOS; 11% / MASCULINO, 25 A 34 ANOS; 10,1% /FEMININO, 35 A 44 ANOS; 12,7% / MASCULINO, 35 A 44 ANOS; 10,7% / FEMININO, 45 A 59 ANOS; 14,3%/ MASCULINO, 45 A 59 ANOS; 11,9% / FEMININO, 60 ANOS OU MAIS; 9,6%/ MASCULINO, 60 ANOS OU MAIS; 7,2%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 27,9%, MASCULINO Analfabeto até Ensino fundamental completo 30,6%, FEMININO Ensino Médio completo ou incompleto 32,6%, MASCULINO Ensino Médio completo ou incompleto 32,1%, FEMININO Ensino superior completo ou incompleto 39,5%, MASCULINO Ensino superior completo ou incompleto 37,3%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0% (População Não Economicamente Ativa), FEMININO PEA 65,0% (População Economicamente Ativa), MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% e RENDA DO ENTREVISTADO: aferido no padrão de todos os levantamentos censitários de renda Domiciliar/Familiar, BASEADA EM LEVANTAMENTOS ANTERIORES ESPERA-SE NÚMEROS PRÓXIMOS 46% até 2 salários-mínimos, 25% de 2 a 5 salários-mínimos e 29% acima de 5 salários-mínimos ¿ (O Nível Econômico com as proporções corretas de POPULAÇÃO ECONOMICAMENTE ATIVA E POPULAÇÃO NÃO ECONOMICAMENTE ATIVA garante uma amostragem PROPORCIONAL, garante não entrevistar proporção maior de Donas de casa Não PEA, Aposentados Não PEA, Estudantes Não PEA, Desempregado que Não procura emprego Não PEA ou Vive de Rendas Não PEA. A aferição dos rendimentos do Núcleo Familiar, ¿forma correta de colher a informação da renda¿ evita erros, por exemplo de duas pessoas que se declarem DO LAR, sem rendimento próprio, porém uma com renda familiar de Classe A e outra com renda Familiar da Classe E, da mesma forma dois estudantes que não tem rendimentos próprios e um faz parte de um núcleo familiar de baixa renda e outro de alta renda).
+Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: IBGE/Censo 2010 para fins de densidade demográfica, setores censitários e alocação da amostra. IBGE/PNAD/PNADC/MEC/INEP para fins de Nível Econômico e Escolaridade. TSE MAIO/2022 para fins de Sexo, Faixa Etária e eleitorado por município ou regiões previamente definidas (importante ressaltar para o público leigo que os dados do TSE são os únicos corretos para gênero, idade dos eleitores e quantitativo de eleitores por municípios já que a base de dados se atualiza automaticamente, PORÉM, dados de escolaridade e nível econômico NÃO são corretos e confiáveis devido a desatualização que ocorre naturalmente com o passar dos anos).
+";"Após os trabalhos de coleta de dados, os questionários são submetidos a uma fiscalização, conferência e checagem de cerca de 20% (vinte por cento) dos questionários aplicados.";"A relação dos municípios sorteados ou selecionados para esta pesquisa será apresentada em arquivo anexo até 1 (um) dia após a divulgação desta pesquisa conforme §7º. do art. 2º. da Resolução-TSE nº. 23.600/2019. A área de abrangência desta pesquisa é o Distrito Federal."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF089332022";"2022-08-27 21:27:04";"S";"00654576000172";"INSTITUTO VERITA LTDA";"VERITA";"Governador, Senador";"2022-08-27 00:00:00";"2022-08-30 00:00:00";"2022-09-02 00:00:00";1221;"10699";"Guilherme Alvarenga Laia";"47619,00";"Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.";"ESTUDO REPRESENTATIVO DO ELEITORADO DO DISTRITO FEDERAL - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão do Distrito Federal em estratos proporcionais de regiões administrativas. 2. Ordenação das regiões administrativas de cada estrato segundo o porte. 3. Sorteio das regiões administrativas de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 6,5%/ MASCULINO, 16 A 24 ANOS; 6% / FEMININO, 25 A 34 ANOS; 11% / MASCULINO, 25 A 34 ANOS; 10,1% /FEMININO, 35 A 44 ANOS; 12,7% / MASCULINO, 35 A 44 ANOS; 10,7% / FEMININO, 45 A 59 ANOS; 14,3%/ MASCULINO, 45 A 59 ANOS; 11,9% / FEMININO, 60 ANOS OU MAIS; 9,6%/ MASCULINO, 60 ANOS OU MAIS; 7,2%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 27,9%, MASCULINO Analfabeto até Ensino fundamental completo 30,6%, FEMININO Ensino Médio completo ou incompleto 32,6%, MASCULINO Ensino Médio completo ou incompleto 32,1%, FEMININO Ensino superior completo ou incompleto 39,5%, MASCULINO Ensino superior completo ou incompleto 37,3%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0%, FEMININO PEA 65,0%, MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% - Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010, PNAD 2019, TSE 2022, dentre outras.";"Após os trabalhos de coleta de dados, os questionários são submetidos a uma fiscalização, conferência e checagem de cerca de 20% (vinte por cento) dos questionários aplicados.";"A partir do dia em que a pesquisa puder ser divulgada e até o dia seguinte, o registro deverá ser complementado, sob pena de ser a pesquisa considerada não registrada; na ausência de delimitação do bairro, será identificada a área em que foi realizada."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF082292022";"2022-09-24 21:24:10";"S";"00654576000172";"INSTITUTO VERITA LTDA";"VERITA";"Governador, Senador";"2022-09-25 00:00:00";"2022-09-29 00:00:00";"2022-09-30 00:00:00";1221;"10699";"Guilherme Alvarenga Laia";"47619,00";"Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.";"ESTUDO REPRESENTATIVO DO ELEITORADO DO ESTADO DO DISTRITO FEDERAL - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão do Distrito Federal em estratos proporcionais de regiões administrativas. 2. Ordenação das regiões administrativas de cada estrato segundo o porte. 3. Sorteio das regiões administrativas de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 6,5%/ MASCULINO, 16 A 24 ANOS; 6% / FEMININO, 25 A 34 ANOS; 11% / MASCULINO, 25 A 34 ANOS; 10,1% /FEMININO, 35 A 44 ANOS; 12,7% / MASCULINO, 35 A 44 ANOS; 10,7% / FEMININO, 45 A 59 ANOS; 14,3%/ MASCULINO, 45 A 59 ANOS; 11,9% / FEMININO, 60 ANOS OU MAIS; 9,6%/ MASCULINO, 60 ANOS OU MAIS; 7,2%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 27,9%, MASCULINO Analfabeto até Ensino fundamental completo 30,6%, FEMININO Ensino Médio completo ou incompleto 32,6%, MASCULINO Ensino Médio completo ou incompleto 32,1%, FEMININO Ensino superior completo ou incompleto 39,5%, MASCULINO Ensino superior completo ou incompleto 37,3%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0% (População Não Economicamente Ativa), FEMININO PEA 65,0% (População Economicamente Ativa), MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% e RENDA DO ENTREVISTADO: aferido no padrão de todos os levantamentos censitários de renda Domiciliar/Familiar, BASEADA EM LEVANTAMENTOS ANTERIORES ESPERA-SE NÚMEROS PRÓXIMOS 46% até 2 salários-mínimos, 25% de 2 a 5 salários-mínimos e 29% acima de 5 salários-mínimos ¿ (O Nível Econômico com as proporções corretas de POPULAÇÃO ECONOMICAMENTE ATIVA E POPULAÇÃO NÃO ECONOMICAMENTE ATIVA garante uma amostragem PROPORCIONAL, garante não entrevistar proporção maior de Donas de casa Não PEA, Aposentados Não PEA, Estudantes Não PEA, Desempregado que Não procura emprego Não PEA ou Vive de Rendas Não PEA. A aferição dos rendimentos do Núcleo Familiar, ¿forma correta de colher a informação da renda¿ evita erros, por exemplo de duas pessoas que se declarem DO LAR, sem rendimento próprio, porém uma com renda familiar de Classe A e outra com renda Familiar da Classe E, da mesma forma dois estudantes que não tem rendimentos próprios e um faz parte de um núcleo familiar de baixa renda e outro de alta renda).
+Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: IBGE/Censo 2010 para fins de densidade demográfica, setores censitários e alocação da amostra. IBGE/PNAD/PNADC/MEC/INEP para fins de Nível Econômico e Escolaridade. TSE MAIO/2022 para fins de Sexo, Faixa Etária e eleitorado por município ou regiões previamente definidas (importante ressaltar para o público leigo que os dados do TSE são os únicos corretos para gênero, idade dos eleitores e quantitativo de eleitores por municípios já que a base de dados se atualiza automaticamente, PORÉM, dados de escolaridade e nível econômico NÃO são corretos e confiáveis devido a desatualização que ocorre naturalmente com o passar dos anos).
+";"ESTUDO REPRESENTATIVO DO ELEITORADO DO ESTADO DO DISTRITO FEDERAL - MÉTODO PPT (Probabilidade Proporcional ao Tamanho) - PLANO AMOSTRAL E PONDERAÇÃO QUANTO A SEXO, IDADE, GRAU DE INSTRUÇÃO E NÍVEL ECONÔMICO DO ENTREVISTADO; INTERVALO DE CONFIANÇA E MARGEM DE ERRO: Representativo do eleitorado da área em estudo, elaborada, em vários estágios, da seguinte forma: - 1. Divisão do Distrito Federal em estratos proporcionais de regiões administrativas. 2. Ordenação das regiões administrativas de cada estrato segundo o porte. 3. Sorteio das regiões administrativas de cada estrato. 4. Os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber:- IDADE: FEMININO, 16 A 24 ANOS; 6,5%/ MASCULINO, 16 A 24 ANOS; 6% / FEMININO, 25 A 34 ANOS; 11% / MASCULINO, 25 A 34 ANOS; 10,1% /FEMININO, 35 A 44 ANOS; 12,7% / MASCULINO, 35 A 44 ANOS; 10,7% / FEMININO, 45 A 59 ANOS; 14,3%/ MASCULINO, 45 A 59 ANOS; 11,9% / FEMININO, 60 ANOS OU MAIS; 9,6%/ MASCULINO, 60 ANOS OU MAIS; 7,2%- GRAU DE INSTRUÇÃO: FEMININO Analfabeto até Ensino fundamental completo 27,9%, MASCULINO Analfabeto até Ensino fundamental completo 30,6%, FEMININO Ensino Médio completo ou incompleto 32,6%, MASCULINO Ensino Médio completo ou incompleto 32,1%, FEMININO Ensino superior completo ou incompleto 39,5%, MASCULINO Ensino superior completo ou incompleto 37,3%. - NÍVEL ECONÔMICO: FEMININO Não PEA 35,0% (População Não Economicamente Ativa), FEMININO PEA 65,0% (População Economicamente Ativa), MASCULINO Não PEA 21,0%, MASCULINO PEA 79,0% e RENDA DO ENTREVISTADO: aferido no padrão de todos os levantamentos censitários de renda Domiciliar/Familiar, BASEADA EM LEVANTAMENTOS ANTERIORES ESPERA-SE NÚMEROS PRÓXIMOS 46% até 2 salários-mínimos, 25% de 2 a 5 salários-mínimos e 29% acima de 5 salários-mínimos ¿ (O Nível Econômico com as proporções corretas de POPULAÇÃO ECONOMICAMENTE ATIVA E POPULAÇÃO NÃO ECONOMICAMENTE ATIVA garante uma amostragem PROPORCIONAL, garante não entrevistar proporção maior de Donas de casa Não PEA, Aposentados Não PEA, Estudantes Não PEA, Desempregado que Não procura emprego Não PEA ou Vive de Rendas Não PEA. A aferição dos rendimentos do Núcleo Familiar, ¿forma correta de colher a informação da renda¿ evita erros, por exemplo de duas pessoas que se declarem DO LAR, sem rendimento próprio, porém uma com renda familiar de Classe A e outra com renda Familiar da Classe E, da mesma forma dois estudantes que não tem rendimentos próprios e um faz parte de um núcleo familiar de baixa renda e outro de alta renda).
+Está prevista eventual ponderação para correção das variáveis, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a margem de erro da pesquisa previsto entre a amostra e a coleta de dados realizada. O fator previsto para ponderação é 1 (resultados obtidos na coleta de dados). O intervalo de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 3,0 pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: IBGE/Censo 2010 para fins de densidade demográfica, setores censitários e alocação da amostra. IBGE/PNAD/PNADC/MEC/INEP para fins de Nível Econômico e Escolaridade. TSE MAIO/2022 para fins de Sexo, Faixa Etária e eleitorado por município ou regiões previamente definidas (importante ressaltar para o público leigo que os dados do TSE são os únicos corretos para gênero, idade dos eleitores e quantitativo de eleitores por municípios já que a base de dados se atualiza automaticamente, PORÉM, dados de escolaridade e nível econômico NÃO são corretos e confiáveis devido a desatualização que ocorre naturalmente com o passar dos anos).
+";"A relação dos municípios sorteados ou selecionados para esta pesquisa será apresentada em arquivo anexo até 1 (um) dia após a divulgação desta pesquisa conforme §7º. do art. 2º. da Resolução-TSE nº. 23.600/2019. A área de abrangência desta pesquisa é o Distrito Federal."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF091712022";"2022-06-05 16:44:19";"S";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-06-06 00:00:00";"2022-06-10 00:00:00";"2022-06-11 00:00:00";1540;"10245 - 4ª Região";"Tatiani Cristina Ara";"35000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.
+
+
+";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 46%;
+Feminino - 54% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 14%;
+Entre 25 e 34 anos: 21%;
+Entre 35 e 44 anos: 23%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 16% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 22%;
+Ensino médio incompleto ou completo: 44%
+Ensino superior incompleto ou completo: 34% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 27%
+Mais de 2 a 5 salários mínimos: 29%
+Mais de 5 salários mínimos: 44%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,5 (dois vírgula cinco pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Maio 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Distrito Federal, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF024592022";"2022-08-12 20:22:20";"S";"81908345000140";"INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA";"#NULO#";"Governador, Senador";"2022-08-13 00:00:00";"2022-08-17 00:00:00";"2022-08-18 00:00:00";1540;"10245 - 4ª Região";"Tatiani Cristina Ara";"30000,00";"Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.
+
+
+ ";"""A amostra será representativa do eleitorado da área pesquisada e será selecionada em três etapas. Na primeira etapa realiza-se um sorteio probabilístico dos municípios onde as entrevistas serão realizadas através do método PPT (Probabilidade Proporcional ao Tamanho), considerando a população eleitora com 16 anos ou mais residente nos municípios como base para essa seleção. Na segunda etapa, faz-se um sorteio probabilístico das localidades, onde as entrevistas serão realizadas, através do método PPT (Probabilidade Proporcional ao Tamanho), tomando a população eleitora de 16 anos ou mais residente nas localidades como base para essa seleção. Na terceira etapa, a seleção do entrevistado dentro da localidade, será feita utilizando-se quotas amostrais proporcionais, em função das seguintes variáveis:
+GÊNERO:
+Masculino - 46%;
+Feminino - 54% |
+FAIXA ETÁRIA:
+Entre 16 e 24 anos: 14%;
+Entre 25 e 34 anos: 20%;
+Entre 35 e 44 anos: 23%;
+Entre 45 e 59 anos: 26%;
+Com 60 anos ou mais: 17% |
+ESCOLARIDADE:
+De analfabeto até ensino fundamental completo: 22%;
+Ensino médio incompleto ou completo: 44%
+Ensino superior incompleto ou completo: 34% |
+RENDA DOMICILIAR MENSAL:
+Sem rendimentos até 2 salários mínimos: 27%
+Mais de 2 a 5 salários mínimos: 29%
+Mais de 5 salários mínimos: 44%
+Está prevista eventual ponderação para correção das variáveis gênero e faixa etária, com base nos percentuais acima apresentados, caso ocorram diferenças superiores a 3,0 (três) pontos percentuais entre o previsto na amostra e a coleta realizada, para as variáveis escolaridade e  renda domiciliar mensal, o fator de ponderação é igual a 1, (resultados obtidos no campo). O nível de confiança estimado é de 95% (noventa e cinco por cento) para uma margem de erro estimada, considerando uma técnica de amostragem aleatória simples, de aproximadamente 2,5 (dois vírgula cinco) pontos percentuais para mais ou para menos sobre os resultados obtidos. Fonte de Dados: IBGE Censo 2010 e TSE - Julho 2022.""
+
+
+
+
+
+";"As entrevistas serão realizadas por uma equipe de entrevistadores e supervisores devidamente qualificada pelo Instituto Paraná Pesquisas, com experiência e treinamento em pesquisas de opinião pública. No decorrer do trabalho de coleta de dados, os questionários aplicados, serão auditados em no mínimo 20% (vinte por cento) para verificação quanto ao cuidado na sua aplicação, bem como a adequação do entrevistado às variáveis das quotas amostrais.
+
+
+
+
+
+";" ""A pesquisa será realizada no Distrito Federal, a relação dos municípios  selecionados para a pesquisa será apresentado até o dia seguinte à data a partir da qual a pesquisa puder ser divulgada, conforme §7º do art. 2º da Resolução-TSE nº. 23.600/2019""
+
+
+
+
+
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF091322022";"2022-09-21 19:11:01";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-09-21 00:00:00";"2022-09-27 00:00:00";"2022-09-27 00:00:00";1504;"6208-A";"MARCIA CAVALLARI NUNES";"117132,17";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: GENERO: Masculino (46%), Feminino (54%); IDADE: 16-24 (masculino) 19% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 23%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF032352022";"2022-08-24 19:17:58";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-24 00:00:00";"2022-08-30 00:00:00";"2022-08-30 00:00:00";1200;"6208-A";"MARCIA CAVALLARI NUNES";"93456,52";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 19% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 22%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF074092022";"2022-09-23 15:58:25";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-09-20 00:00:00";"2022-09-23 00:00:00";"2022-09-29 00:00:00";3000;"7278";"HERCULES CAPIBARIBE JUNIOR";"35000,00";"METODOLOGIA SURVEY COM COLETA RESIDENCIAL FACE A FACE";"MARGEM DE ERR 1,8 %   INTERVALO DE CONFIANÇA DE 95%
+SEXO PORC%
+MASCULINO ¿ 47%
+FEMININO ¿ 53%
+PAIXA ETÁRIA	PORC%
+DE 16 A 26 ANOS	17%
+DE 27 A 37 ANOS	19%
+DE 38 A 48 ANOS	21%
+DE 49 A 59 ANOS	22%
+MAIS DE 60 ANOS	21%
+CLASSE SOCIAL	PORC%
+A	6%
+B	16%
+C	19%
+D	34%
+E	27%
+ESCOLARIDADE	PORC%
+ALFABETIZADO	1%
+ANALFABETO	5%
+ENSINO FUNDAMENTAL	17%
+ENSINO MÉDIO	41%
+SUPERIOR	36%
+";"CHECAGEM DE 100% DA AMOSTRA COM COLETA GEORREFENCIADA. VIA TABLET ON LINE E FISCALIZAÇÃO DE 30% DA AMOSTRA PARA VALIDAÇÃO";"LOCALIDADES
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - PÔR DO SOL E SOL NASCENTE
+CEILÂNDIA - SETOR O
+CEILÂNDIA SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - ARAPOANGAS
+PLANALTINA - BURITIS
+PLANALTINA - MESTRE D'ARMAS
+PLANALTINA - SETOR TRADICIONAL
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA - PORTO RICO
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - NORTE E SUL
+TAGUATINGA - QNL E QNM (M NORTE)
+VICENTE PIRES
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF013652022";"2022-06-07 19:09:18";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador";"2022-06-02 00:00:00";"2022-06-06 00:00:00";"2022-06-13 00:00:00";1500;"7278";"HERCULES CAPIBERIBE JUNIOR";"31000,00";"METODOLOGIA SURVEY DE CARÁTER EXPLORATÓRIO COM COLETA PRESENCIAL FACE A FACE";"MARGEM DE ERRO DE 3% E INTERVALO DE CONFIAÇA DE 95%
+PONDERAÇÃO POR SEXO	PORC%
+FEMININO	53%
+MASCULINO	47%
+Total Geral	100%
+
+PONDERAÇÃO POR SEXO	PORC%
+DE 16 A 26 ANOS	15%
+DE 27 A 37 ANOS	25%
+DE 38 A 48 ANOS	26%
+DE 49 A 59 ANOS	20%
+MAIS DE 60 ANOS	14%
+Total Geral	100%
+
+PONDERAÇÃO POR CLASSE SOCIAL	PORC%
+A	3%
+B	19%
+C	25%
+D	35%
+E	18%
+Total Geral	100%
+
+PONDERAÇÃO POR ESCOLARIDADE	PORC%
+ALFABETIZADO	2%
+ENSINO FUNDAMENTAL	13%
+ENSINO MÉDIO	48%
+SUPERIOR	38%
+Total Geral	100%
+";"SISTEMA DE VERIFICAÇÃO POR GEORREFERENCIAMENTO. COLETA COM TABLET ON LINE - CHECAGEM DE 100% E FISCALIAÇÃO DE 20% DA AMOSTRA";"ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+CEILÂNDIA
+GAMA
+GUARÁ
+PARANOÁ
+PLANALTINA
+RECANTO DAS EMAS
+RIACHO FUNDO I
+SAMAMBAIA
+SANTA MARIA
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+TAGUATINGA
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF021252022";"2022-08-05 17:42:56";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-08-01 00:00:00";"2022-08-05 00:00:00";"2022-08-11 00:00:00";4365;"7278";"HERCULES CAPIBARIBE JUNIOR";"65000,00";"METODOLOGIA SURVEY COM COLETA FACE A FACE RESIDENCIAL";"MARGEMSEXO	PORC%
+FEMININO	54%
+MASCULINO	46%
+FAIXA ETÁRIA	PORC%
+DE 16 A 26 ANOS	18%
+DE 27 A 37 ANOS	19%
+DE 38 A 48 ANOS	23%
+DE 49 A 59 ANOS	22%
+MAIS DE 60 ANOS	17%
+CLASSE SOCIAL	PORC%
+A	3%
+B	12%
+C	25%
+D	34%
+E	26%
+ESCOLARIDADE	PORC%
+ALFABETIZADO	5%
+ANALFABETO	1%
+ENSINO FUNDAMENTAL	15%
+ENSINO MÉDIO	42%
+SUPERIOR	37%
+ DE ERRO DE 1,5% E INTERVALO DE CONFIANÇA DE 97%";"COLETA REALIZADA POR TABELT COM GEORREFERENCIAMENTO ON LINE E CHECAGEM DE 100% DA COLETA. FISCALIZAÇÃO DE 30% DA AMOSTRA";"LOCALIDADES - AMOSTRA
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - SETOR O
+CEILÂNDIA SUL
+ESTRUTURAL
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+ITAPOÃ
+JARDIM BOTÂNICO
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - ARAPOANGA
+PLANALTINA - BURITIS
+PLANALTINA - MESTRE D'ARMAS
+PLANALTINA - SETOR TRADICIONAL
+PÔR DO SOL e SOL NASCENTE
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA - PORTO RICO
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - NORTE e SUL
+TAGUATINGA - QNL e QNM (M NORTE)
+VICENTE PIRES
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF094122022";"2022-08-09 14:44:17";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador";"2022-08-11 00:00:00";"2022-08-13 00:00:00";"2022-08-15 00:00:00";1440;"7278";"HERCULES CAPIBARIBE JUNIOR";"20000,00";"METODOLOGIA SURVEY COM COLETA FACE A FACE RESIDENCIAL";"MARGEM DE ERRO 3% INTERVALO DE CONFIANÇA 95%
+SEXO
+MASCULINO 47%
+FEMININO 53%
+
+FAIXA ETÁRIA
+15 A 26 ANOS 10%
+37 A 47 ANOS 22%
+48 A 58 ANOS 25%
+59 A 60 ANOS 24 %
+MAIS DE 60 ANOS 19 %
+
+CLASSE SOCIAL
+B 15%
+C 25%
+D 30 %
+E 40%
+
+ESCOLARIDADE
+ANALFABENTO 3%
+ALFABETIZADO 15%
+ENSINO FUNDAMENTAL 28%
+ENSINO MÉDIO 34%
+ENSINO SUPERIOR 20%
+";"SISTEMA DE CHECAGEM E VERIFICAÇÃO ON LINE EM 100% DA AMOSTRA COLETA VIA TABLET ON LINE COM GEORREFERENCIAMENTO";"ASA SUL
+ASA NORTE
+SUDOESTE
+CEILÂNDIA-PRIVÊ
+CEILÂNDIA-P NORTE
+CEILÂNDIA-SETOR O
+CEILÂNDIA SUL
+CEILÂNDIA-P SUL
+POR DO SOL E SOL NASCENTE
+BRAZLÂNDIA
+SANTA MARIA NORTE
+SANTA MARIA SUL
+PORTO RICO
+PARANOÁ
+ITAPOÃ
+TAGUATINGA - NORTE SUL
+TAGUATINGA - QNQ E QNM
+VICENTE PIRES
+NÚCLEO BANDEIRANTE
+RIACHO FUNDO I
+RIACHO FUNCO II
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SAMAMBAIA EXPA
+ÁGUAS CLARAS
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+RECANTO DAS EMAS
+LAGO SUL
+SÃO SEBASTIÃO
+SOBRADINHO 1
+SOBRADINHO 2
+PLANALTINA BURUITIS
+PLANALTINA MESTRE DARMAS
+PLANALTINA TRADICIONAL
+PLANALTINA ARAPOANGAS
+ESTRUTURAL
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF067322022";"2022-09-12 18:43:10";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador, Deputado Federal, Deputado Distrital";"2022-09-12 00:00:00";"2022-09-15 00:00:00";"2022-09-18 00:00:00";3000;"7278";"HERCULES CAPIBARIBE JUNIOR";"39500,00";"METODOLOGIA SURVEY COM COLETA FACE A FACE RESIDENCIAL AMOSTRA AUTO-PONDERADA";"MARGERM DE ERRO 1,8%   INTERVALO DE CONFIANÇA DE 97%
+
+SEXO            PORC%
+MASCULINO ¿ 47%
+FEMININO ¿ 53%
+PAIXA ETÁRIA	PORC%
+DE 16 A 26 ANOS	17%
+DE 27 A 37 ANOS	19%
+DE 38 A 48 ANOS	21%
+DE 49 A 59 ANOS	22%
+MAIS DE 60 ANOS	21%
+CLASSE SOCIAL	PORC%
+A	6%
+B	16%
+C	19%
+D	34%
+E	27%
+ESCOLARIDADE	PORC%
+ALFABETIZADO	1%
+ANALFABETO	5%
+ENSINO FUNDAMENTAL	17%
+ENSINO MÉDIO	41%
+SUPERIOR	36%
+";"SISTEMA DE CONTROLE DE CHECAGEM DE 100% DA AMOSTRA COM GEORREFENCIAMENTO E FISCALIZAÇÃO DE 30% DA AMOSTRA";"LOCALIDADES
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - PÔR DO SOL E SOL NASCENTE
+CEILÂNDIA - SETOR O
+CEILÂNDIA SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - ARAPOANGAS
+PLANALTINA - BURITIS
+PLANALTINA - MESTRE D'ARMAS
+PLANALTINA - SETOR TRADICIONAL
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA - PORTO RICO
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - NORTE E SUL
+TAGUATINGA - QNL E QNM (M NORTE)
+VICENTE PIRES
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF090272022";"2022-09-25 14:36:33";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-09-25 00:00:00";"2022-10-01 00:00:00";"2022-10-01 00:00:00";2000;"6208-A";"MARCIA CAVALLARI NUNES";"155760,86";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: GENERO: Masculino (46%), Feminino (54%); IDADE: 16-24 (masculino) 18% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 23%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 02 (DOIS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. Considerando que a pesquisa contém questões sobre o cargo de presidente, também está registrada perante o TSE. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE.
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF081762022";"2022-09-15 19:20:58";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-09-15 00:00:00";"2022-09-21 00:00:00";"2022-09-21 00:00:00";1504;"6208-A";"MARCIA CAVALLARI NUNES";"117132,17";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: GENERO: Masculino (46%), Feminino (54%); IDADE: 16-24 (masculino) 19% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 23%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF040042022";"2022-09-23 16:12:07";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Senador";"2022-09-26 00:00:00";"2022-09-29 00:00:00";"2022-09-29 00:00:00";3000;"7278";"HERCULES CAPIBARIBE JUNIOR";"35000,00";"SURVEY COM COMLETA RESIDENCIAL FACE A FACE";"MARGEM DE ERRO 1,8%   INTERVALO DE CONFIANÇA DE 95%
+
+SEXO PORC%
+MASCULINO ¿ 47%
+FEMININO ¿ 53%
+PAIXA ETÁRIA	PORC%
+DE 16 A 26 ANOS	17%
+DE 27 A 37 ANOS	19%
+DE 38 A 48 ANOS	21%
+DE 49 A 59 ANOS	22%
+MAIS DE 60 ANOS	21%
+CLASSE SOCIAL	PORC%
+A	6%
+B	16%
+C	19%
+D	34%
+E	27%
+ESCOLARIDADE	PORC%
+ALFABETIZADO	1%
+ANALFABETO	5%
+ENSINO FUNDAMENTAL	17%
+ENSINO MÉDIO	41%
+SUPERIOR	36%
+
+";"CHECAGEM DE 100% DA AMOSTRA COM COLETA VIA TABLET ON LINE GEORREFERENCIADA. FISCALIZAÇÃO DE 30% DA AMOSTRA PARA VALIDAÇÃO";"LOCALIDADES
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA - CONDOMÍNIO PRIVÊ
+CEILÂNDIA - P NORTE
+CEILÂNDIA - P SUL
+CEILÂNDIA - PÔR DO SOL E SOL NASCENTE
+CEILÂNDIA - SETOR O
+CEILÂNDIA SUL
+CRUZEIRO
+ESTRUTURAL
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+ITAPOÃ
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA - ARAPOANGAS
+PLANALTINA - BURITIS
+PLANALTINA - MESTRE D'ARMAS
+PLANALTINA - SETOR TRADICIONAL
+RECANTO DAS EMAS
+RIACHO FUNDO I
+RIACHO FUNDO II
+SAMAMBAIA EXPANSÃO
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA - PORTO RICO
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO I
+SOBRADINHO II
+SUDOESTE
+TAGUATINGA - NORTE E SUL
+TAGUATINGA - QNL E QNM (M NORTE)
+VICENTE PIRES
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF029832022";"2022-03-10 00:00:00";"S";"03303870000128";"EXATA OP OPINIAO PUBLICA LTDA";"#NULO#";"Governador, Deputado Federal";"2022-03-09 00:00:00";"2022-03-12 00:00:00";"2022-03-16 00:00:00";1200;"7278";"HERCULES CAPIBERIBE JUNIOR";"24000,00";"SURVEY-AUTO PONDERADA - seleção da amostra foi feita através de sorteio aleatório por área de referência. Coleta face a face residencial via tablet on line e georreferenciamento.";"SEXO	PORC%
+FEMININO	53%
+MASCULINO	47%
+Total Geral	100%
+IDADE	PORC%
+DE 16 A 26 ANOS	17%
+DE 27 A 37 ANOS	19%
+DE 38 A 48 ANOS	22%
+DE 49 A 59 ANOS	23%
+MAIS DE 60 ANOS	19%
+Total Geral	100%
+CLASSE SOCIAL(RENDA)	PORC%
+A	3%
+B	10%
+C	25%
+D	40%
+E	22%
+Total Geral	100%
+GRAU DE INSTRUÇÃO	PORC%
+ANALFABETO	1%
+ALFABETIZADO	10%
+ENSINO FUNDAMENTAL	25%
+ENSINO MÉDIO	37%
+SUPERIOR	27%
+Total Geral	100%
+
+MARGEM DE ERRO: 2,7 PP
+INTERVALO DE CONFIANÇA : 95,4 PP";"Sistema de controlem checagem e fiscalização automático, on line. gravação de voz de 30% da amostra. fiscalização de 100% da amostra por georreferenciamento x tempo de entrevista. ";"LOCALIDADE
+ÁGUAS CLARAS
+ASA NORTE
+ASA SUL
+BRAZLÂNDIA
+CEILÂNDIA SUL
+CEILÂNDIA-P NORTE
+CEILÂNDIA-P SUL
+CEILÂNDIA-PRIVÊ
+CEILÂNDIA-SETOR O
+CRUZEIRO
+GAMA CENTRO
+GAMA LESTE
+GAMA SUL
+GUARÁ I
+GUARÁ II
+ITAPOÃ
+JARDIM BOTÂNICO
+LAGO NORTE
+LAGO SUL
+NÚCLEO BANDEIRANTE
+PARANOÁ
+PLANALTINA BURUITIS
+PLANALTINA MESTRE DARMAS
+PLANALTINA TRADICIONAL
+POR DO SOL E SOL NASCENTE
+PORTO RICO
+RECANTO DAS EMAS
+RIACHO FUNCO II
+RIACHO FUNDO I
+SAMAMBAIA EXPA
+SAMAMBAIA NORTE
+SAMAMBAIA SUL
+SANTA MARIA NORTE
+SANTA MARIA SUL
+SÃO SEBASTIÃO
+SOBRADINHO 1
+SOBRADINHO 2
+SUDOESTE
+TAGUATINGA - NORTE SUL
+TAGUATINGA - QNQ E QNM
+VICENTE PIRES
+"
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF020732022";"2022-08-31 18:42:04";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-31 00:00:00";"2022-09-06 00:00:00";"2022-09-06 00:00:00";1200;"6208-A";"MARCIA CAVALLARI NUNES";"93456,52";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: GENERO: Masculino (46%), Feminino (54%); IDADE: 16-24 (masculino) 19% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 22%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
+"26/10/2024";"05:32:50";2022;9;"Eleições Gerais 2022";"DF";"DF";"DISTRITO FEDERAL";"DF022512022";"2022-08-09 19:32:37";"N";"40735589000190";"INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA";"IPEC";"Governador, Senador";"2022-08-09 00:00:00";"2022-08-15 00:00:00";"2022-08-15 00:00:00";1200;"6208-A";"MARCIA CAVALLARI NUNES";"93456,52";"Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no DISTRITO FEDERAL.";"Representativo do eleitorado da área em estudo, elaborada em três estágios. No primeiro estágio faz-se um sorteio probabilístico dos municípios, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando o eleitorado como base para tal seleção. No segundo estágio faz-se um sorteio probabilístico dos setores censitários, onde as entrevistas serão realizadas, pelo método PPT (Probabilidade Proporcional ao Tamanho), tomando a população de 16 anos ou mais residente nos setores como base para tal seleção. No terceiro e último estágio, dentro dos setores sorteados, os respondentes são selecionados através de quotas amostrais proporcionais em função de variáveis significativas, a saber: IDADE: 16-24 (masculino) 19% (feminino) 15%; 25-34 (masculino) 22% (feminino) 21%; 35-44 (masculino) 20% (feminino) 22%; 45-59 (masculino) 26% (feminino) 27%; 60 e+ (masculino) 13% (feminino) 14%; INSTRUÇÃO: Até Ensino Médio (masculino) 57% (feminino) 55%; Ensino Superior (masculino) 43% (feminino) 45%; NÍVEL ECONÔMICO: Economicamente ativo (masculino) 69% (feminino) 52%; Não Economicamente ativo (masculino) 31% (feminino) 48%. Está prevista eventual ponderação para correção das variáveis sexo e idade, com base nos percentuais anteriormente mencionados, caso ocorram diferenças superiores a 3 pontos percentuais entre o previsto na amostra e a coleta de dados realizada. Para as variáveis de grau de instrução e nível econômico do entrevistado, o fator previsto para ponderação é 1 (resultados obtidos em campo). O nível de confiança estimado é de 95% e a margem de erro máxima estimada considerando um modelo de amostragem aleatório simples, é de 03 (TRÊS) pontos percentuais para mais ou para menos sobre os resultados encontrados no total da amostra. FONTE DOS DADOS: Censo 2010 | PNADC 2020 | TSE 2022.";"Para a realização da pesquisa, utiliza-se uma equipe de entrevistadores e supervisores contratados pelo INTELIGENCIA EM PESQUISA E CONSULTORIA LTDA. devidamente treinados para o trabalho. Após os trabalhos de campo, os questionários são submetidos a uma fiscalização de cerca de 20% (vinte por cento) dos questionários aplicados pelos entrevistadores; para verificação das respostas e da adequação dos entrevistados aos parâmetros amostrais.";"A área de abrangência da coleta é o DISTRITO FEDERAL. A relação das localidades selecionadas para aplicação da amostra será apresentada até o 7º dia seguinte ao registro da pesquisa, conforme expresso no art. 2º, §7º da Resolução 23.600/2019 do TSE."
