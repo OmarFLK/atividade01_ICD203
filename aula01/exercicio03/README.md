@@ -23,6 +23,9 @@ Este projeto, desenvolvido por Andrey Salomão Almeida e Omar Habdalah Halada Sa
 - Padronização de institutos e classificação resumida das metodologias.
 - Comparação histórica por erro assinado, erro absoluto, MAE e RMSE.
 - Análise por instituto, ano, distância até a eleição e tamanho da amostra.
+- Análise específica da AtlasIntel nos Estados Unidos e nos registros brasileiros do TSE.
+- Projeção exploratória do cenário brasileiro de 2026 com ajuste pelo viés histórico.
+- Simulação de primeiro turno e intervalo exploratório baseado no MAE histórico.
 - Ranking baseado na pesquisa mais próxima de cada eleição.
 - Gráficos comparativos e exportação das tabelas tratadas e finais.
 
@@ -38,5 +41,6 @@ Os datasets em CSV e ZIP fazem parte do repositório para permitir a reproduçã
 - O antigo endereço `president_polls_historical.csv` do FiveThirtyEight atualmente devolve uma página HTML, e não o CSV esperado. Por isso foi usado o `raw_polls.csv` oficial.
 - O registro do Europepolls no Zenodo está acessível, mas seus arquivos aparecem como restritos. Ele não foi usado nesta primeira versão.
 - A análise brasileira de 2026 ainda não pode ser tratada como previsão: a eleição não ocorreu e os percentuais dos candidatos precisam ser obtidos nos relatórios de cada pesquisa.
+- A projeção de 2026 usa somente o histórico da AtlasIntel nos Estados Unidos em 2020; portanto, serve para contextualização exploratória e não como previsão eleitoral.
 
 Essas lacunas são documentadas para que nenhum valor seja inventado ou apresentado como se viesse diretamente das bases.

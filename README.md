@@ -83,6 +83,8 @@ O terceiro exercício analisa **pesquisas eleitorais públicas** e compara as es
 * análise de valores ausentes, duplicatas, amostras, custos e metodologias;
 * cálculo do erro assinado, erro absoluto, MAE e RMSE;
 * comparação entre institutos, anos e distância até a eleição;
+* análise específica do desempenho histórico da AtlasIntel;
+* projeção exploratória do cenário de 2026, ajustada pelo viés histórico e acompanhada de intervalo baseado no MAE;
 * construção de tabelas e gráficos estatísticos;
 * geração das tabelas finais em `data/final`;
 * documentação das fontes, limitações e critérios da análise.
